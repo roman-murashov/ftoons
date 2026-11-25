@@ -29,7 +29,7 @@ You can export levels to `JSON`.
 
 1. **Debug build Windows** is a branch of my current development build. This includes several tabs in-game such as Resources, Graphics, Puzzles, Game Emulation, Head-2-head mode and Random Level generator. Puzzles tab was the main project scope: from here you can **"Place solution"** on a level and test how it works. "Game emulation" tab reflects the events in "Puzzles" tab.
 
-2. **Windows build.** This is a regular build for users. Launch it with Godot, import resources and play the original game on your Windows PC. You can play from Godot "Play" control or by launching `ftoons.exe` after resource import. If you provide correct ISO, you will enjoy CD music here. Use the editor to make custom levels and save them.
+2. **Windows build.** This is a regular build for users. Launch it, import resources and play the original game on your Windows PC. If you provide correct ISO, you will enjoy CD music here. Use the editor to make custom levels and save them.
 
 3. **Web build.** This is a web-ready build that can be accessed by github link. Currently game saves and level loading by URL are not implemented. You have to provide DOS files each time on load for the moment.
 
@@ -105,7 +105,7 @@ BLAKE2sp: 72ad63130a07aa9ba7bba3049f9419bbfa9703f3054386e140ec5336fa8658fb
 ### Optional Windows ISO with Intro videos and CD Music:
 
 <details>
-<summary>1. BIN</summary>
+<summary>1. BIN (choose it while importing)</summary>
 
 ```text
 Name: The Incredible Toon Machine.bin
@@ -137,7 +137,7 @@ BLAKE2sp: 78c88a111592e686e9e03247df12373482dcd2d9cae86c8d96529446c83c2595
 ### Optional Windows ISO with Intro videos and without CD Music (`MASQUE.iso`):
 
 <details>
-<summary>1. ISO.</summary>
+<summary>1. ISO</summary>
 
 ```text
 Имя: MASQUE.iso
