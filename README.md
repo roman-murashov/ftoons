@@ -146,7 +146,46 @@ CRC32: 8D4A28A8
 CRC64: 598D26751ACBE523
 SHA256: b06187bb223fbb15f9484496b06556f99912094059d5a6df444a68549023283c
 SHA1: 89b3a704869ca791290de8416c8bb8e7fdbeda03
+
+
+
 BLAKE2sp: 8945dcccd38f516b86496aa8a0c478e86a486cebe27175bdc455b3bb711971f0
 ```
 
 </details>
+
+
+## Development history (generated report)
+
+The project started on **October 12, 2026**,  we chose Godot and GDScript for the port. The first locally tested browser build followed on **November 21**, 40 days after the project began.
+
+### Development by the numbers
+
+| Metric | As of November 25, 2026 |
+|---|---:|
+| Development chats | 5 |
+| Messages sent by the developer | 563 |
+| Recorded Codex working time | 152 hours 35 minutes |
+| Total recorded token usage | Approximately 4.04 billion |
+
+Working time counts the elapsed time of Codex development turns, including tool runs and waits. Overlapping turns count once. Token usage includes cached input and breaks down to **3.14 billion** tokens in the development chats, **848 million** in subagents, and **48 million** in automated reviews. The figures exclude the separate chats used to prepare project statistics and README copy.
+
+### Tools built for the port
+
+| Tool | How we used it |
+|---|---|
+| [Live DOS Monitor](live_dos_monitor/README.md) | Read object records directly from a running DOSBox-X process and logged changes as a puzzle played. This let us follow characters and gadgets without interrupting the simulation. |
+| [Live Capture Controller](runtime/tools/capture_controller.py) | Sent debugger commands, set breakpoints, and captured registers and named memory regions. Saved snapshots let us revisit the same puzzle state while investigating a discrepancy. |
+| [DOS–Godot Comparison Runner](runtime_comparison/README.md) | Ran the same puzzle setup in DOS and Godot and compared state after each simulation update. It identified the first divergence in object behavior, sound requests, or goal completion. |
+| [Windows–Godot comparison tools](docs/HEAD_TO_HEAD_PORT.md) | Checked the port’s Head-to-head puzzle rules against goal logic recovered from the Windows MPC edition. Validation included **60,000 native goal comparisons** and **700 selected cases** checked again in GDScript. |
+
+### Models used
+
+**GPT-6.1 Sol, GPT-6 Luna, and GPT-6 Astra** accounted for the largest shares of token usage in the November 21 records with per-response model data. Across the available logs through November 25, the following model identifiers appear:
+
+| Family | Recorded variants |
+|---|---|
+| GPT-6.2 | Astra, Sol |
+| GPT-6.1 | Sol, Terra |
+| GPT-6 | Astra, Luna, Sol |
+| GPT-5.6 | Luna, Sol, Terra |
