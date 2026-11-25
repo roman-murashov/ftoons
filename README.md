@@ -186,14 +186,14 @@ The project started on **October 12, 2026**,  we chose Godot and GDScript for th
 
 Working time counts the elapsed time of Codex development turns, including tool runs and waits. Overlapping turns count once. Token usage includes cached input and breaks down to **3.14 billion** tokens in the development chats, **848 million** in subagents, and **48 million** in automated reviews. The figures exclude the separate chats used to prepare project statistics and README copy.
 
-### Tools built for the port
+### Tools built for the port (not included to repository)
 
 | Tool | How we used it |
 |---|---|
-| [Live DOS Monitor](live_dos_monitor/README.md) | Read object records directly from a running DOSBox-X process and logged changes as a puzzle played. This let us follow characters and gadgets without interrupting the simulation. |
-| [Live Capture Controller](runtime/tools/capture_controller.py) | Sent debugger commands, set breakpoints, and captured registers and named memory regions. Saved snapshots let us revisit the same puzzle state while investigating a discrepancy. |
-| [DOS–Godot Comparison Runner](runtime_comparison/README.md) | Ran the same puzzle setup in DOS and Godot and compared state after each simulation update. It identified the first divergence in object behavior, sound requests, or goal completion. |
-| [Windows–Godot comparison tools](docs/HEAD_TO_HEAD_PORT.md) | Checked the port’s Head-to-head puzzle rules against goal logic recovered from the Windows MPC edition. Validation included **60,000 native goal comparisons** and **700 selected cases** checked again in GDScript. |
+| Live DOS Monitor | Read object records directly from a running DOSBox-X process and logged changes as a puzzle played. This let us follow characters and gadgets without interrupting the simulation. |
+| Live Capture Controller | Sent debugger commands, set breakpoints, and captured registers and named memory regions. Saved snapshots let us revisit the same puzzle state while investigating a discrepancy. |
+| DOS–Godot Comparison Runner | Ran the same puzzle setup in DOS and Godot and compared state after each simulation update. It identified the first divergence in object behavior, sound requests, or goal completion. |
+| Windows–Godot comparison tools | Checked the port’s Head-to-head puzzle rules against goal logic recovered from the Windows MPC edition. Validation included **60,000 native goal comparisons** and **700 selected cases** checked again in GDScript. |
 
 ### Models used
 
