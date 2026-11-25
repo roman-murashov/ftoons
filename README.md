@@ -20,7 +20,7 @@ The gameplay is identical. All collisions and physics interactions work as inten
 You are able to switch between DOS/Windows graphics and music if you import both DOS and Windows versions of the game.
 
 <p align="center">
-    <img src="web_preview.png" width="410" alt="ftoons web preview">
+    <img src="switch_dos_win_sprites.gif" width="530" alt="ftoons graphics switch">
 </p>
 
 You can export levels to `JSON`.
