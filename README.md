@@ -19,6 +19,10 @@ The gameplay is identical. All collisions and physics interactions work as inten
 
 You are able to switch between DOS/Windows graphics and music if you import both DOS and Windows versions of the game.
 
+<p align="center">
+    <img src="web_preview.png" width="410" alt="ftoons web preview">
+</p>
+
 You can export levels to `JSON`.
 
 > **TODO:** Web version allows to provide URL to Github repos with your custom levels, so feel free to create level packs and share among friends.
