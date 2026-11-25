@@ -29,10 +29,21 @@ You can export levels to `JSON`.
 
 1. **Debug build Windows** is a branch of my current development build. This includes several tabs in-game such as Resources, Graphics, Puzzles, Game Emulation, Head-2-head mode and Random Level generator. Puzzles tab was the main project scope: from here you can **"Place solution"** on a level and test how it works. "Game emulation" tab reflects the events in "Puzzles" tab.
 
-2. **Windows build.** This is a regular build for users. Launch it, import resources and play the original game on your Windows PC. If you provide correct ISO, you will enjoy CD music here. Use the editor to make custom levels and save them.
+<p align="center">
+    <img src="debug_preview.png" width="820" alt="ftoons debug preview">
+</p>
 
-3. **Web build.** This is a web-ready build that can be accessed by github link. Currently game saves and level loading by URL are not implemented. You have to provide DOS files once (choose ADL.DRV, TOONS.EXE and RESOUCE.001 manually or supply ZIP). [Play here!](https://rawcdn.githack.com/roman-murashov/ftoons/cf84dc4d7527ac0093b61781e3d97c8663dab0c8/ftoons_web/index.html)
+3. **Windows build.** This is a regular build for users. Launch it, import resources and play the original game on your Windows PC. If you provide correct ISO, you will enjoy CD music here. Use the editor to make custom levels and save them.
 
+<p align="center">
+    <img src="win_preview.png" width="820" alt="ftoons windows preview">
+</p>
+
+4. **Web build.** This is a web-ready build that can be accessed by github link. Currently level loading by URL is not implemented. You have to provide DOS files once (choose ADL.DRV, TOONS.EXE and RESOUCE.001 manually or supply ZIP). [Play here!](https://rawcdn.githack.com/roman-murashov/ftoons/cf84dc4d7527ac0093b61781e3d97c8663dab0c8/ftoons_web/index.html)
+
+<p align="center">
+    <img src="web_preview.png" width="820" alt="ftoons web preview">
+</p>
 
 ## Q: How did you create this project?
 
