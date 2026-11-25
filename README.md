@@ -45,14 +45,21 @@ I wanted to see how people will express themselves in building Goldberg machines
 
 ## Q: Do you make money from it?
 
-Absolutely not. Original game rights belong to the creators and IP holders. I am not accepting donations in any form. For using this project you have to own a legal project copy.
+Absolutely not. Original game rights belong to the creators and IP holders. I am not accepting donations in any form. For using this project you have to own a legal game copy.
 
 ## Q: How to launch the project?
+
+If you downloaded Debug Windows files:
 
 1. Download **Godot 4.7** and import project (<kbd>Ctrl+I</kbd>).
 2. In Godot Run project (<kbd>F5</kbd>).
 3. Project will ask you to import game files. Provide mandatory DOS files for minimal gameplay. If you provide Windows version ISO you'll have additional 50 puzzles in **"Home Toons"**.
 
+If you downloaded Windows Production files of Web version:
+
+1. Unpack ZIP.
+2. Launch ftoons.exe (index.html for web version)
+3. Provide game files.
 
 ### Mandatory DOS files (`Sid__Als_Incredible_Toons_1993.zip`):
 
