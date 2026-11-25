@@ -31,7 +31,8 @@ You can export levels to `JSON`.
 
 2. **Windows build.** This is a regular build for users. Launch it, import resources and play the original game on your Windows PC. If you provide correct ISO, you will enjoy CD music here. Use the editor to make custom levels and save them.
 
-3. **Web build.** This is a web-ready build that can be accessed by github link. Currently game saves and level loading by URL are not implemented. You have to provide DOS files each time on load for the moment.
+3. **Web build.** This is a web-ready build that can be accessed by github link. Currently game saves and level loading by URL are not implemented. You have to provide DOS files once (choose ADL.DRV, TOONS.EXE and RESOUCE.001 manually or supply ZIP). [Play here!](https://rawcdn.githack.com/roman-murashov/ftoons/cf84dc4d7527ac0093b61781e3d97c8663dab0c8/ftoons_web/index.html)
+
 
 ## Q: How did you create this project?
 
