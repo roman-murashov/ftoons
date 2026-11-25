@@ -1,0 +1,12 @@
+{
+  "compiler_sha256": "d408dd38eed3e5204af841bcebf70502a4dbbb8399a3a3262be55059370bc018",
+  "upstream_source_sha256": "f25fd1ad953c2f6a8ba4030d0ae583dfb76b5e6b3212e36b24d712ae63635f07",
+  "upstream_header_sha256": "63985cee9a04d77a7b9bcde35d77b931c0a7558019655632ab6df213453d0159",
+  "generated_source_sha256": "cb3fb647c5133b85b66851af9599acf26736fcd802f1323dce593a801bd47de6",
+  "adapter_sha256": "99c3dca223f7b0712ab5679c29eb1b3e533b8c2522c07d9e6bf5558e5bbec61f",
+  "dll_sha256": "cd174ff8887bdd4abf8da0b4b8e0845c433b0483d6e7f8d30397aaffc1f02891",
+  "omitted": "DOSBox save/load state integration only",
+  "chip_rate": 49716,
+  "mixer_gain": "12288/8192, before clipping",
+  "mixer": "integer rational interpolation; optional native DC adjustment"
+}

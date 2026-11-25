@@ -1,0 +1,1696 @@
+{
+  "schema_version": 1,
+  "source_sha256": {
+    "callbacks_repaired.c": "5dbba9bb823da13e94b52dde15eba1253d932d2c777e502da4c033bc24551c9e",
+    "helpers_repaired.c": "13cfadd2be2e56017af2ec77d904d219ad25124f0b4fbc56dffdca21cc7ca538"
+  },
+  "excluded_fragments": {
+    "32F3:706A": "overlapping malformed continuation; use complete 32F3:7018"
+  },
+  "semantics": "1DD9:0254 argument 2 is priority; argument 3 forces replay of an already playing digital sample",
+  "source_handlers": {
+    "5C57:0092": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3010": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "5C75:01D0": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3082": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "5CF7:00BC": {
+      "default": null,
+      "sounds": {
+        "3031": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "3143": {
+          "priority": 2,
+          "retrigger": true
+        }
+      }
+    },
+    "5D1C:0041": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3005": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "5D67:00D7": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "15": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "3009": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "5D96:0098": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3123": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "5DB1:0101": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3017": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "5E33:0349": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3088": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "5F1E:0068": {
+      "default": {
+        "priority": 0,
+        "retrigger": true
+      },
+      "sounds": {
+        "3009": {
+          "priority": 0,
+          "retrigger": true
+        }
+      }
+    },
+    "5F7A:0121": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3074": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "5F95:00D3": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "9": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "5FAC:0087": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "0": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "5FD2:0077": {
+      "default": {
+        "priority": 10,
+        "retrigger": false
+      },
+      "sounds": {
+        "3089": {
+          "priority": 10,
+          "retrigger": false
+        }
+      }
+    },
+    "5FE7:0126": {
+      "default": null,
+      "sounds": {
+        "3010": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "0": {
+          "priority": 2,
+          "retrigger": true
+        },
+        "3045": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "3118": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "3073": {
+          "priority": 2,
+          "retrigger": true
+        }
+      }
+    },
+    "6058:00E5": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3067": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "608B:005B": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {}
+    },
+    "60A6:0137": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3082": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "60DA:00AA": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3003": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "60F6:0142": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3041": {
+          "priority": 1,
+          "retrigger": false
+        },
+        "3104": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "7821:025D": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {}
+    },
+    "7855:003A": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "32": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "7855:014F": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3040": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "7887:0000": {
+      "default": {
+        "priority": 2,
+        "retrigger": true
+      },
+      "sounds": {}
+    },
+    "7901:00AC": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3122": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "7917:0000": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3006": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "7977:00BA": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3008": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "799D:0116": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "0": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "79F3:015A": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3054": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "7A5D:00A4": {
+      "default": null,
+      "sounds": {
+        "3114": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "0": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "7A92:00D6": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3002": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "7AA6:00B1": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "0": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:0D6D": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {}
+    },
+    "32F3:0DF3": {
+      "default": {
+        "priority": 4,
+        "retrigger": false
+      },
+      "sounds": {}
+    },
+    "32F3:0E2C": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {}
+    },
+    "32F3:150D": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3016": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:157B": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3065": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:15D6": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3050": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:1629": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3004": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "3065": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:169E": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3003": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:1743": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3041": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:17D7": {
+      "default": {
+        "priority": 4,
+        "retrigger": false
+      },
+      "sounds": {
+        "3013": {
+          "priority": 4,
+          "retrigger": false
+        },
+        "3014": {
+          "priority": 4,
+          "retrigger": false
+        },
+        "3015": {
+          "priority": 4,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:18F0": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "6": {
+          "priority": 0,
+          "retrigger": false
+        },
+        "3051": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:1955": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3059": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:1993": {
+      "default": {
+        "priority": 4,
+        "retrigger": false
+      },
+      "sounds": {
+        "3061": {
+          "priority": 4,
+          "retrigger": false
+        },
+        "3039": {
+          "priority": 4,
+          "retrigger": false
+        },
+        "3017": {
+          "priority": 4,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:1B1A": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3012": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:1C07": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3011": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:1C5E": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3042": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3044": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "8": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3073": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3043": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3013": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3035": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:1DD4": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3041": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:1E63": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3061": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:1EBA": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3052": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:1F94": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "5": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:2306": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3009": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:2376": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3002": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:23E6": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3055": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:2456": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3067": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:24C6": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3067": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:2536": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "0": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:259D": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "0": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:2604": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "0": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:266B": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "0": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:26D2": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "10": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:276F": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "10": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:2822": {
+      "default": null,
+      "sounds": {
+        "10": {
+          "priority": 1,
+          "retrigger": false
+        },
+        "3061": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:2B5B": {
+      "default": null,
+      "sounds": {
+        "16": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "3073": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "3043": {
+          "priority": 2,
+          "retrigger": true
+        },
+        "3070": {
+          "priority": 2,
+          "retrigger": true
+        }
+      }
+    },
+    "32F3:2D51": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3130": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3005": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3017": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "18": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3028": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3013": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3064": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:2E97": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3044": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3069": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "5": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3010": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3043": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3017": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3003": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3102": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3024": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:3161": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3010": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:33AB": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3075": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:350A": {
+      "default": {
+        "priority": 2,
+        "retrigger": true
+      },
+      "sounds": {
+        "21": {
+          "priority": 2,
+          "retrigger": true
+        }
+      }
+    },
+    "32F3:357B": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3043": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:360C": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3104": {
+          "priority": 1,
+          "retrigger": false
+        },
+        "7": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:3798": {
+      "default": null,
+      "sounds": {
+        "8": {
+          "priority": 0,
+          "retrigger": false
+        },
+        "3003": {
+          "priority": 3,
+          "retrigger": true
+        }
+      }
+    },
+    "32F3:382D": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3072": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3073": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3064": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:39CD": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3059": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:39F5": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3040": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:3A71": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3005": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3013": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3043": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3073": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:3B56": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3067": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3003": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3044": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:3C1E": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3053": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:3D36": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3010": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:4EB6": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3023": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:4EF2": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "13": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:4F8A": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3019": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:4FF4": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3021": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:5047": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3051": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:508F": {
+      "default": null,
+      "sounds": {
+        "3044": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3046": {
+          "priority": 1,
+          "retrigger": false
+        },
+        "3065": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:51B6": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "5": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:547C": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:5531": {
+      "default": null,
+      "sounds": {
+        "3001": {
+          "priority": 1,
+          "retrigger": false
+        },
+        "3051": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:55A9": {
+      "default": null,
+      "sounds": {
+        "3031": {
+          "priority": 1,
+          "retrigger": true
+        },
+        "3008": {
+          "priority": 3,
+          "retrigger": true
+        }
+      }
+    },
+    "32F3:56AC": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3061": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:5732": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "16": {
+          "priority": 1,
+          "retrigger": false
+        },
+        "2": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:57B2": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "22": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:581F": {
+      "default": null,
+      "sounds": {
+        "8": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "3071": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:58BF": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3006": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3031": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3104": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3064": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3131": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:5AF5": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3047": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:5B5C": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3047": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:5BC3": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3103": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:5C2A": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3103": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:5CB9": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3031": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3061": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3019": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "9": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:5D98": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "3063": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:5DEC": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3065": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:5EC6": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3043": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "3070": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:5FBC": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "5": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:6039": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3043": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:60B6": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3043": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:6133": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3125": {
+          "priority": 0,
+          "retrigger": false
+        },
+        "3064": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:621A": {
+      "default": null,
+      "sounds": {
+        "3033": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "3009": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:629C": {
+      "default": null,
+      "sounds": {
+        "10": {
+          "priority": 0,
+          "retrigger": false
+        },
+        "3090": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:633E": {
+      "default": null,
+      "sounds": {
+        "10": {
+          "priority": 0,
+          "retrigger": false
+        },
+        "3043": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:65D6": {
+      "default": null,
+      "sounds": {
+        "3115": {
+          "priority": 0,
+          "retrigger": false
+        },
+        "3055": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3010": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "5": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3105": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:6933": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3131": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:69E0": {
+      "default": {
+        "priority": 2,
+        "retrigger": false
+      },
+      "sounds": {
+        "3041": {
+          "priority": 2,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:6B21": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3075": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3131": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3002": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3009": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3040": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:6C1B": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "21": {
+          "priority": 1,
+          "retrigger": false
+        },
+        "3131": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:6CCC": {
+      "default": {
+        "priority": 1,
+        "retrigger": false
+      },
+      "sounds": {
+        "9": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:6D43": {
+      "default": {
+        "priority": 0,
+        "retrigger": false
+      },
+      "sounds": {
+        "3061": {
+          "priority": 0,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:6DFC": {
+      "default": null,
+      "sounds": {
+        "3115": {
+          "priority": 1,
+          "retrigger": false
+        },
+        "3072": {
+          "priority": 1,
+          "retrigger": false
+        },
+        "3010": {
+          "priority": 1,
+          "retrigger": true
+        },
+        "3064": {
+          "priority": 1,
+          "retrigger": true
+        }
+      }
+    },
+    "32F3:6FB7": {
+      "default": {
+        "priority": 3,
+        "retrigger": false
+      },
+      "sounds": {
+        "3040": {
+          "priority": 3,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:7018": {
+      "default": null,
+      "sounds": {
+        "3005": {
+          "priority": 3,
+          "retrigger": false
+        },
+        "3043": {
+          "priority": 3,
+          "retrigger": true
+        },
+        "3063": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    },
+    "32F3:70A1": {
+      "default": null,
+      "sounds": {
+        "3067": {
+          "priority": 2,
+          "retrigger": false
+        },
+        "3051": {
+          "priority": 1,
+          "retrigger": false
+        },
+        "3036": {
+          "priority": 1,
+          "retrigger": false
+        }
+      }
+    }
+  }
+}

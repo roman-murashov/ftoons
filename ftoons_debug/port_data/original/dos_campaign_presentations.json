@@ -1,0 +1,4896 @@
+{
+  "source": "779E progress and 769D puzzle-reveal, pristine distribution SAV",
+  "boundaries": [
+    0,
+    30,
+    50,
+    75,
+    100
+  ],
+  "initial_status": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3
+  ],
+  "tile_order": [
+    69,
+    47,
+    155,
+    172,
+    94,
+    17,
+    191,
+    30,
+    180,
+    190,
+    40,
+    26,
+    136,
+    107,
+    170,
+    113,
+    39,
+    152,
+    52,
+    161,
+    74,
+    63,
+    27,
+    79,
+    8,
+    0,
+    100,
+    114,
+    138,
+    72,
+    202,
+    151,
+    97,
+    44,
+    43,
+    143,
+    77,
+    57,
+    51,
+    129,
+    55,
+    121,
+    133,
+    181,
+    59,
+    46,
+    41,
+    198,
+    34,
+    70,
+    33,
+    126,
+    48,
+    197,
+    54,
+    86,
+    164,
+    102,
+    38,
+    2,
+    196,
+    192,
+    156,
+    128,
+    29,
+    42,
+    186,
+    88,
+    168,
+    104,
+    76,
+    140,
+    135,
+    148,
+    127,
+    147,
+    56,
+    106,
+    144,
+    7,
+    162,
+    89,
+    149,
+    153,
+    91,
+    18,
+    45,
+    28,
+    82,
+    150,
+    83,
+    119,
+    132,
+    22,
+    3,
+    64,
+    189,
+    139,
+    25,
+    131,
+    24,
+    101,
+    118,
+    125,
+    31,
+    96,
+    10,
+    13,
+    108,
+    187,
+    60,
+    73,
+    61,
+    92,
+    95,
+    71,
+    53,
+    9,
+    194,
+    193,
+    141,
+    178,
+    78,
+    84,
+    115,
+    98,
+    67,
+    203,
+    11,
+    90,
+    4,
+    93,
+    50,
+    145,
+    12,
+    5,
+    169,
+    49,
+    184,
+    37,
+    177,
+    87,
+    166,
+    146,
+    75,
+    111,
+    19,
+    137,
+    200,
+    188,
+    112,
+    105,
+    163,
+    182,
+    110,
+    159,
+    58,
+    185,
+    199,
+    23,
+    165,
+    16,
+    81,
+    154,
+    142,
+    99,
+    130,
+    62,
+    109,
+    20,
+    173,
+    195,
+    201,
+    117,
+    167,
+    36,
+    32,
+    15,
+    157,
+    171,
+    6,
+    179,
+    66,
+    124,
+    160,
+    21,
+    134,
+    123,
+    116,
+    183,
+    103,
+    14,
+    65,
+    35,
+    122,
+    158,
+    1,
+    175,
+    176,
+    80,
+    85,
+    120,
+    174,
+    68
+  ],
+  "tables": {
+    "0x464d": "PUZZLE.BMP",
+    "0x4649": "GENREQES.BMP"
+  },
+  "commands": {
+    "0": [
+      {
+        "kind": "sprite",
+        "table": "0x464d",
+        "frame": 2,
+        "xy": [
+          67,
+          225
+        ],
+        "flags": 0,
+        "source": "754B:04C6"
+      }
+    ],
+    "1": [
+      {
+        "kind": "sprite",
+        "table": "0x464d",
+        "frame": 3,
+        "xy": [
+          55,
+          280
+        ],
+        "flags": 0,
+        "source": "754B:04C6"
+      }
+    ],
+    "2": [
+      {
+        "kind": "sprite",
+        "table": "0x4649",
+        "frame": 0,
+        "xy": [
+          378,
+          313
+        ],
+        "flags": 0,
+        "source": "754B:0508"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4649",
+        "frame": 5,
+        "xy": [
+          378,
+          366
+        ],
+        "flags": 0,
+        "source": "754B:0527"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4649",
+        "frame": 1,
+        "xy": [
+          434,
+          313
+        ],
+        "flags": 0,
+        "source": "754B:0546"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4649",
+        "frame": 1,
+        "xy": [
+          498,
+          313
+        ],
+        "flags": 0,
+        "source": "754B:0565"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4649",
+        "frame": 2,
+        "xy": [
+          562,
+          313
+        ],
+        "flags": 0,
+        "source": "754B:0584"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4649",
+        "frame": 6,
+        "xy": [
+          434,
+          366
+        ],
+        "flags": 0,
+        "source": "754B:05A3"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4649",
+        "frame": 7,
+        "xy": [
+          562,
+          366
+        ],
+        "flags": 0,
+        "source": "754B:05C2"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4649",
+        "frame": 6,
+        "xy": [
+          498,
+          366
+        ],
+        "flags": 0,
+        "source": "754B:05E1"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          412,
+          346,
+          144,
+          26
+        ],
+        "color": 14,
+        "source": "754B:0601"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x464d",
+        "frame": 4,
+        "xy": [
+          391,
+          339
+        ],
+        "flags": 0,
+        "source": "754B:0620"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x464d",
+        "frame": 5,
+        "xy": [
+          392,
+          361
+        ],
+        "flags": 0,
+        "source": "754B:063F"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x464d",
+        "frame": 6,
+        "xy": [
+          413,
+          372
+        ],
+        "flags": 0,
+        "source": "754B:065E"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x464d",
+        "frame": 6,
+        "xy": [
+          459,
+          371
+        ],
+        "flags": 0,
+        "source": "754B:067D"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x464d",
+        "frame": 6,
+        "xy": [
+          505,
+          370
+        ],
+        "flags": 0,
+        "source": "754B:069C"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x464d",
+        "frame": 7,
+        "xy": [
+          550,
+          367
+        ],
+        "flags": 0,
+        "source": "754B:06BB"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x464d",
+        "frame": 8,
+        "xy": [
+          553,
+          339
+        ],
+        "flags": 0,
+        "source": "754B:06DA"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          411,
+          340,
+          144,
+          4
+        ],
+        "color": 11,
+        "source": "754B:06FA"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          556,
+          344,
+          4,
+          27
+        ],
+        "color": 11,
+        "source": "754B:0712"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          391,
+          376,
+          394,
+          376
+        ],
+        "color": 11,
+        "source": "754B:072A"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          391,
+          377,
+          396,
+          377
+        ],
+        "color": 11,
+        "source": "754B:0742"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          392,
+          378,
+          398,
+          378
+        ],
+        "color": 11,
+        "source": "754B:075A"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          411,
+          345,
+          554,
+          345
+        ],
+        "color": 13,
+        "source": "754B:077A"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          554,
+          345,
+          554,
+          368
+        ],
+        "color": 13,
+        "source": "754B:0792"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          397,
+          361,
+          397,
+          355
+        ],
+        "color": 6,
+        "source": "754B:07B2"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          396,
+          357,
+          396,
+          362
+        ],
+        "color": 6,
+        "source": "754B:07CA"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          554,
+          344,
+          411,
+          344
+        ],
+        "color": 6,
+        "source": "754B:07E2"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          555,
+          344,
+          555,
+          368
+        ],
+        "color": 6,
+        "source": "754B:07FA"
+      }
+    ],
+    "3": [
+      {
+        "kind": "sprite",
+        "table": "0x464d",
+        "frame": 9,
+        "xy": [
+          55,
+          280
+        ],
+        "flags": 0,
+        "source": "754B:04C6"
+      }
+    ]
+  },
+  "password_label": "SecREt pASsWorD:",
+  "generic_unlock": "\n140,100,410,251,     tuxedo.fnt,      33, 4\n 15,170,365, 40,     24,32,   8,-8,   15, 10\nCongratulations,\\nYou have unlocked several more puzzles.\nSometimes I really impress myself.\n\n",
+  "generic_bonus": "\n180,100,350,251,     ssd14_38.fnt,    33, 4\n 30,190,280, 40,     24,32,   8,-8,   15, 14\nCongratulations,\\nYou have unlocked all the bonus puzzles!\nAm I amazing or what?!?\n\n",
+  "source_sha256": "cc37575f7bf1f36ac1b2083f82095930fc2d132881f9b619de46452210c30fc1",
+  "unlock_commands": [
+    {
+      "kind": "rect",
+      "xywh": [
+        196,
+        153,
+        338,
+        174
+      ],
+      "color": 140
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 1,
+      "xy": [
+        196,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 1,
+      "xy": [
+        260,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 1,
+      "xy": [
+        324,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 1,
+      "xy": [
+        388,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 1,
+      "xy": [
+        452,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 1,
+      "xy": [
+        516,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 6,
+      "xy": [
+        196,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 6,
+      "xy": [
+        260,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 6,
+      "xy": [
+        324,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 6,
+      "xy": [
+        388,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 6,
+      "xy": [
+        452,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 6,
+      "xy": [
+        516,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 3,
+      "xy": [
+        140,
+        153
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 3,
+      "xy": [
+        140,
+        217
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 3,
+      "xy": [
+        140,
+        281
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 4,
+      "xy": [
+        534,
+        153
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 4,
+      "xy": [
+        534,
+        217
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 4,
+      "xy": [
+        534,
+        281
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 0,
+      "xy": [
+        140,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 2,
+      "xy": [
+        534,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 5,
+      "xy": [
+        140,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 7,
+      "xy": [
+        534,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "text",
+      "text": "Congratulations,",
+      "xy": [
+        168,
+        159
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Congratulations,",
+      "xy": [
+        170,
+        159
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Congratulations,",
+      "xy": [
+        169,
+        160
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Congratulations,",
+      "xy": [
+        169,
+        158
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Congratulations,",
+      "xy": [
+        167,
+        161
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Congratulations,",
+      "xy": [
+        169,
+        159
+      ],
+      "color": 4
+    },
+    {
+      "kind": "text",
+      "text": "You have unlocked several",
+      "xy": [
+        168,
+        182
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "You have unlocked several",
+      "xy": [
+        170,
+        182
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "You have unlocked several",
+      "xy": [
+        169,
+        183
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "You have unlocked several",
+      "xy": [
+        169,
+        181
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "You have unlocked several",
+      "xy": [
+        167,
+        184
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "You have unlocked several",
+      "xy": [
+        169,
+        182
+      ],
+      "color": 4
+    },
+    {
+      "kind": "text",
+      "text": "more puzzles.",
+      "xy": [
+        168,
+        205
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "more puzzles.",
+      "xy": [
+        170,
+        205
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "more puzzles.",
+      "xy": [
+        169,
+        206
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "more puzzles.",
+      "xy": [
+        169,
+        204
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "more puzzles.",
+      "xy": [
+        167,
+        207
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "more puzzles.",
+      "xy": [
+        169,
+        205
+      ],
+      "color": 4
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        155,
+        270,
+        365,
+        40
+      ],
+      "color": 200
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        179,
+        285,
+        317,
+        6
+      ],
+      "color": 15
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        179,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        187,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        195,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        203,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        211,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        219,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        227,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        235,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        243,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        251,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        259,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        267,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        275,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        283,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        291,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        299,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        307,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        315,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        323,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        331,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        339,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        347,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        355,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        363,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        371,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        379,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        387,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        395,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        403,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        411,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        419,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        427,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        435,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        443,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        451,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        459,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        467,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        475,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        483,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        491,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        179,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        187,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        195,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        203,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        211,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        219,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        227,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        235,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        243,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        251,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        259,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        267,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        275,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        283,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        291,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        299,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        307,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        315,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        323,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        331,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        339,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        347,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        355,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        363,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        371,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        379,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        387,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        395,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        403,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        411,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        419,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        427,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        435,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        443,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        451,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        459,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        467,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        475,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        483,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        491,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 27,
+      "xy": [
+        155,
+        285
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 27,
+      "xy": [
+        155,
+        287
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 27,
+      "xy": [
+        155,
+        289
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 28,
+      "xy": [
+        496,
+        285
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 28,
+      "xy": [
+        496,
+        287
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 28,
+      "xy": [
+        496,
+        289
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 24,
+      "xy": [
+        155,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 26,
+      "xy": [
+        496,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 29,
+      "xy": [
+        155,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 31,
+      "xy": [
+        496,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "text",
+      "text": "Sometimes I really impress myself.",
+      "xy": [
+        170,
+        279
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Sometimes I really impress myself.",
+      "xy": [
+        172,
+        279
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Sometimes I really impress myself.",
+      "xy": [
+        171,
+        280
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Sometimes I really impress myself.",
+      "xy": [
+        171,
+        278
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Sometimes I really impress myself.",
+      "xy": [
+        171,
+        279
+      ],
+      "color": 10
+    }
+  ],
+  "unlock_native_evidence": "runtime/presentation_extension_20261115/unlock_render3_native.json",
+  "bonus_commands": [
+    {
+      "kind": "rect",
+      "xywh": [
+        236,
+        153,
+        278,
+        174
+      ],
+      "color": 140
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 1,
+      "xy": [
+        236,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 1,
+      "xy": [
+        300,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 1,
+      "xy": [
+        364,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 1,
+      "xy": [
+        428,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 1,
+      "xy": [
+        492,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 6,
+      "xy": [
+        236,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 6,
+      "xy": [
+        300,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 6,
+      "xy": [
+        364,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 6,
+      "xy": [
+        428,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 6,
+      "xy": [
+        492,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 3,
+      "xy": [
+        180,
+        153
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 3,
+      "xy": [
+        180,
+        217
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 3,
+      "xy": [
+        180,
+        281
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 4,
+      "xy": [
+        514,
+        153
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 4,
+      "xy": [
+        514,
+        217
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 4,
+      "xy": [
+        514,
+        281
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 0,
+      "xy": [
+        180,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 2,
+      "xy": [
+        514,
+        100
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 5,
+      "xy": [
+        180,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 7,
+      "xy": [
+        514,
+        327
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "text",
+      "text": "Congratulations,",
+      "xy": [
+        203,
+        127
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Congratulations,",
+      "xy": [
+        205,
+        127
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Congratulations,",
+      "xy": [
+        204,
+        128
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Congratulations,",
+      "xy": [
+        204,
+        126
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Congratulations,",
+      "xy": [
+        202,
+        129
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Congratulations,",
+      "xy": [
+        204,
+        127
+      ],
+      "color": 4
+    },
+    {
+      "kind": "text",
+      "text": "You have unlocked",
+      "xy": [
+        203,
+        165
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "You have unlocked",
+      "xy": [
+        205,
+        165
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "You have unlocked",
+      "xy": [
+        204,
+        166
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "You have unlocked",
+      "xy": [
+        204,
+        164
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "You have unlocked",
+      "xy": [
+        202,
+        167
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "You have unlocked",
+      "xy": [
+        204,
+        165
+      ],
+      "color": 4
+    },
+    {
+      "kind": "text",
+      "text": "all the bonus",
+      "xy": [
+        203,
+        203
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "all the bonus",
+      "xy": [
+        205,
+        203
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "all the bonus",
+      "xy": [
+        204,
+        204
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "all the bonus",
+      "xy": [
+        204,
+        202
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "all the bonus",
+      "xy": [
+        202,
+        205
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "all the bonus",
+      "xy": [
+        204,
+        203
+      ],
+      "color": 4
+    },
+    {
+      "kind": "text",
+      "text": "puzzles!",
+      "xy": [
+        203,
+        241
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "puzzles!",
+      "xy": [
+        205,
+        241
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "puzzles!",
+      "xy": [
+        204,
+        242
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "puzzles!",
+      "xy": [
+        204,
+        240
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "puzzles!",
+      "xy": [
+        202,
+        243
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "puzzles!",
+      "xy": [
+        204,
+        241
+      ],
+      "color": 4
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        210,
+        290,
+        280,
+        40
+      ],
+      "color": 140
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        234,
+        305,
+        232,
+        6
+      ],
+      "color": 15
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        234,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        242,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        250,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        258,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        266,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        274,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        282,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        290,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        298,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        306,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        314,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        322,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        330,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        338,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        346,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        354,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        362,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        370,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        378,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        386,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        394,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        402,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        410,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        418,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        426,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        434,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        442,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        450,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 25,
+      "xy": [
+        458,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        234,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        242,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        250,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        258,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        266,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        274,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        282,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        290,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        298,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        306,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        314,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        322,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        330,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        338,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        346,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        354,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        362,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        370,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        378,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        386,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        394,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        402,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        410,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        418,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        426,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        434,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        442,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        450,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 30,
+      "xy": [
+        458,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 27,
+      "xy": [
+        210,
+        305
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 27,
+      "xy": [
+        210,
+        307
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 27,
+      "xy": [
+        210,
+        309
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 28,
+      "xy": [
+        466,
+        305
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 28,
+      "xy": [
+        466,
+        307
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 28,
+      "xy": [
+        466,
+        309
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 24,
+      "xy": [
+        210,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 26,
+      "xy": [
+        466,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 29,
+      "xy": [
+        210,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 31,
+      "xy": [
+        466,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "text",
+      "text": "Am I amazing or what?!?",
+      "xy": [
+        231,
+        299
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Am I amazing or what?!?",
+      "xy": [
+        233,
+        299
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Am I amazing or what?!?",
+      "xy": [
+        232,
+        300
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Am I amazing or what?!?",
+      "xy": [
+        232,
+        298
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Am I amazing or what?!?",
+      "xy": [
+        232,
+        299
+      ],
+      "color": 14
+    }
+  ],
+  "bonus_native_evidence": "runtime/presentation_extension_20261115/bonus_picture_typed2_native.json",
+  "unlock_commands_pressed": [
+    {
+      "kind": "rect",
+      "xywh": [
+        179,
+        285,
+        317,
+        6
+      ],
+      "color": 15
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        179,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        187,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        195,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        203,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        211,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        219,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        227,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        235,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        243,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        251,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        259,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        267,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        275,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        283,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        291,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        299,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        307,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        315,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        323,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        331,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        339,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        347,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        355,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        363,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        371,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        379,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        387,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        395,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        403,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        411,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        419,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        427,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        435,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        443,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        451,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        459,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        467,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        475,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        483,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        491,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        179,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        187,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        195,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        203,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        211,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        219,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        227,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        235,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        243,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        251,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        259,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        267,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        275,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        283,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        291,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        299,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        307,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        315,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        323,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        331,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        339,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        347,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        355,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        363,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        371,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        379,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        387,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        395,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        403,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        411,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        419,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        427,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        435,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        443,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        451,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        459,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        467,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        475,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        483,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        491,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 35,
+      "xy": [
+        163,
+        285
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 35,
+      "xy": [
+        163,
+        287
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 35,
+      "xy": [
+        163,
+        289
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 36,
+      "xy": [
+        496,
+        285
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 36,
+      "xy": [
+        496,
+        287
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 36,
+      "xy": [
+        496,
+        289
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 32,
+      "xy": [
+        163,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 34,
+      "xy": [
+        496,
+        270
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 37,
+      "xy": [
+        163,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 39,
+      "xy": [
+        496,
+        291
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "text",
+      "text": "Sometimes I really impress myself.",
+      "xy": [
+        178,
+        279
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Sometimes I really impress myself.",
+      "xy": [
+        180,
+        279
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Sometimes I really impress myself.",
+      "xy": [
+        179,
+        280
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Sometimes I really impress myself.",
+      "xy": [
+        179,
+        278
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Sometimes I really impress myself.",
+      "xy": [
+        179,
+        279
+      ],
+      "color": 10
+    }
+  ],
+  "unlock_commands_pressed_evidence": "runtime/presentation_extension_20261115/unlock_pressed_native.json",
+  "bonus_commands_pressed": [
+    {
+      "kind": "rect",
+      "xywh": [
+        234,
+        305,
+        232,
+        6
+      ],
+      "color": 15
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        234,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        242,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        250,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        258,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        266,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        274,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        282,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        290,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        298,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        306,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        314,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        322,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        330,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        338,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        346,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        354,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        362,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        370,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        378,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        386,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        394,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        402,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        410,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        418,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        426,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        434,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        442,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        450,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 33,
+      "xy": [
+        458,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        234,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        242,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        250,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        258,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        266,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        274,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        282,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        290,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        298,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        306,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        314,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        322,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        330,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        338,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        346,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        354,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        362,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        370,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        378,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        386,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        394,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        402,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        410,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        418,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        426,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        434,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        442,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        450,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 38,
+      "xy": [
+        458,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 35,
+      "xy": [
+        218,
+        305
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 35,
+      "xy": [
+        218,
+        307
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 35,
+      "xy": [
+        218,
+        309
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 36,
+      "xy": [
+        466,
+        305
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 36,
+      "xy": [
+        466,
+        307
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 36,
+      "xy": [
+        466,
+        309
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 32,
+      "xy": [
+        218,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 34,
+      "xy": [
+        466,
+        290
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 37,
+      "xy": [
+        218,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "sprite",
+      "table": "generic",
+      "frame": 39,
+      "xy": [
+        466,
+        311
+      ],
+      "flags": 0
+    },
+    {
+      "kind": "text",
+      "text": "Am I amazing or what?!?",
+      "xy": [
+        239,
+        299
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Am I amazing or what?!?",
+      "xy": [
+        241,
+        299
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Am I amazing or what?!?",
+      "xy": [
+        240,
+        300
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Am I amazing or what?!?",
+      "xy": [
+        240,
+        298
+      ],
+      "color": 0
+    },
+    {
+      "kind": "text",
+      "text": "Am I amazing or what?!?",
+      "xy": [
+        240,
+        299
+      ],
+      "color": 14
+    }
+  ],
+  "bonus_commands_pressed_evidence": "runtime/presentation_extension_20261115/bonus_picture_pressed_retry_native.json"
+}

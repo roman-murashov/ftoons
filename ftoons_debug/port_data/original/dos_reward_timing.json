@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "profile": "DOSBox-X normal core, fixed20000 cycles, AUDBLAST+ADL",
+  "executable_sha256": "cc37575f7bf1f36ac1b2083f82095930fc2d132881f9b619de46452210c30fc1",
+  "source": "6D38:0021..01FA setup before timer reload; first entrance at0278",
+  "timer_hz": 1193182,
+  "pit_divisor": 5041,
+  "reference_level": "CAKE1.LEV",
+  "policy": "Median measured resource/caption setup per art pair. CPU-time calibration, not an original fixed delay. Other captions and emulator speeds can differ.",
+  "pairs": {
+    "1,3": {
+      "setup_interrupts": 62,
+      "observed_min": 61,
+      "observed_max": 65,
+      "samples": 4
+    },
+    "0,3": {
+      "setup_interrupts": 57,
+      "observed_min": 57,
+      "observed_max": 57,
+      "samples": 1
+    },
+    "0,2": {
+      "setup_interrupts": 58,
+      "observed_min": 58,
+      "observed_max": 58,
+      "samples": 1
+    },
+    "1,2": {
+      "setup_interrupts": 58,
+      "observed_min": 57,
+      "observed_max": 59,
+      "samples": 2
+    }
+  },
+  "observations": [
+    {
+      "file": "runtime/fidelity_closure_20261115/reward_matrix.json",
+      "cycle": 0,
+      "pair": "1,3",
+      "setup_interrupts": 63
+    },
+    {
+      "file": "runtime/fidelity_closure_20261115/reward_matrix.json",
+      "cycle": 1,
+      "pair": "1,3",
+      "setup_interrupts": 65
+    },
+    {
+      "file": "runtime/fidelity_closure_20261115/reward_matrix.json",
+      "cycle": 2,
+      "pair": "0,3",
+      "setup_interrupts": 57
+    },
+    {
+      "file": "runtime/fidelity_closure_20261115/reward_matrix.json",
+      "cycle": 3,
+      "pair": "1,3",
+      "setup_interrupts": 62
+    },
+    {
+      "file": "runtime/fidelity_closure_20261115/reward_matrix.json",
+      "cycle": 4,
+      "pair": "0,2",
+      "setup_interrupts": 58
+    },
+    {
+      "file": "runtime/fidelity_closure_20261115/reward_matrix.json",
+      "cycle": 5,
+      "pair": "1,2",
+      "setup_interrupts": 57
+    },
+    {
+      "file": "runtime/fidelity_closure_20261115/native.json",
+      "cycle": 0,
+      "pair": "1,2",
+      "setup_interrupts": 59
+    },
+    {
+      "file": "runtime/fidelity_closure_20261115/native.json",
+      "cycle": 1,
+      "pair": "1,3",
+      "setup_interrupts": 61
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="ftoons - Home Toons solo debug"
+run/main_scene="res://scenes/import_start.tscn"
+config/features=PackedStringArray("4.7")
+
+[audio]
+
+launch_with_music_muted=true
+
+[autoload]
+
+ImportedResources="*res://scripts/io/imported_resources.gd"
+PortSettings="*res://scripts/ui/port_settings.gd"
+AudioEffects="*res://scripts/audio/audio_effects.gd"
+MusicPlayer="*res://scripts/audio/music_player.gd"
+
+[debug]
+
+file_logging/enable_file_logging=false
+file_logging/enable_file_logging.pc=false
+
+[display]
+
+window/size/viewport_width=1440
+window/size/viewport_height=900
+window/size/window_width_override=1440
+window/size/window_height_override=900
+window/size/min_width=1120
+window/size/min_height=720
+
+[gui]
+
+theme/default_font_multichannel_signed_distance_field=true
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"

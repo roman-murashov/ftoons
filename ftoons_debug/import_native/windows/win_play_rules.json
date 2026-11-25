@@ -1,0 +1,4467 @@
+[
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "state"
+        ],
+        20
+      ],
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "appearance"
+        ],
+        181
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:00D3",
+    "shared_dos_callback": "7B09:17C0"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "rock1": {
+        "type": 6,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "rock2": {
+        "type": 6,
+        "nth": 2,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "rock3": {
+        "type": 6,
+        "nth": 3,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "rock4": {
+        "type": 6,
+        "nth": 4,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "state"
+        ],
+        4
+      ],
+      [
+        "any",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "rock1",
+              "x"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "x"
+              ],
+              -15
+            ]
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock1",
+              "x"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "x"
+              ],
+              45
+            ]
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "rock1",
+              "y"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "y"
+              ],
+              -45
+            ]
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock1",
+              "y"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "y"
+              ],
+              30
+            ]
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "rock2",
+              "x"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "x"
+              ],
+              -15
+            ]
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock2",
+              "x"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "x"
+              ],
+              45
+            ]
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "rock2",
+              "y"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "y"
+              ],
+              -45
+            ]
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock2",
+              "y"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "y"
+              ],
+              30
+            ]
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "rock3",
+              "x"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "x"
+              ],
+              -15
+            ]
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock3",
+              "x"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "x"
+              ],
+              45
+            ]
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "rock3",
+              "y"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "y"
+              ],
+              -45
+            ]
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock3",
+              "y"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "y"
+              ],
+              30
+            ]
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "rock4",
+              "x"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "x"
+              ],
+              -15
+            ]
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock4",
+              "x"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "x"
+              ],
+              45
+            ]
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "rock4",
+              "y"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "y"
+              ],
+              -45
+            ]
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock4",
+              "y"
+            ],
+            [
+              "add",
+              [
+                "field",
+                "al",
+                "y"
+              ],
+              30
+            ]
+          ]
+        ]
+      ]
+    ],
+    "delay": 20,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:00D9"
+  },
+  {
+    "selectors": {
+      "sid": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "sid",
+            "state"
+          ],
+          55
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "sid",
+            "appearance"
+          ],
+          484
+        ]
+      ],
+      [
+        "eq",
+        [
+          "field",
+          "sid",
+          "trigger"
+        ],
+        0
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:01E7"
+  },
+  {
+    "selectors": {
+      "ball": {
+        "type": 9,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "ge",
+        [
+          "field",
+          "ball",
+          "x"
+        ],
+        390
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "ball",
+          "x"
+        ],
+        488
+      ],
+      [
+        "ge",
+        [
+          "field",
+          "ball",
+          "y"
+        ],
+        280
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "ball",
+          "y"
+        ],
+        322
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:024D"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "state"
+        ],
+        4
+      ],
+      [
+        "ne",
+        [
+          "field",
+          "al",
+          "flags_08"
+        ],
+        0
+      ]
+    ],
+    "delay": 15,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:02C6",
+    "shared_dos_callback": "7B09:09DB"
+  },
+  {
+    "selectors": {
+      "teapot": {
+        "type": 12,
+        "nth": 1,
+        "chain": "static",
+        "mask": 8192
+      }
+    },
+    "condition": [
+      "ge",
+      [
+        "field",
+        "teapot",
+        "appearance"
+      ],
+      7
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:02CC"
+  },
+  {
+    "selectors": {
+      "sid": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "ge",
+        [
+          "field",
+          "sid",
+          "x"
+        ],
+        44
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "sid",
+          "x"
+        ],
+        112
+      ],
+      [
+        "ge",
+        [
+          "field",
+          "sid",
+          "y"
+        ],
+        140
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "sid",
+          "y"
+        ],
+        200
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0315"
+  },
+  {
+    "selectors": {
+      "balloon": {
+        "type": 23,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "bit",
+        [
+          "field",
+          "balloon",
+          "flags_08"
+        ],
+        8192
+      ],
+      [
+        "gt",
+        [
+          "field",
+          "balloon",
+          "y"
+        ],
+        -100
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:038E"
+  },
+  {
+    "selectors": {
+      "machines": {
+        "type": 42,
+        "nth": 1,
+        "chain": "static",
+        "mask": 8192,
+        "kind": "all"
+      }
+    },
+    "condition": [
+      "every",
+      "machines",
+      [
+        "ne",
+        [
+          "field",
+          "$",
+          "appearance"
+        ],
+        0
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:03E6",
+    "shared_dos_callback": "7B09:0EA9"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "al",
+              "x"
+            ],
+            152
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "al",
+              "x"
+            ],
+            257
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "al",
+              "y"
+            ],
+            70
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "al",
+              "y"
+            ],
+            145
+          ]
+        ]
+      ],
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "state"
+        ],
+        1
+      ],
+      [
+        "ge",
+        [
+          "field",
+          "al",
+          "appearance"
+        ],
+        3
+      ]
+    ],
+    "delay": 120,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:03EC"
+  },
+  {
+    "selectors": {
+      "log1": {
+        "type": 29,
+        "nth": 1,
+        "chain": "static",
+        "mask": 8192,
+        "allow_null": true,
+        "live": true
+      },
+      "log2": {
+        "type": 29,
+        "nth": 2,
+        "chain": "static",
+        "mask": 8192,
+        "allow_null": true,
+        "live": true
+      },
+      "log3": {
+        "type": 29,
+        "nth": 3,
+        "chain": "static",
+        "mask": 8192,
+        "allow_null": true,
+        "live": true
+      },
+      "log4": {
+        "type": 29,
+        "nth": 4,
+        "chain": "static",
+        "mask": 8192,
+        "allow_null": true,
+        "live": true
+      },
+      "log5": {
+        "type": 29,
+        "nth": 5,
+        "chain": "static",
+        "mask": 8192,
+        "allow_null": true,
+        "live": true
+      },
+      "log6": {
+        "type": 29,
+        "nth": 6,
+        "chain": "static",
+        "mask": 8192,
+        "allow_null": true,
+        "live": true
+      },
+      "log7": {
+        "type": 29,
+        "nth": 7,
+        "chain": "static",
+        "mask": 8192,
+        "allow_null": true,
+        "live": true
+      },
+      "log8": {
+        "type": 29,
+        "nth": 8,
+        "chain": "static",
+        "mask": 8192,
+        "allow_null": true,
+        "live": true
+      },
+      "log9": {
+        "type": 29,
+        "nth": 9,
+        "chain": "static",
+        "mask": 8192,
+        "allow_null": true,
+        "live": true
+      },
+      "log10": {
+        "type": 29,
+        "nth": 10,
+        "chain": "static",
+        "mask": 8192,
+        "allow_null": true,
+        "live": true
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "any",
+        [
+          "missing",
+          "log1"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "log1",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "log2"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "log2",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "log3"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "log3",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "log4"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "log4",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "log5"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "log5",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "log6"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "log6",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "log7"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "log7",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "log8"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "log8",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "log9"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "log9",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "log10"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "log10",
+            "flags_08"
+          ],
+          8192
+        ]
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0484"
+  },
+  {
+    "selectors": {
+      "sid": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "field",
+          "sid",
+          "state"
+        ],
+        8
+      ],
+      [
+        "eq",
+        [
+          "field",
+          "sid",
+          "appearance"
+        ],
+        43
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:04E1"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "state"
+        ],
+        44
+      ],
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "appearance"
+        ],
+        336
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0538"
+  },
+  {
+    "selectors": {
+      "rock": {
+        "type": 6,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "ge",
+        [
+          "field",
+          "rock",
+          "x"
+        ],
+        432
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "rock",
+          "x"
+        ],
+        492
+      ],
+      [
+        "ge",
+        [
+          "field",
+          "rock",
+          "y"
+        ],
+        320
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "rock",
+          "y"
+        ],
+        374
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0590"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "not",
+      [
+        "all",
+        [
+          "ge",
+          [
+            "field",
+            "al",
+            "x"
+          ],
+          352
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "al",
+            "x"
+          ],
+          417
+        ],
+        [
+          "ge",
+          [
+            "field",
+            "al",
+            "y"
+          ],
+          30
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "al",
+            "y"
+          ],
+          90
+        ]
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:060A"
+  },
+  {
+    "selectors": {
+      "ball": {
+        "type": 10,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "gt",
+      [
+        "var",
+        "held"
+      ],
+      50
+    ],
+    "delay": 10,
+    "rules": [
+      {
+        "when": [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "ball",
+              "x"
+            ],
+            -38
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "ball",
+              "x"
+            ],
+            52
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "ball",
+              "y"
+            ],
+            85
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "ball",
+              "y"
+            ],
+            130
+          ]
+        ],
+        "set": "held",
+        "value": [
+          "and",
+          [
+            "add",
+            [
+              "var",
+              "held"
+            ],
+            1
+          ],
+          65535
+        ]
+      },
+      {
+        "when": [
+          "not",
+          [
+            "all",
+            [
+              "ge",
+              [
+                "field",
+                "ball",
+                "x"
+              ],
+              -38
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "ball",
+                "x"
+              ],
+              52
+            ],
+            [
+              "ge",
+              [
+                "field",
+                "ball",
+                "y"
+              ],
+              85
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "ball",
+                "y"
+              ],
+              130
+            ]
+          ]
+        ],
+        "set": "held",
+        "value": 0
+      }
+    ],
+    "vars": {
+      "held": 0
+    },
+    "address": "MPC29:0683"
+  },
+  {
+    "selectors": {
+      "balloon": {
+        "type": 23,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "ge",
+        [
+          "field",
+          "balloon",
+          "y"
+        ],
+        -100
+      ],
+      [
+        "bit",
+        [
+          "field",
+          "balloon",
+          "flags_08"
+        ],
+        8192
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0715"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "state"
+        ],
+        51
+      ],
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "appearance"
+        ],
+        420
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0770"
+  },
+  {
+    "selectors": {
+      "sid": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "eq",
+      [
+        "field",
+        "sid",
+        "state"
+      ],
+      18
+    ],
+    "delay": 60,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:07C8",
+    "shared_dos_callback": "7B09:00E9"
+  },
+  {
+    "selectors": {
+      "teapot": {
+        "type": 12,
+        "nth": 1,
+        "chain": "static",
+        "mask": 8192
+      }
+    },
+    "condition": [
+      "ge",
+      [
+        "field",
+        "teapot",
+        "appearance"
+      ],
+      7
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:07CE"
+  },
+  {
+    "selectors": {
+      "beach1": {
+        "type": 10,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "beach2": {
+        "type": 10,
+        "nth": 2,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "beach3": {
+        "type": 10,
+        "nth": 3,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "rock1": {
+        "type": 6,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "rock2": {
+        "type": 6,
+        "nth": 2,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "rock3": {
+        "type": 6,
+        "nth": 3,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "soccer1": {
+        "type": 9,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "soccer2": {
+        "type": 9,
+        "nth": 2,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "soccer3": {
+        "type": 9,
+        "nth": 3,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "yarn1": {
+        "type": 7,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "yarn2": {
+        "type": 7,
+        "nth": 2,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "baseball": {
+        "type": 8,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "bearing": {
+        "type": 31,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "beach1",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "beach1",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "beach1",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "beach1",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ],
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "beach2",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "beach2",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "beach2",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "beach2",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ],
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "beach3",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "beach3",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "beach3",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "beach3",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ],
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "rock1",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock1",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "rock1",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock1",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ],
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "rock2",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock2",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "rock2",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock2",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ],
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "rock3",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock3",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "rock3",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "rock3",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ],
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "soccer1",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "soccer1",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "soccer1",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "soccer1",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ],
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "soccer2",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "soccer2",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "soccer2",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "soccer2",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ],
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "soccer3",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "soccer3",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "soccer3",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "soccer3",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ],
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "yarn1",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "yarn1",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "yarn1",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "yarn1",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ],
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "yarn2",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "yarn2",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "yarn2",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "yarn2",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ],
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "baseball",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "baseball",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "baseball",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "baseball",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ],
+      [
+        "not",
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "bearing",
+              "x"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "bearing",
+              "x"
+            ],
+            552
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "bearing",
+              "y"
+            ],
+            0
+          ],
+          [
+            "lt",
+            [
+              "field",
+              "bearing",
+              "y"
+            ],
+            400
+          ]
+        ]
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0817"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "not",
+      [
+        "all",
+        [
+          "ge",
+          [
+            "field",
+            "al",
+            "x"
+          ],
+          372
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "al",
+            "x"
+          ],
+          457
+        ],
+        [
+          "ge",
+          [
+            "field",
+            "al",
+            "y"
+          ],
+          80
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "al",
+            "y"
+          ],
+          145
+        ]
+      ]
+    ],
+    "delay": 20,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0A0B"
+  },
+  {
+    "selectors": {
+      "sid": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "eq",
+      [
+        "field",
+        "sid",
+        "state"
+      ],
+      18
+    ],
+    "delay": 60,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0A84",
+    "shared_dos_callback": "7B09:00E9"
+  },
+  {
+    "selectors": {
+      "al1": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "al2": {
+        "type": 36,
+        "nth": 2,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "sid1": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "sid2": {
+        "type": 37,
+        "nth": 2,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "ne",
+        [
+          "var",
+          "al1"
+        ],
+        0
+      ],
+      [
+        "ne",
+        [
+          "var",
+          "al2"
+        ],
+        0
+      ],
+      [
+        "ne",
+        [
+          "var",
+          "sid1"
+        ],
+        0
+      ],
+      [
+        "ne",
+        [
+          "var",
+          "sid2"
+        ],
+        0
+      ]
+    ],
+    "delay": 10,
+    "rules": [
+      {
+        "when": [
+          "any",
+          [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al1",
+                "state"
+              ],
+              16
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "al1",
+                "appearance"
+              ],
+              141
+            ]
+          ],
+          [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al1",
+                "state"
+              ],
+              43
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "al1",
+                "appearance"
+              ],
+              280
+            ]
+          ]
+        ],
+        "set": "al1",
+        "value": 1
+      },
+      {
+        "when": [
+          "any",
+          [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al2",
+                "state"
+              ],
+              16
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "al2",
+                "appearance"
+              ],
+              141
+            ]
+          ],
+          [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al2",
+                "state"
+              ],
+              43
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "al2",
+                "appearance"
+              ],
+              280
+            ]
+          ]
+        ],
+        "set": "al2",
+        "value": 1
+      },
+      {
+        "when": [
+          "all",
+          [
+            "eq",
+            [
+              "field",
+              "sid1",
+              "state"
+            ],
+            13
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "sid1",
+              "appearance"
+            ],
+            74
+          ]
+        ],
+        "set": "sid1",
+        "value": 1
+      },
+      {
+        "when": [
+          "all",
+          [
+            "eq",
+            [
+              "field",
+              "sid2",
+              "state"
+            ],
+            13
+          ],
+          [
+            "ge",
+            [
+              "field",
+              "sid2",
+              "appearance"
+            ],
+            74
+          ]
+        ],
+        "set": "sid2",
+        "value": 1
+      }
+    ],
+    "vars": {
+      "al1": 0,
+      "al2": 0,
+      "sid1": 0,
+      "sid2": 0
+    },
+    "address": "MPC29:0A8A"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "state"
+        ],
+        59
+      ],
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "appearance"
+        ],
+        519
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0C29",
+    "shared_dos_callback": "7B09:0A2A"
+  },
+  {
+    "selectors": {
+      "counter": {
+        "type": 39,
+        "nth": 1,
+        "chain": "static",
+        "mask": 8192
+      }
+    },
+    "condition": [
+      "eq",
+      [
+        "and",
+        [
+          "field",
+          "counter",
+          "settings"
+        ],
+        255
+      ],
+      4
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0C2F"
+  },
+  {
+    "selectors": {
+      "eunice": {
+        "type": 68,
+        "nth": 1,
+        "chain": "static",
+        "mask": 8192
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "field",
+          "eunice",
+          "state"
+        ],
+        5
+      ],
+      [
+        "eq",
+        [
+          "field",
+          "eunice",
+          "appearance"
+        ],
+        8
+      ]
+    ],
+    "delay": 30,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0C7E",
+    "shared_dos_callback": "7B09:07ED"
+  },
+  {
+    "selectors": {
+      "balloon1": {
+        "type": 23,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "balloon2": {
+        "type": 23,
+        "nth": 2,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "balloon3": {
+        "type": 23,
+        "nth": 3,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "balloon4": {
+        "type": 23,
+        "nth": 4,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "balloon5": {
+        "type": 23,
+        "nth": 5,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "balloon6": {
+        "type": 23,
+        "nth": 6,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "balloon7": {
+        "type": 23,
+        "nth": 7,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "balloon8": {
+        "type": 23,
+        "nth": 8,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "balloon9": {
+        "type": 23,
+        "nth": 9,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "balloon10": {
+        "type": 23,
+        "nth": 10,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "any",
+        [
+          "missing",
+          "balloon1"
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon1",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon1",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "balloon2"
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon2",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon2",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "balloon3"
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon3",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon3",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "balloon4"
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon4",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon4",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "balloon5"
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon5",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon5",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "balloon6"
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon6",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon6",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "balloon7"
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon7",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon7",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "balloon8"
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon8",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon8",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "balloon9"
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon9",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon9",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "balloon10"
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon10",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon10",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0C84"
+  },
+  {
+    "selectors": {
+      "piano": {
+        "type": 60,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "eq",
+      [
+        "field",
+        "piano",
+        "appearance"
+      ],
+      3
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0D1D",
+    "shared_dos_callback": "7B09:0387"
+  },
+  {
+    "selectors": {
+      "machines": {
+        "type": 42,
+        "nth": 1,
+        "chain": "static",
+        "mask": 8192,
+        "kind": "all"
+      }
+    },
+    "condition": [
+      "every",
+      "machines",
+      [
+        "ne",
+        [
+          "field",
+          "$",
+          "appearance"
+        ],
+        0
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0D23",
+    "shared_dos_callback": "7B09:0EA9"
+  },
+  {
+    "selectors": {
+      "sid": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "ge",
+        [
+          "field",
+          "sid",
+          "x"
+        ],
+        402
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "sid",
+          "x"
+        ],
+        495
+      ],
+      [
+        "ge",
+        [
+          "field",
+          "sid",
+          "y"
+        ],
+        10
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "sid",
+          "y"
+        ],
+        80
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0D29"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "state"
+        ],
+        4
+      ],
+      [
+        "ne",
+        [
+          "field",
+          "al",
+          "flags_08"
+        ],
+        0
+      ]
+    ],
+    "delay": 15,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0DA2",
+    "shared_dos_callback": "7B09:09DB"
+  },
+  {
+    "selectors": {
+      "rock1": {
+        "type": 6,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "rock2": {
+        "type": 6,
+        "nth": 2,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "rock3": {
+        "type": 6,
+        "nth": 3,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "all",
+        [
+          "ge",
+          [
+            "field",
+            "rock1",
+            "x"
+          ],
+          2
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "rock1",
+            "x"
+          ],
+          62
+        ],
+        [
+          "ge",
+          [
+            "field",
+            "rock1",
+            "y"
+          ],
+          220
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "rock1",
+            "y"
+          ],
+          390
+        ]
+      ],
+      [
+        "all",
+        [
+          "ge",
+          [
+            "field",
+            "rock2",
+            "x"
+          ],
+          2
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "rock2",
+            "x"
+          ],
+          62
+        ],
+        [
+          "ge",
+          [
+            "field",
+            "rock2",
+            "y"
+          ],
+          220
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "rock2",
+            "y"
+          ],
+          390
+        ]
+      ],
+      [
+        "all",
+        [
+          "ge",
+          [
+            "field",
+            "rock3",
+            "x"
+          ],
+          2
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "rock3",
+            "x"
+          ],
+          62
+        ],
+        [
+          "ge",
+          [
+            "field",
+            "rock3",
+            "y"
+          ],
+          220
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "rock3",
+            "y"
+          ],
+          390
+        ]
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0DA8"
+  },
+  {
+    "selectors": {
+      "sid": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "field",
+          "sid",
+          "state"
+        ],
+        8
+      ],
+      [
+        "eq",
+        [
+          "field",
+          "sid",
+          "appearance"
+        ],
+        43
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0E37"
+  },
+  {
+    "selectors": {
+      "sid1": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "sid2": {
+        "type": 37,
+        "nth": 2,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "sid3": {
+        "type": 37,
+        "nth": 3,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "sid4": {
+        "type": 37,
+        "nth": 4,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "sid5": {
+        "type": 37,
+        "nth": 5,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      },
+      "sid6": {
+        "type": 37,
+        "nth": 6,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "any",
+        [
+          "missing",
+          "sid1"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "sid1",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "sid2"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "sid2",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "sid3"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "sid3",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "sid4"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "sid4",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "sid5"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "sid5",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      [
+        "any",
+        [
+          "missing",
+          "sid6"
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "sid6",
+            "flags_08"
+          ],
+          8192
+        ]
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0E8E"
+  },
+  {
+    "selectors": {
+      "balloon1": {
+        "type": 23,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "balloon2": {
+        "type": 23,
+        "nth": 2,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "balloon3": {
+        "type": 23,
+        "nth": 3,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "balloon4": {
+        "type": 23,
+        "nth": 4,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "balloon5": {
+        "type": 23,
+        "nth": 5,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "balloon6": {
+        "type": 23,
+        "nth": 6,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "balloon7": {
+        "type": 23,
+        "nth": 7,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "balloon8": {
+        "type": 23,
+        "nth": 8,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "balloon9": {
+        "type": 23,
+        "nth": 9,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "balloon10": {
+        "type": 23,
+        "nth": 10,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      },
+      "balloon11": {
+        "type": 23,
+        "nth": 11,
+        "chain": "mover",
+        "mask": 4096,
+        "allow_null": true,
+        "live": true
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "all",
+        [
+          "not",
+          [
+            "missing",
+            "balloon1"
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon1",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon1",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "all",
+        [
+          "not",
+          [
+            "missing",
+            "balloon2"
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon2",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon2",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "all",
+        [
+          "not",
+          [
+            "missing",
+            "balloon3"
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon3",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon3",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "all",
+        [
+          "not",
+          [
+            "missing",
+            "balloon4"
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon4",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon4",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "all",
+        [
+          "not",
+          [
+            "missing",
+            "balloon5"
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon5",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon5",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "all",
+        [
+          "not",
+          [
+            "missing",
+            "balloon6"
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon6",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon6",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "all",
+        [
+          "not",
+          [
+            "missing",
+            "balloon7"
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon7",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon7",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "all",
+        [
+          "not",
+          [
+            "missing",
+            "balloon8"
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon8",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon8",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "all",
+        [
+          "not",
+          [
+            "missing",
+            "balloon9"
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon9",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon9",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "all",
+        [
+          "not",
+          [
+            "missing",
+            "balloon10"
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon10",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon10",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      [
+        "all",
+        [
+          "not",
+          [
+            "missing",
+            "balloon11"
+          ]
+        ],
+        [
+          "all",
+          [
+            "ge",
+            [
+              "field",
+              "balloon11",
+              "y"
+            ],
+            -100
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon11",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:0F1C"
+  },
+  {
+    "selectors": {
+      "ball": {
+        "type": 10,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "gt",
+      [
+        "var",
+        "held"
+      ],
+      100
+    ],
+    "delay": 10,
+    "rules": [
+      {
+        "when": [
+          "any",
+          [
+            "all",
+            [
+              "ge",
+              [
+                "field",
+                "ball",
+                "x"
+              ],
+              12
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "ball",
+                "x"
+              ],
+              72
+            ],
+            [
+              "ge",
+              [
+                "field",
+                "ball",
+                "y"
+              ],
+              320
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "ball",
+                "y"
+              ],
+              390
+            ]
+          ],
+          [
+            "all",
+            [
+              "ge",
+              [
+                "field",
+                "ball",
+                "x"
+              ],
+              432
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "ball",
+                "x"
+              ],
+              497
+            ],
+            [
+              "ge",
+              [
+                "field",
+                "ball",
+                "y"
+              ],
+              320
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "ball",
+                "y"
+              ],
+              390
+            ]
+          ]
+        ],
+        "set": "held",
+        "value": [
+          "and",
+          [
+            "add",
+            [
+              "var",
+              "held"
+            ],
+            1
+          ],
+          65535
+        ]
+      },
+      {
+        "when": [
+          "not",
+          [
+            "any",
+            [
+              "all",
+              [
+                "ge",
+                [
+                  "field",
+                  "ball",
+                  "x"
+                ],
+                12
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "ball",
+                  "x"
+                ],
+                72
+              ],
+              [
+                "ge",
+                [
+                  "field",
+                  "ball",
+                  "y"
+                ],
+                320
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "ball",
+                  "y"
+                ],
+                390
+              ]
+            ],
+            [
+              "all",
+              [
+                "ge",
+                [
+                  "field",
+                  "ball",
+                  "x"
+                ],
+                432
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "ball",
+                  "x"
+                ],
+                497
+              ],
+              [
+                "ge",
+                [
+                  "field",
+                  "ball",
+                  "y"
+                ],
+                320
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "ball",
+                  "y"
+                ],
+                390
+              ]
+            ]
+          ]
+        ],
+        "set": "held",
+        "value": 0
+      }
+    ],
+    "vars": {
+      "held": 0
+    },
+    "address": "MPC29:0FB9"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "bit",
+      [
+        "field",
+        "al",
+        "flags_08"
+      ],
+      8192
+    ],
+    "delay": 60,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:105C"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "eq",
+      [
+        "field",
+        "al",
+        "state"
+      ],
+      57
+    ],
+    "delay": 50,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:10A6"
+  },
+  {
+    "selectors": {
+      "sid": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "ge",
+        [
+          "field",
+          "sid",
+          "x"
+        ],
+        337
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "sid",
+          "x"
+        ],
+        502
+      ],
+      [
+        "ge",
+        [
+          "field",
+          "sid",
+          "y"
+        ],
+        320
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "sid",
+          "y"
+        ],
+        395
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:10EF"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "var",
+          "caught"
+        ],
+        0
+      ],
+      [
+        "all",
+        [
+          "gt",
+          [
+            "field",
+            "al",
+            "y"
+          ],
+          410
+        ],
+        [
+          "ge",
+          [
+            "field",
+            "al",
+            "x"
+          ],
+          0
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "al",
+            "x"
+          ],
+          580
+        ]
+      ]
+    ],
+    "delay": 20,
+    "rules": [
+      {
+        "when": [
+          "eq",
+          [
+            "field",
+            "al",
+            "state"
+          ],
+          2
+        ],
+        "set": "caught",
+        "value": 1
+      }
+    ],
+    "vars": {
+      "caught": 0
+    },
+    "address": "MPC29:1168"
+  },
+  {
+    "selectors": {
+      "sid": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "bit",
+      [
+        "field",
+        "sid",
+        "flags_08"
+      ],
+      8192
+    ],
+    "delay": 30,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:11F3"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "state"
+        ],
+        20
+      ],
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "appearance"
+        ],
+        181
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:123D",
+    "shared_dos_callback": "7B09:17C0"
+  },
+  {
+    "selectors": {
+      "whistle": {
+        "type": 53,
+        "nth": 1,
+        "chain": "static",
+        "mask": 8192
+      }
+    },
+    "condition": [
+      "ge",
+      [
+        "field",
+        "whistle",
+        "appearance"
+      ],
+      10
+    ],
+    "delay": 30,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:1243"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      },
+      "sid": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "all",
+        [
+          "ge",
+          [
+            "field",
+            "al",
+            "x"
+          ],
+          27
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "al",
+            "x"
+          ],
+          137
+        ],
+        [
+          "ge",
+          [
+            "field",
+            "al",
+            "y"
+          ],
+          275
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "al",
+            "y"
+          ],
+          358
+        ]
+      ],
+      [
+        "all",
+        [
+          "ge",
+          [
+            "field",
+            "sid",
+            "x"
+          ],
+          27
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "sid",
+            "x"
+          ],
+          137
+        ],
+        [
+          "ge",
+          [
+            "field",
+            "sid",
+            "y"
+          ],
+          275
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "sid",
+            "y"
+          ],
+          358
+        ]
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:128C"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "gt",
+        [
+          "field",
+          "al",
+          "y"
+        ],
+        410
+      ],
+      [
+        "ge",
+        [
+          "field",
+          "al",
+          "x"
+        ],
+        0
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "al",
+          "x"
+        ],
+        580
+      ]
+    ],
+    "delay": 20,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:1356"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "eq",
+      [
+        "field",
+        "al",
+        "state"
+      ],
+      55
+    ],
+    "delay": 20,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:13BD",
+    "shared_dos_callback": "7B09:0167"
+  },
+  {
+    "selectors": {
+      "sid": {
+        "type": 37,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "eq",
+      [
+        "field",
+        "sid",
+        "state"
+      ],
+      18
+    ],
+    "delay": 60,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:13C3",
+    "shared_dos_callback": "7B09:00E9"
+  },
+  {
+    "selectors": {
+      "al": {
+        "type": 36,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "state"
+        ],
+        20
+      ],
+      [
+        "eq",
+        [
+          "field",
+          "al",
+          "appearance"
+        ],
+        181
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:13C9",
+    "shared_dos_callback": "7B09:17C0"
+  },
+  {
+    "selectors": {
+      "ball": {
+        "type": 9,
+        "nth": 1,
+        "chain": "mover",
+        "mask": 4096
+      }
+    },
+    "condition": [
+      "all",
+      [
+        "ge",
+        [
+          "field",
+          "ball",
+          "x"
+        ],
+        390
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "ball",
+          "x"
+        ],
+        488
+      ],
+      [
+        "ge",
+        [
+          "field",
+          "ball",
+          "y"
+        ],
+        280
+      ],
+      [
+        "lt",
+        [
+          "field",
+          "ball",
+          "y"
+        ],
+        380
+      ]
+    ],
+    "delay": 10,
+    "rules": [],
+    "vars": {},
+    "address": "MPC29:13CF"
+  }
+]

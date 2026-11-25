@@ -1,0 +1,314 @@
+[
+  {
+    "source": "CAKE2",
+    "aim": "Give both elephants a peanut.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 204
+  },
+  {
+    "source": "CAKE3",
+    "aim": "Send Sid into the first Tunnel.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 301
+  },
+  {
+    "source": "CAKE4",
+    "aim": "Get Bik Dragon to torch Sid.",
+    "family": "Remove this part",
+    "campaign_finish": 113
+  },
+  {
+    "source": "CAKE5",
+    "aim": "Help Al reach his fish dinner.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 192
+  },
+  {
+    "source": "CAKE8",
+    "aim": "Feed Sid cheese and keep Al away.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 155
+  },
+  {
+    "source": "CAKE10",
+    "aim": "Bring both Counters down to zero.",
+    "family": "Operate, damage, or read a gadget",
+    "campaign_finish": 121
+  },
+  {
+    "source": "CAKE11",
+    "aim": "Fire five catapult rocks to zero the Counter.",
+    "family": "Operate, damage, or read a gadget",
+    "campaign_finish": 218
+  },
+  {
+    "source": "CAKE12",
+    "aim": "Vacuum up the bombs before they hurt Al.",
+    "family": "Vacuum up this part",
+    "campaign_finish": 89
+  },
+  {
+    "source": "CAKE13",
+    "aim": "Use the conveyor to serve Al his fish.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 166
+  },
+  {
+    "source": "CAKE14",
+    "aim": "Feed Al fish and Sid cheese using the electrical setup.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 75
+  },
+  {
+    "source": "CAKE17",
+    "aim": "Knock Sid off the stump with the Thumpulator.",
+    "family": "Reach or leave a place",
+    "campaign_finish": 59
+  },
+  {
+    "source": "CAKE18",
+    "aim": "Clear both rocks from the screen.",
+    "family": "Reach or leave a place",
+    "campaign_finish": 99
+  },
+  {
+    "source": "CAKE19",
+    "aim": "Blow the baseball offstage with the Teapot.",
+    "family": "Reach or leave a place",
+    "campaign_finish": 143
+  },
+  {
+    "source": "CAKE20",
+    "aim": "Cut the Rope and drop the lower Anvil.",
+    "family": "Reach or leave a place",
+    "campaign_finish": 54
+  },
+  {
+    "source": "CAKE22",
+    "aim": "Drop Sid and Al through the Trap Doors.",
+    "family": "Reach or leave a place",
+    "campaign_finish": 51
+  },
+  {
+    "source": "CAKE27",
+    "aim": "Blast the characters out of their log cabin.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 207
+  },
+  {
+    "source": "CAKE29",
+    "aim": "Use the Skeleto-Bobbin to bomb Al.",
+    "family": "Remove this part",
+    "campaign_finish": 158
+  },
+  {
+    "source": "CAKE30",
+    "aim": "Connect the Trans-Roto-Matic and feed Al a banana.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 303
+  },
+  {
+    "source": "BRAN2",
+    "aim": "Drop an Anvil on the snoozing Al.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 120
+  },
+  {
+    "source": "BRAN4",
+    "aim": "Hit Sid with a Rock and Al with a Ball Bearing.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 214
+  },
+  {
+    "source": "BRAN5",
+    "aim": "Get Sid past the Thumpulators to the Cheese.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 287
+  },
+  {
+    "source": "BRAN6",
+    "aim": "Feed Al all three Fish.",
+    "family": "Remove this part",
+    "campaign_finish": 333
+  },
+  {
+    "source": "BRAN8",
+    "aim": "Save Al from the pins.",
+    "family": "Operate, damage, or read a gadget",
+    "campaign_finish": 157
+  },
+  {
+    "source": "BRAN14",
+    "aim": "Have Bik Dragon roast Al.",
+    "family": "Remove this part",
+    "campaign_finish": 534
+  },
+  {
+    "source": "BRAN15",
+    "aim": "Feed Sid Cheese and Al Fish.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 425
+  },
+  {
+    "source": "BRAN17",
+    "aim": "Feed Sid two pieces of Cheese and hit Al with an egg.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 363
+  },
+  {
+    "source": "BRAN19",
+    "aim": "Get Al into the fort to capture Sid.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 380
+  },
+  {
+    "source": "BRAN20",
+    "aim": "Have Sid eat every piece of Cheese.",
+    "family": "Remove this part",
+    "campaign_finish": 407
+  },
+  {
+    "source": "HARD4",
+    "aim": "Clear all the balls from the pool table.",
+    "family": "Remove this part",
+    "campaign_finish": 191
+  },
+  {
+    "source": "HARD6",
+    "aim": "Vacuum up the three cats.",
+    "family": "Vacuum up this part",
+    "campaign_finish": 316
+  },
+  {
+    "source": "HARD7",
+    "aim": "Drop Sid off the bottom edge.",
+    "family": "Reach or leave a place",
+    "campaign_finish": 282
+  },
+  {
+    "source": "HARD9",
+    "aim": "Help Sid roast Al.",
+    "family": "Remove this part",
+    "campaign_finish": 398
+  },
+  {
+    "source": "HARD10",
+    "aim": "Help Al catch Sid.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 502
+  },
+  {
+    "source": "HARD11",
+    "aim": "Get Sid into the big top for some Cheese.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 515
+  },
+  {
+    "source": "HARD12",
+    "aim": "Hit Sid with the Anvil.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 370
+  },
+  {
+    "source": "HARD13",
+    "aim": "Have Al's catapult hit Sid with a Rock.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 512
+  },
+  {
+    "source": "HARD16",
+    "aim": "Feed the hungry Al by catching Sid.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 494
+  },
+  {
+    "source": "HARD17",
+    "aim": "Feed Sid to Al.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 377
+  },
+  {
+    "source": "HARD23",
+    "aim": "Reveal the third secret word.",
+    "family": "Operate, damage, or read a gadget",
+    "campaign_finish": 120
+  },
+  {
+    "source": "LOON3",
+    "aim": "Use Sid's Pencil to get rid of Al.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 607
+  },
+  {
+    "source": "LOON4",
+    "aim": "Send Sid down the bottom-right chute.",
+    "family": "Reach or leave a place",
+    "campaign_finish": 834
+  },
+  {
+    "source": "LOON7",
+    "aim": "Pop the balloon at the top.",
+    "family": "Remove this part",
+    "campaign_finish": 671
+  },
+  {
+    "source": "LOON8",
+    "aim": "Help the elephants drop the Anvil on Al.",
+    "family": "Remove this part",
+    "campaign_finish": 528
+  },
+  {
+    "source": "LOON9",
+    "aim": "Drop the Piano on the sleeping Al.",
+    "family": "Remove this part",
+    "campaign_finish": 406
+  },
+  {
+    "source": "LOON10",
+    "aim": "Help Sid find his Cheese.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 867
+  },
+  {
+    "source": "LOON14",
+    "aim": "Get Al out of the dungeon.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 716
+  },
+  {
+    "source": "LOON15",
+    "aim": "Help Al reach the Ball-O-Yarn.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 581
+  },
+  {
+    "source": "LOON20",
+    "aim": "Hit each cat and each mouse with an egg.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 99
+  },
+  {
+    "source": "LOON22",
+    "aim": "Blow Sid off his flying carpet.",
+    "family": "Reach or leave a place",
+    "campaign_finish": 344
+  },
+  {
+    "source": "LOON23",
+    "aim": "Find Sid a banana for breakfast.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 420
+  },
+  {
+    "source": "LOON24",
+    "aim": "Give both characters Bubble Gum to help them escape.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 230
+  },
+  {
+    "source": "LOON25",
+    "aim": "Drop a bomb on Al.",
+    "family": "Reach an action or animation milestone",
+    "campaign_finish": 612
+  }
+]

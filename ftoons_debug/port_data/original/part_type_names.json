@@ -1,0 +1,524 @@
+{
+  "source": "User visual and help-file identification, 2026-10-28; investigate unfilled IDs independently",
+  "note": "Type 1 identified as Belt by CAKE25 runtime graph and screenshot, 2026-11-03. Its controller coordinates are not a drawable gadget position.",
+  "types": [
+    {
+      "id": 0,
+      "name": "Conveyor Belt",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 1,
+      "name": "Belt",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true,
+      "runtime_evidence": "CAKE25 setup: controller +5D shared with Chow-Man and Conveyor; serialized endpoints and visible two-line connection. 2026-11-03."
+    },
+    {
+      "id": 2,
+      "name": "Electric Switch and Outlet",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 3,
+      "name": "Teeter-Totter",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 4,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 5,
+      "name": "Dust Bunny",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 6,
+      "name": "Rock",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 7,
+      "name": "Ball-O-Yarn",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 8,
+      "name": "Bob Baseball",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 9,
+      "name": "Soccer Ball",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 10,
+      "name": "Beachball",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 11,
+      "name": "Marble",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 12,
+      "name": "Teapot",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 13,
+      "name": "Vacuum",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 14,
+      "name": "Rope",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 15,
+      "name": "Eye-Hook",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 16,
+      "name": "Scissors",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 17,
+      "name": "Pulley",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 18,
+      "name": "Gears",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 19,
+      "name": "Ball Bomb",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 20,
+      "name": "Pistol",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 21,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 22,
+      "name": "Ratapult",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 23,
+      "name": "Balloon",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 24,
+      "name": "Air Mattress",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 25,
+      "name": "Cliff Ant",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 26,
+      "name": "Wall-O-Steel",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 27,
+      "name": "Wooden Wall",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 28,
+      "name": "Rock Wall",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 29,
+      "name": "Log Wall",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 30,
+      "name": "Magnifying Glass",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 31,
+      "name": "Ball Bearing",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 32,
+      "name": "Striped Super Ball",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 33,
+      "name": "Dinky Blue Ball",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 34,
+      "name": "Small Super Ball",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 35,
+      "name": "Bik Dragon",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 36,
+      "name": "Al E. Cat",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 37,
+      "name": "Sid Mouse",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 38,
+      "name": "Timer",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 39,
+      "name": "Up/Down Counter",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 40,
+      "name": "Thumpulator",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 41,
+      "name": "Electro-Ramp",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 42,
+      "name": "Message Machine",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 43,
+      "name": "Trans-Roto-Matic",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 44,
+      "name": "Skeleto-Bobbin",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 45,
+      "name": "Ladder",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 46,
+      "name": "Tunnel",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 47,
+      "name": "Candy Cane Incline",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 48,
+      "name": "Tile Roof Incline",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 49,
+      "name": "Stone Incline",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 50,
+      "name": "Thatched Straw Incline",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 51,
+      "name": "Vertebrae Incline",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 52,
+      "name": "Hair-Dryer",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 53,
+      "name": "Lunch Whistle",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true,
+      "identification_source": "User-provided correlation, 2026-10-29"
+    },
+    {
+      "id": 54,
+      "name": "Bubble Gum",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 55,
+      "name": "Egg",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 56,
+      "name": "Fish",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 57,
+      "name": "Cheese",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 58,
+      "name": "Peanut",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 59,
+      "name": "Banana",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 60,
+      "name": "Piano",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 61,
+      "name": "Anvil",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 62,
+      "name": "World War II Bombshell",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 63,
+      "name": "Hat Pin",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 64,
+      "name": "Pencil",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 65,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 66,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 67,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 68,
+      "name": "Eunice Elephant",
+      "user_marked_confirmed": true,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 69,
+      "name": "Hildegard Hen",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 70,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 71,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 72,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 73,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 74,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 75,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 76,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 77,
+      "name": "Rug",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 78,
+      "name": "Trap Door",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 79,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 80,
+      "name": "Chow-Man Motor",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 81,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 82,
+      "name": "Vertebrae Wall",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 83,
+      "name": "Dog Bone Wall",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 84,
+      "name": "Cracked Bone Incline",
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": true
+    },
+    {
+      "id": 85,
+      "name": null,
+      "user_marked_confirmed": false,
+      "in_dos_85_entry_type_table": false
+    }
+  ]
+}

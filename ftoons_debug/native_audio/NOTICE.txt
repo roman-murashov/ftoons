@@ -1,0 +1,21 @@
+The ftoons Windows audio helper uses the supplied game's AdLib driver, sound
+bank and instrument data. Its two native decoder libraries are provided here.
+
+Unicorn Engine 2.1.4
+https://github.com/unicorn-engine/unicorn/tree/2.1.4
+unicorn.dll is the Windows x86-64 native library distributed in the official
+unicorn 2.1.4 Windows wheel. The upstream source for that release is bundled
+in unicorn-source/unicorn-2.1.4.tar.gz. It includes CMake and Visual Studio
+build instructions in docs/COMPILE.md and copyright notices for the bundled
+components. Upstream COPYING, COPYING.LGPL2, COPYING_GLIB, AUTHORS.TXT and
+CREDITS.TXT are also present in unicorn-source/.
+
+DOSBox-X DBOPL, dosbox-x-v2026.10.01
+https://github.com/joncampbell123/dosbox-x/tree/dosbox-x-v2026.10.01
+toons_dbopl.dll uses the DOSBox-X DBOPL engine, a host adapter and the port's
+integer mixer. dbopl-source/ supplies the exact adapted code, its GPL COPYING
+file and build fingerprints. Original copyright notices remain in those files.
+
+BUILD.ps1 rebuilds ftoons_audio.exe with Zig 0.15.2. Supply -RebuildChip to
+rebuild toons_dbopl.dll as well. Use the shipped-build hashes in SHA256SUMS.txt
+to identify the original distributed dependency files.

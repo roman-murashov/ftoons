@@ -1,0 +1,6343 @@
+{
+  "schema": 1,
+  "exe_sha256": "3f12ebebe256adf2a612e35b659a3fc27138c2a495cb12771aab4195b4759b9a",
+  "dispatch_file_offset": 328634,
+  "dispatch_ds_offset": 4010,
+  "dispatch_count": 100,
+  "unique_campaign_callbacks": 61,
+  "callback_count": 63,
+  "levels": [
+    {
+      "source_name": "CAKE1.LEV",
+      "index": 0,
+      "callback": "7B09:0E10",
+      "stub": "5669:00B6"
+    },
+    {
+      "source_name": "CAKE2.LEV",
+      "index": 1,
+      "callback": "7B09:083C",
+      "stub": "5669:0089"
+    },
+    {
+      "source_name": "CAKE3.LEV",
+      "index": 2,
+      "callback": "7B09:0F10",
+      "stub": "5669:00C0"
+    },
+    {
+      "source_name": "CAKE4.LEV",
+      "index": 3,
+      "callback": "7B09:0040",
+      "stub": "5669:0025"
+    },
+    {
+      "source_name": "CAKE5.LEV",
+      "index": 4,
+      "callback": "7B09:01A6",
+      "stub": "5669:003E"
+    },
+    {
+      "source_name": "CAKE6.LEV",
+      "index": 5,
+      "callback": "7B09:16A8",
+      "stub": "5669:010B"
+    },
+    {
+      "source_name": "CAKE7.LEV",
+      "index": 6,
+      "callback": "7B09:0000",
+      "stub": "5669:0020"
+    },
+    {
+      "source_name": "CAKE8.LEV",
+      "index": 7,
+      "callback": "7B09:116F",
+      "stub": "5669:00E3"
+    },
+    {
+      "source_name": "CAKE9.LEV",
+      "index": 8,
+      "callback": "7B09:1220",
+      "stub": "5669:00E8"
+    },
+    {
+      "source_name": "CAKE10.LEV",
+      "index": 9,
+      "callback": "7B09:10BD",
+      "stub": "5669:00D9"
+    },
+    {
+      "source_name": "CAKE11.LEV",
+      "index": 10,
+      "callback": "7B09:112D",
+      "stub": "5669:00DE"
+    },
+    {
+      "source_name": "CAKE12.LEV",
+      "index": 11,
+      "callback": "7B09:104F",
+      "stub": "5669:00D4"
+    },
+    {
+      "source_name": "CAKE13.LEV",
+      "index": 12,
+      "callback": "7B09:01A6",
+      "stub": "5669:003E"
+    },
+    {
+      "source_name": "CAKE14.LEV",
+      "index": 13,
+      "callback": "7B09:1950",
+      "stub": "5669:0124"
+    },
+    {
+      "source_name": "CAKE15.LEV",
+      "index": 14,
+      "callback": "7B09:19F3",
+      "stub": "5669:0129"
+    },
+    {
+      "source_name": "CAKE16.LEV",
+      "index": 15,
+      "callback": "7B09:00E9",
+      "stub": "5669:002F"
+    },
+    {
+      "source_name": "CAKE17.LEV",
+      "index": 16,
+      "callback": "7B09:1A32",
+      "stub": "5669:012E"
+    },
+    {
+      "source_name": "CAKE18.LEV",
+      "index": 17,
+      "callback": "7B09:0299",
+      "stub": "5669:004D"
+    },
+    {
+      "source_name": "CAKE19.LEV",
+      "index": 18,
+      "callback": "7B09:0307",
+      "stub": "5669:0052"
+    },
+    {
+      "source_name": "CAKE20.LEV",
+      "index": 19,
+      "callback": "7B09:0347",
+      "stub": "5669:0057"
+    },
+    {
+      "source_name": "CAKE21.LEV",
+      "index": 20,
+      "callback": "7B09:01A6",
+      "stub": "5669:003E"
+    },
+    {
+      "source_name": "CAKE22.LEV",
+      "index": 21,
+      "callback": "7B09:03C6",
+      "stub": "5669:0061"
+    },
+    {
+      "source_name": "CAKE23.LEV",
+      "index": 22,
+      "callback": "7B09:0434",
+      "stub": "5669:0066"
+    },
+    {
+      "source_name": "CAKE24.LEV",
+      "index": 23,
+      "callback": "7B09:0A2A",
+      "stub": "5669:0098"
+    },
+    {
+      "source_name": "CAKE25.LEV",
+      "index": 24,
+      "callback": "7B09:12E2",
+      "stub": "5669:00ED"
+    },
+    {
+      "source_name": "CAKE26.LEV",
+      "index": 25,
+      "callback": "7B09:1466",
+      "stub": "5669:00F7"
+    },
+    {
+      "source_name": "CAKE27.LEV",
+      "index": 26,
+      "callback": "7B09:1548",
+      "stub": "5669:00FC"
+    },
+    {
+      "source_name": "CAKE28.LEV",
+      "index": 27,
+      "callback": "7B09:0A7A",
+      "stub": "5669:009D"
+    },
+    {
+      "source_name": "CAKE29.LEV",
+      "index": 28,
+      "callback": "7B09:0000",
+      "stub": "5669:0020"
+    },
+    {
+      "source_name": "CAKE30.LEV",
+      "index": 29,
+      "callback": "7B09:0167",
+      "stub": "5669:0039"
+    },
+    {
+      "source_name": "BRAN1.LEV",
+      "index": 30,
+      "callback": "7B09:0F60",
+      "stub": "5669:00C5"
+    },
+    {
+      "source_name": "BRAN2.LEV",
+      "index": 31,
+      "callback": "7B09:09DB",
+      "stub": "5669:0093"
+    },
+    {
+      "source_name": "BRAN3.LEV",
+      "index": 32,
+      "callback": "7B09:07ED",
+      "stub": "5669:0084"
+    },
+    {
+      "source_name": "BRAN4.LEV",
+      "index": 33,
+      "callback": "7B09:1720",
+      "stub": "5669:0110"
+    },
+    {
+      "source_name": "BRAN5.LEV",
+      "index": 34,
+      "callback": "7B09:00E9",
+      "stub": "5669:002F"
+    },
+    {
+      "source_name": "BRAN6.LEV",
+      "index": 35,
+      "callback": "7B09:1C80",
+      "stub": "5669:0147"
+    },
+    {
+      "source_name": "BRAN7.LEV",
+      "index": 36,
+      "callback": "7B09:0A2A",
+      "stub": "5669:0098"
+    },
+    {
+      "source_name": "BRAN8.LEV",
+      "index": 37,
+      "callback": "7B09:0B5A",
+      "stub": "5669:00A7"
+    },
+    {
+      "source_name": "BRAN9.LEV",
+      "index": 38,
+      "callback": "7B09:00E9",
+      "stub": "5669:002F"
+    },
+    {
+      "source_name": "BRAN10.LEV",
+      "index": 39,
+      "callback": "7B09:05C7",
+      "stub": "5669:0075"
+    },
+    {
+      "source_name": "BRAN11.LEV",
+      "index": 40,
+      "callback": "7B09:01A6",
+      "stub": "5669:003E"
+    },
+    {
+      "source_name": "BRAN12.LEV",
+      "index": 41,
+      "callback": "7B09:0AEB",
+      "stub": "5669:00A2"
+    },
+    {
+      "source_name": "BRAN13.LEV",
+      "index": 42,
+      "callback": "7B09:0000",
+      "stub": "5669:0020"
+    },
+    {
+      "source_name": "BRAN14.LEV",
+      "index": 43,
+      "callback": "7B09:0000",
+      "stub": "5669:0020"
+    },
+    {
+      "source_name": "BRAN15.LEV",
+      "index": 44,
+      "callback": "7B09:1950",
+      "stub": "5669:0124"
+    },
+    {
+      "source_name": "BRAN16.LEV",
+      "index": 45,
+      "callback": "7B09:0C48",
+      "stub": "5669:00AC"
+    },
+    {
+      "source_name": "BRAN17.LEV",
+      "index": 46,
+      "callback": "7B09:18B0",
+      "stub": "5669:011F"
+    },
+    {
+      "source_name": "BRAN18.LEV",
+      "index": 47,
+      "callback": "7B09:17C0",
+      "stub": "5669:0115"
+    },
+    {
+      "source_name": "BRAN19.LEV",
+      "index": 48,
+      "callback": "7B09:17C0",
+      "stub": "5669:0115"
+    },
+    {
+      "source_name": "BRAN20.LEV",
+      "index": 49,
+      "callback": "7B09:1C17",
+      "stub": "5669:0142"
+    },
+    {
+      "source_name": "HARD1.LEV",
+      "index": 50,
+      "callback": "7B09:17C0",
+      "stub": "5669:0115"
+    },
+    {
+      "source_name": "HARD2.LEV",
+      "index": 51,
+      "callback": "7B09:07ED",
+      "stub": "5669:0084"
+    },
+    {
+      "source_name": "HARD3.LEV",
+      "index": 52,
+      "callback": "7B09:0128",
+      "stub": "5669:0034"
+    },
+    {
+      "source_name": "HARD4.LEV",
+      "index": 53,
+      "callback": "7B09:08EA",
+      "stub": "5669:008E"
+    },
+    {
+      "source_name": "HARD5.LEV",
+      "index": 54,
+      "callback": "7B09:00E9",
+      "stub": "5669:002F"
+    },
+    {
+      "source_name": "HARD6.LEV",
+      "index": 55,
+      "callback": "7B09:1B94",
+      "stub": "5669:013D"
+    },
+    {
+      "source_name": "HARD7.LEV",
+      "index": 56,
+      "callback": "7B09:1A32",
+      "stub": "5669:012E"
+    },
+    {
+      "source_name": "HARD8.LEV",
+      "index": 57,
+      "callback": "7B09:17C0",
+      "stub": "5669:0115"
+    },
+    {
+      "source_name": "HARD9.LEV",
+      "index": 58,
+      "callback": "7B09:0000",
+      "stub": "5669:0020"
+    },
+    {
+      "source_name": "HARD10.LEV",
+      "index": 59,
+      "callback": "7B09:17C0",
+      "stub": "5669:0115"
+    },
+    {
+      "source_name": "HARD11.LEV",
+      "index": 60,
+      "callback": "7B09:00E9",
+      "stub": "5669:002F"
+    },
+    {
+      "source_name": "HARD12.LEV",
+      "index": 61,
+      "callback": "7B09:16A8",
+      "stub": "5669:010B"
+    },
+    {
+      "source_name": "HARD13.LEV",
+      "index": 62,
+      "callback": "7B09:16A8",
+      "stub": "5669:010B"
+    },
+    {
+      "source_name": "HARD14.LEV",
+      "index": 63,
+      "callback": "7B09:17C0",
+      "stub": "5669:0115"
+    },
+    {
+      "source_name": "HARD15.LEV",
+      "index": 64,
+      "callback": "7B09:00E9",
+      "stub": "5669:002F"
+    },
+    {
+      "source_name": "HARD16.LEV",
+      "index": 65,
+      "callback": "7B09:17C0",
+      "stub": "5669:0115"
+    },
+    {
+      "source_name": "HARD17.LEV",
+      "index": 66,
+      "callback": "7B09:17C0",
+      "stub": "5669:0115"
+    },
+    {
+      "source_name": "HARD18.LEV",
+      "index": 67,
+      "callback": "7B09:0EA9",
+      "stub": "5669:00BB"
+    },
+    {
+      "source_name": "HARD19.LEV",
+      "index": 68,
+      "callback": "7B09:1658",
+      "stub": "5669:0106"
+    },
+    {
+      "source_name": "HARD20.LEV",
+      "index": 69,
+      "callback": "7B09:0040",
+      "stub": "5669:0025"
+    },
+    {
+      "source_name": "HARD21.LEV",
+      "index": 70,
+      "callback": "7B09:0EA9",
+      "stub": "5669:00BB"
+    },
+    {
+      "source_name": "HARD22.LEV",
+      "index": 71,
+      "callback": "7B09:0EA9",
+      "stub": "5669:00BB"
+    },
+    {
+      "source_name": "HARD23.LEV",
+      "index": 72,
+      "callback": "7B09:0EA9",
+      "stub": "5669:00BB"
+    },
+    {
+      "source_name": "HARD24.LEV",
+      "index": 73,
+      "callback": "7B09:0EA9",
+      "stub": "5669:00BB"
+    },
+    {
+      "source_name": "HARD25.LEV",
+      "index": 74,
+      "callback": "7B09:0EA9",
+      "stub": "5669:00BB"
+    },
+    {
+      "source_name": "LOON1.LEV",
+      "index": 75,
+      "callback": "7B09:0CE7",
+      "stub": "5669:00B1"
+    },
+    {
+      "source_name": "LOON2.LEV",
+      "index": 76,
+      "callback": "7B09:17C0",
+      "stub": "5669:0115"
+    },
+    {
+      "source_name": "LOON3.LEV",
+      "index": 77,
+      "callback": "7B09:1DBB",
+      "stub": "5669:0156"
+    },
+    {
+      "source_name": "LOON4.LEV",
+      "index": 78,
+      "callback": "7B09:1B22",
+      "stub": "5669:0138"
+    },
+    {
+      "source_name": "LOON5.LEV",
+      "index": 79,
+      "callback": "7B09:1A32",
+      "stub": "5669:012E"
+    },
+    {
+      "source_name": "LOON6.LEV",
+      "index": 80,
+      "callback": "7B09:1A82",
+      "stub": "5669:0133"
+    },
+    {
+      "source_name": "LOON7.LEV",
+      "index": 81,
+      "callback": "7B09:0241",
+      "stub": "5669:0048"
+    },
+    {
+      "source_name": "LOON8.LEV",
+      "index": 82,
+      "callback": "7B09:0000",
+      "stub": "5669:0020"
+    },
+    {
+      "source_name": "LOON9.LEV",
+      "index": 83,
+      "callback": "7B09:0000",
+      "stub": "5669:0020"
+    },
+    {
+      "source_name": "LOON10.LEV",
+      "index": 84,
+      "callback": "7B09:00E9",
+      "stub": "5669:002F"
+    },
+    {
+      "source_name": "LOON11.LEV",
+      "index": 85,
+      "callback": "7B09:1810",
+      "stub": "5669:011A"
+    },
+    {
+      "source_name": "LOON12.LEV",
+      "index": 86,
+      "callback": "7B09:04AD",
+      "stub": "5669:006B"
+    },
+    {
+      "source_name": "LOON13.LEV",
+      "index": 87,
+      "callback": "7B09:0080",
+      "stub": "5669:002A"
+    },
+    {
+      "source_name": "LOON14.LEV",
+      "index": 88,
+      "callback": "7B09:0FB0",
+      "stub": "5669:00CA"
+    },
+    {
+      "source_name": "LOON15.LEV",
+      "index": 89,
+      "callback": "7B09:1000",
+      "stub": "5669:00CF"
+    },
+    {
+      "source_name": "LOON16.LEV",
+      "index": 90,
+      "callback": "7B09:1D52",
+      "stub": "5669:0151"
+    },
+    {
+      "source_name": "LOON17.LEV",
+      "index": 91,
+      "callback": "7B09:050D",
+      "stub": "5669:0070"
+    },
+    {
+      "source_name": "LOON18.LEV",
+      "index": 92,
+      "callback": "7B09:1CE9",
+      "stub": "5669:014C"
+    },
+    {
+      "source_name": "LOON19.LEV",
+      "index": 93,
+      "callback": "7B09:0657",
+      "stub": "5669:007A"
+    },
+    {
+      "source_name": "LOON20.LEV",
+      "index": 94,
+      "callback": "7B09:0712",
+      "stub": "5669:007F"
+    },
+    {
+      "source_name": "LOON21.LEV",
+      "index": 95,
+      "callback": "7B09:04AD",
+      "stub": "5669:006B"
+    },
+    {
+      "source_name": "LOON22.LEV",
+      "index": 96,
+      "callback": "7B09:1A32",
+      "stub": "5669:012E"
+    },
+    {
+      "source_name": "LOON23.LEV",
+      "index": 97,
+      "callback": "7B09:0128",
+      "stub": "5669:0034"
+    },
+    {
+      "source_name": "LOON24.LEV",
+      "index": 98,
+      "callback": "7B09:13A4",
+      "stub": "5669:00F2"
+    },
+    {
+      "source_name": "LOON25.LEV",
+      "index": 99,
+      "callback": "7B09:1609",
+      "stub": "5669:0101"
+    }
+  ],
+  "callbacks": {
+    "7B09:0000": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "bit",
+        [
+          "field",
+          "al",
+          "flags_08"
+        ],
+        8192
+      ],
+      "delay": 50,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0000",
+      "byte_length": 64,
+      "sha256": "29ff1825b180d328bab6d14264f9da3b893154718c5fa3b8a005f1beeb8b1c3b",
+      "levels": [
+        "CAKE7.LEV",
+        "CAKE29.LEV",
+        "BRAN13.LEV",
+        "BRAN14.LEV",
+        "HARD9.LEV",
+        "LOON8.LEV",
+        "LOON9.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82400509a2d26000083c406ba0f348ec226a36074b80f348ec0268b1e6074f7470800207406c7060d4732005dcb"
+    },
+    "7B09:0040": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "bit",
+        [
+          "field",
+          "sid",
+          "flags_08"
+        ],
+        8192
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0040",
+      "byte_length": 64,
+      "sha256": "efc08376b09e73ff12b99fb0a99fd89d2cf589eee535ed9f55b0544dfca60035",
+      "levels": [
+        "CAKE4.LEV",
+        "HARD20.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82500509a2d26000083c406ba0f348ec226a36274b80f348ec0268b1e6274f7470800207406c7060d470a005dcb"
+    },
+    "7B09:0080": {
+      "selectors": {
+        "sid1": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "sid2": {
+          "type": 37,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "sid3": {
+          "type": 37,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "bit",
+          [
+            "field",
+            "sid1",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "sid2",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "sid3",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0080",
+      "byte_length": 105,
+      "sha256": "f55f4b367f20b182d0c28f1993865b2957e0fd07d53ad4fe168619e91f148427",
+      "levels": [
+        "LOON13.LEV"
+      ],
+      "native_hex": "558bec5657833e0f4700752c33f6eb23b80010508bc64050b82500509a2d26000083c4068bded1e3ba0f348ec226898764744683fe037cd833ff33f6eb178bded1e3b80f348ec0268b9f6474f7470800207401474683fe037ce483ff037506c7060d470a005f5e5dcb"
+    },
+    "7B09:00E9": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "eq",
+        [
+          "field",
+          "sid",
+          "state"
+        ],
+        18
+      ],
+      "delay": 120,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:00E9",
+      "byte_length": 63,
+      "sha256": "ead8761b5d363ae040986159bb5d22e9d1af4caf42c4022e62fa43122efa37ec",
+      "levels": [
+        "CAKE16.LEV",
+        "BRAN5.LEV",
+        "BRAN9.LEV",
+        "HARD5.LEV",
+        "HARD11.LEV",
+        "HARD15.LEV",
+        "LOON10.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82500509a2d26000083c406ba0f348ec226a36a74b80f348ec0268b1e6a74837f0c127506c7060d4778005dcb"
+    },
+    "7B09:0128": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "eq",
+        [
+          "field",
+          "sid",
+          "state"
+        ],
+        52
+      ],
+      "delay": 60,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0128",
+      "byte_length": 63,
+      "sha256": "3cef9aaa2f1569b135a9ec69ce510b0459b2bd0313b6d8c4539bda21731846dc",
+      "levels": [
+        "HARD3.LEV",
+        "LOON23.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82500509a2d26000083c406ba0f348ec226a36c74b80f348ec0268b1e6c74837f0c347506c7060d473c005dcb"
+    },
+    "7B09:0167": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "eq",
+        [
+          "field",
+          "al",
+          "state"
+        ],
+        55
+      ],
+      "delay": 20,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0167",
+      "byte_length": 63,
+      "sha256": "f888a964c2b52f98ab551a7b68975d68bc453cef777bda533dfb797b783212c8",
+      "levels": [
+        "CAKE30.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82400509a2d26000083c406ba0f348ec226a36e74b80f348ec0268b1e6e74837f0c377506c7060d4714005dcb"
+    },
+    "7B09:01A6": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "state"
+          ],
+          50
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "appearance"
+          ],
+          417
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:01A6",
+      "byte_length": 80,
+      "sha256": "22e04409cd0c9f2375428acd0c0f864a8505f080554de6dc92c278b4c7f7ad33",
+      "levels": [
+        "CAKE5.LEV",
+        "CAKE13.LEV",
+        "CAKE21.LEV",
+        "BRAN11.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82400509a2d26000083c406ba0f348ec226a37074b80f348ec0268b1e7074837f0c327517b80f348ec0268b1e7074817f0ea1017506c7060d470a005dcb"
+    },
+    "7B09:01F6": {
+      "selectors": {
+        "balloon": {
+          "type": 23,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "lt",
+        [
+          "add",
+          [
+            "field",
+            "balloon",
+            "y"
+          ],
+          [
+            "field",
+            "balloon",
+            "height"
+          ]
+        ],
+        0
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:01F6",
+      "byte_length": 75,
+      "sha256": "df470c3947a47e22483809f7ce57c680075f1d563f0d2b8eb3c3a4f7847f2fa4",
+      "levels": [],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b81700509a2d26000083c406ba0f348ec226a37274b80f348ec0268b1e72748b4721ba0f348ec2268b1e727403474f7d06c7060d470a005dcb"
+    },
+    "7B09:0241": {
+      "selectors": {
+        "balloon": {
+          "type": 23,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096,
+          "kind": "rope_balloon"
+        }
+      },
+      "condition": [
+        "bit",
+        [
+          "field",
+          "balloon",
+          "flags_08"
+        ],
+        8192
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "Native search begins at nth=0: return mover head only if it is a Balloon, then search ordinal 1 onward until +6F != 0. Missing native pointer fails closed in port.",
+      "address": "7B09:0241",
+      "byte_length": 88,
+      "sha256": "a02faa55175d81a318d53a2610a299522286c949c65d4de589b16354071399ac",
+      "levels": [
+        "LOON7.LEV"
+      ],
+      "native_hex": "558bec56833e0f4700753333f6eb0146b800105056b81700509a2d26000083c406ba0f348ec226a374740bc07410b80f348ec0268b1e7474837f6f0074d1b80f348ec0268b1e7474f7470800207406c7060d470a005e5dcb"
+    },
+    "7B09:0299": {
+      "selectors": {
+        "rock1": {
+          "type": 6,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "rock2": {
+          "type": 6,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "gt",
+          [
+            "field",
+            "rock1",
+            "y"
+          ],
+          400
+        ],
+        [
+          "gt",
+          [
+            "field",
+            "rock2",
+            "y"
+          ],
+          400
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0299",
+      "byte_length": 110,
+      "sha256": "74380ff74810a04039bbd6831bc0529cbfdc4ff063c71b14815e41015f9ce2ef",
+      "levels": [
+        "CAKE18.LEV"
+      ],
+      "native_hex": "558bec833e0f4700753ab8001050b8010050b80600509a2d26000083c406ba0f348ec226a37674b8001050b8020050b80600509a2d26000083c406ba0f348ec226a37874b80f348ec0268b1e7674817f2190017e17b80f348ec0268b1e7874817f2190017e06c7060d470a005dcb"
+    },
+    "7B09:0307": {
+      "selectors": {
+        "baseball": {
+          "type": 8,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "gt",
+        [
+          "field",
+          "baseball",
+          "y"
+        ],
+        400
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0307",
+      "byte_length": 64,
+      "sha256": "acefd744cde0d49a110e5bdbdba81711fb52bb7cee209ba2b0e1c7b566805016",
+      "levels": [
+        "CAKE19.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b80800509a2d26000083c406ba0f348ec226a37a74b80f348ec0268b1e7a74817f2190017e06c7060d470a005dcb"
+    },
+    "7B09:0347": {
+      "selectors": {
+        "anvil": {
+          "type": 61,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "gt",
+        [
+          "field",
+          "anvil",
+          "y"
+        ],
+        400
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0347",
+      "byte_length": 64,
+      "sha256": "7dd978713b203cb152f796d3346889251dc2dd179cab205961f2ec34b7919d24",
+      "levels": [
+        "CAKE20.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b83d00509a2d26000083c406ba0f348ec226a37c74b80f348ec0268b1e7c74817f2190017e06c7060d470a005dcb"
+    },
+    "7B09:0387": {
+      "selectors": {
+        "piano": {
+          "type": 60,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "eq",
+        [
+          "field",
+          "piano",
+          "appearance"
+        ],
+        3
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0387",
+      "byte_length": 63,
+      "sha256": "c58cd95bf71a9b65f4547a95457b9eb052ad64c5eac7682fac7c11034e2dc90f",
+      "levels": [],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b83c00509a2d26000083c406ba0f348ec226a37e74b80f348ec0268b1e7e74837f0e037506c7060d470a005dcb"
+    },
+    "7B09:03C6": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "gt",
+          [
+            "field",
+            "al",
+            "y"
+          ],
+          400
+        ],
+        [
+          "gt",
+          [
+            "field",
+            "sid",
+            "y"
+          ],
+          400
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:03C6",
+      "byte_length": 110,
+      "sha256": "326d9b051f9fa61df43e2a454c2eaa16095013f9cb22a920be869be49287dada",
+      "levels": [
+        "CAKE22.LEV"
+      ],
+      "native_hex": "558bec833e0f4700753ab8001050b8010050b82400509a2d26000083c406ba0f348ec226a38074b8001050b8010050b82500509a2d26000083c406ba0f348ec226a38274b80f348ec0268b1e8074817f2190017e17b80f348ec0268b1e8274817f2190017e06c7060d470a005dcb"
+    },
+    "7B09:0434": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "gt",
+          [
+            "field",
+            "al",
+            "y"
+          ],
+          400
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "sid",
+            "older_y"
+          ],
+          [
+            "field",
+            "sid",
+            "y"
+          ]
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0434",
+      "byte_length": 121,
+      "sha256": "ab481cd92f29c94002e0ad8a2bd935d8bd4783b1d979232d0d9003d58809d73b",
+      "levels": [
+        "CAKE23.LEV"
+      ],
+      "native_hex": "558bec833e0f4700753ab8001050b8010050b82400509a2d26000083c406ba0f348ec226a38474b8001050b8010050b82500509a2d26000083c406ba0f348ec226a38674b80f348ec0268b1e8474817f2190017e22b80f348ec0268b1e86748b4729ba0f348ec2268b1e86743b47217506c7060d470a005dcb"
+    },
+    "7B09:04AD": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "any",
+        [
+          "gt",
+          [
+            "field",
+            "al",
+            "y"
+          ],
+          400
+        ],
+        [
+          "all",
+          [
+            "lt",
+            [
+              "field",
+              "al",
+              "y"
+            ],
+            0
+          ],
+          [
+            "eq",
+            [
+              "field",
+              "al",
+              "state"
+            ],
+            42
+          ]
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:04AD",
+      "byte_length": 96,
+      "sha256": "250f5174b97cd75c4035273a064b076e400eba4ad27a9f75f8347d406792645f",
+      "levels": [
+        "LOON12.LEV",
+        "LOON21.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82400509a2d26000083c406ba0f348ec226a38874b80f348ec0268b1e8874817f2190017f20b80f348ec0268b1e8874837f21007d16b80f348ec0268b1e8874837f0c2a7506c7060d470a005dcb"
+    },
+    "7B09:050D": {
+      "selectors": {
+        "sid1": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "sid2": {
+          "type": 37,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "sid3": {
+          "type": 37,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "all",
+          [
+            "any",
+            [
+              "lt",
+              [
+                "field",
+                "sid1",
+                "x"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "sid1",
+                "x"
+              ],
+              640
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "sid1",
+                "y"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "sid1",
+                "y"
+              ],
+              400
+            ]
+          ],
+          [
+            "ne",
+            [
+              "field",
+              "sid1",
+              "state"
+            ],
+            45
+          ]
+        ],
+        [
+          "all",
+          [
+            "any",
+            [
+              "lt",
+              [
+                "field",
+                "sid2",
+                "x"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "sid2",
+                "x"
+              ],
+              640
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "sid2",
+                "y"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "sid2",
+                "y"
+              ],
+              400
+            ]
+          ],
+          [
+            "ne",
+            [
+              "field",
+              "sid2",
+              "state"
+            ],
+            45
+          ]
+        ],
+        [
+          "all",
+          [
+            "any",
+            [
+              "lt",
+              [
+                "field",
+                "sid3",
+                "x"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "sid3",
+                "x"
+              ],
+              640
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "sid3",
+                "y"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "sid3",
+                "y"
+              ],
+              400
+            ]
+          ],
+          [
+            "ne",
+            [
+              "field",
+              "sid3",
+              "state"
+            ],
+            45
+          ]
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:050D",
+      "byte_length": 186,
+      "sha256": "fd0770febf13ef3a5c3ecc0a895fbeed9a5487d36f9fedf668195ee0078d4a5b",
+      "levels": [
+        "LOON17.LEV"
+      ],
+      "native_hex": "558bec5657833e0f4700752c33f6eb23b80010508bc64050b82500509a2d26000083c4068bded1e3ba0f348ec22689878a744683fe037cd833ff33f6eb688bded1e3b80f348ec0268b9f8a74837f1f007c3e8bded1e3b80f348ec0268b9f8a74817f1f80027f298bded1e3b80f348ec0268b9f8a74837f21007c158bded1e3b80f348ec0268b9f8a74817f2190017e158bded1e3b80f348ec0268b9f8a74837f0c2d7401474683fe037c9383ff037506c7060d470a005f5e5dcb"
+    },
+    "7B09:05C7": {
+      "selectors": {
+        "sid1": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "sid2": {
+          "type": 37,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "sid3": {
+          "type": 37,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "all",
+          [
+            "lt",
+            [
+              "field",
+              "sid1",
+              "y"
+            ],
+            100
+          ],
+          [
+            "gt",
+            [
+              "field",
+              "sid1",
+              "y"
+            ],
+            90
+          ],
+          [
+            "ne",
+            [
+              "field",
+              "sid1",
+              "state"
+            ],
+            45
+          ]
+        ],
+        [
+          "all",
+          [
+            "lt",
+            [
+              "field",
+              "sid2",
+              "y"
+            ],
+            100
+          ],
+          [
+            "gt",
+            [
+              "field",
+              "sid2",
+              "y"
+            ],
+            90
+          ],
+          [
+            "ne",
+            [
+              "field",
+              "sid2",
+              "state"
+            ],
+            45
+          ]
+        ],
+        [
+          "all",
+          [
+            "lt",
+            [
+              "field",
+              "sid3",
+              "y"
+            ],
+            100
+          ],
+          [
+            "gt",
+            [
+              "field",
+              "sid3",
+              "y"
+            ],
+            90
+          ],
+          [
+            "ne",
+            [
+              "field",
+              "sid3",
+              "state"
+            ],
+            45
+          ]
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:05C7",
+      "byte_length": 144,
+      "sha256": "a75060b8c2d7c36dfd01c25e800b16ae9cac4af57178b4130c906ac792167473",
+      "levels": [
+        "BRAN10.LEV"
+      ],
+      "native_hex": "558bec5657833e0f4700752c33f6eb23b80010508bc64050b82500509a2d26000083c4068bded1e3ba0f348ec226898790744683fe037cd833ff33f6eb3e8bded1e3b80f348ec0268b9f9074837f21647d298bded1e3b80f348ec0268b9f9074837f215a7e158bded1e3b80f348ec0268b9f9074837f0c2d7401474683fe037cbd83ff037506c7060d470a005f5e5dcb"
+    },
+    "7B09:0657": {
+      "selectors": {
+        "balloon1": {
+          "type": 23,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "balloon2": {
+          "type": 23,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "balloon3": {
+          "type": 23,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "balloon4": {
+          "type": 23,
+          "nth": 4,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "balloon5": {
+          "type": 23,
+          "nth": 5,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "balloon6": {
+          "type": 23,
+          "nth": 6,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "any",
+          [
+            "any",
+            [
+              "lt",
+              [
+                "field",
+                "balloon1",
+                "x"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "balloon1",
+                "x"
+              ],
+              640
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "balloon1",
+                "y"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "balloon1",
+                "y"
+              ],
+              400
+            ]
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon1",
+              "flags_08"
+            ],
+            8192
+          ]
+        ],
+        [
+          "any",
+          [
+            "any",
+            [
+              "lt",
+              [
+                "field",
+                "balloon2",
+                "x"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "balloon2",
+                "x"
+              ],
+              640
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "balloon2",
+                "y"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "balloon2",
+                "y"
+              ],
+              400
+            ]
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon2",
+              "flags_08"
+            ],
+            8192
+          ]
+        ],
+        [
+          "any",
+          [
+            "any",
+            [
+              "lt",
+              [
+                "field",
+                "balloon3",
+                "x"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "balloon3",
+                "x"
+              ],
+              640
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "balloon3",
+                "y"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "balloon3",
+                "y"
+              ],
+              400
+            ]
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon3",
+              "flags_08"
+            ],
+            8192
+          ]
+        ],
+        [
+          "any",
+          [
+            "any",
+            [
+              "lt",
+              [
+                "field",
+                "balloon4",
+                "x"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "balloon4",
+                "x"
+              ],
+              640
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "balloon4",
+                "y"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "balloon4",
+                "y"
+              ],
+              400
+            ]
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon4",
+              "flags_08"
+            ],
+            8192
+          ]
+        ],
+        [
+          "any",
+          [
+            "any",
+            [
+              "lt",
+              [
+                "field",
+                "balloon5",
+                "x"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "balloon5",
+                "x"
+              ],
+              640
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "balloon5",
+                "y"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "balloon5",
+                "y"
+              ],
+              400
+            ]
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon5",
+              "flags_08"
+            ],
+            8192
+          ]
+        ],
+        [
+          "any",
+          [
+            "any",
+            [
+              "lt",
+              [
+                "field",
+                "balloon6",
+                "x"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "balloon6",
+                "x"
+              ],
+              640
+            ],
+            [
+              "lt",
+              [
+                "field",
+                "balloon6",
+                "y"
+              ],
+              0
+            ],
+            [
+              "gt",
+              [
+                "field",
+                "balloon6",
+                "y"
+              ],
+              400
+            ]
+          ],
+          [
+            "bit",
+            [
+              "field",
+              "balloon6",
+              "flags_08"
+            ],
+            8192
+          ]
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0657",
+      "byte_length": 187,
+      "sha256": "2c9c968c5797d012504589b24b0013310097aca476141dd2541b609f2f4c87d3",
+      "levels": [
+        "LOON19.LEV"
+      ],
+      "native_hex": "558bec5657833e0f4700752c33f6eb23b80010508bc64050b81700509a2d26000083c4068bded1e3ba0f348ec226898796744683fe067cd833ff33f6eb698bded1e3b80f348ec0268b9f9674837f1f007c538bded1e3b80f348ec0268b9f9674817f1f80027f3e8bded1e3b80f348ec0268b9f9674837f21007c2a8bded1e3b80f348ec0268b9f9674817f2190017f158bded1e3b80f348ec0268b9f9674f7470800207401474683fe067c9283ff067506c7060d470a005f5e5dcb"
+    },
+    "7B09:0712": {
+      "selectors": {
+        "al1": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al2": {
+          "type": 36,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al3": {
+          "type": 36,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "sid1": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "sid2": {
+          "type": 37,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "sid3": {
+          "type": 37,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "al1"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "sid1"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al2"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "sid2"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al3"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "sid3"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "al1",
+              "state"
+            ],
+            59
+          ],
+          "set": "al1",
+          "value": 1
+        },
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "sid1",
+              "state"
+            ],
+            55
+          ],
+          "set": "sid1",
+          "value": 1
+        },
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "al2",
+              "state"
+            ],
+            59
+          ],
+          "set": "al2",
+          "value": 1
+        },
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "sid2",
+              "state"
+            ],
+            55
+          ],
+          "set": "sid2",
+          "value": 1
+        },
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "al3",
+              "state"
+            ],
+            59
+          ],
+          "set": "al3",
+          "value": 1
+        },
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "sid3",
+              "state"
+            ],
+            55
+          ],
+          "set": "sid3",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "al1": 0,
+        "sid1": 0,
+        "al2": 0,
+        "sid2": 0,
+        "al3": 0,
+        "sid3": 0
+      },
+      "note": "",
+      "address": "7B09:0712",
+      "byte_length": 219,
+      "sha256": "695ee6375afe5b6e2058e96719fab5cb92599902d3d5360de11ff650cfed859f",
+      "levels": [
+        "LOON20.LEV"
+      ],
+      "native_hex": "558bec5657833e0f4700756033f6eb57b80010508bc64050b82400509a2d26000083c4068bded1e3ba0f348ec2268987a274b80010508bc64050b82500509a2d26000083c4068bded1e3ba0f348ec2268987a8748bded1e333c08987704c8bded1e389876a4c4683fe037ca433ff33f6eb558bded1e3b80f348ec0268b9fa274837f0c3b750a8bded1e3c7876a4c01008bded1e3b80f348ec0268b9fa874837f0c37750a8bded1e3c787704c01008bded1e383bf6a4c007401478bded1e383bf704c007401474683fe037ca683ff067506c7060d470a005f5e5dcb"
+    },
+    "7B09:07ED": {
+      "selectors": {
+        "eunice": {
+          "type": 68,
+          "nth": 1,
+          "chain": "static",
+          "mask": 8192
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "eunice",
+            "state"
+          ],
+          5
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "eunice",
+            "appearance"
+          ],
+          8
+        ]
+      ],
+      "delay": 15,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:07ED",
+      "byte_length": 79,
+      "sha256": "802ee0e12c9cff58e5d5d1605f61fe4f8ca4a533e5c4bbc2655dd653d23760c1",
+      "levels": [
+        "BRAN3.LEV",
+        "HARD2.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8002050b8010050b84400509a2d26000083c406ba0f348ec226a3ae74b80f348ec0268b1eae74837f0c057516b80f348ec0268b1eae74837f0e087506c7060d470f005dcb"
+    },
+    "7B09:083C": {
+      "selectors": {
+        "eunice1": {
+          "type": 68,
+          "nth": 1,
+          "chain": "static",
+          "mask": 8192
+        },
+        "eunice2": {
+          "type": 68,
+          "nth": 2,
+          "chain": "static",
+          "mask": 8192
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "first"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "second"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "eunice1",
+                "state"
+              ],
+              5
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "eunice1",
+                "appearance"
+              ],
+              8
+            ]
+          ],
+          "set": "first",
+          "value": 1
+        },
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "eunice2",
+                "state"
+              ],
+              5
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "eunice2",
+                "appearance"
+              ],
+              8
+            ]
+          ],
+          "set": "second",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "first": 0,
+        "second": 0
+      },
+      "note": "",
+      "address": "7B09:083C",
+      "byte_length": 174,
+      "sha256": "ca26d23ed93de2286f0314c3f5e3ddca1f3ca8dd7a70948ed0718bc6f55c41ef",
+      "levels": [
+        "CAKE2.LEV"
+      ],
+      "native_hex": "558bec833e0f47007542b8002050b8010050b84400509a2d26000083c406ba0f348ec226a3b074b8002050b8020050b84400509a2d26000083c406a3764c33c0a3784cba0f348ec226a3b274b80f348ec0268b1eb074837f0c05751cb80f348ec0268b1eb074837f0e08750cb80f348ec026c706b27401008b1e764c837f0c0575108b1e764c837f0e087506c706784c0100b80f348ec026833eb27400740d833e784c007406c7060d470a005dcb"
+    },
+    "7B09:08EA": {
+      "selectors": {
+        "marble1": {
+          "type": 11,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble2": {
+          "type": 11,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble3": {
+          "type": 11,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble4": {
+          "type": 11,
+          "nth": 4,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble5": {
+          "type": 11,
+          "nth": 5,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble6": {
+          "type": 11,
+          "nth": 6,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble7": {
+          "type": 11,
+          "nth": 7,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble8": {
+          "type": 11,
+          "nth": 8,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble9": {
+          "type": 11,
+          "nth": 9,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble10": {
+          "type": 11,
+          "nth": 10,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble11": {
+          "type": 11,
+          "nth": 11,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble12": {
+          "type": 11,
+          "nth": 12,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble13": {
+          "type": 11,
+          "nth": 13,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble14": {
+          "type": 11,
+          "nth": 14,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "marble15": {
+          "type": 11,
+          "nth": 15,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "marble1"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble2"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble3"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble4"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble5"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble6"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble7"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble8"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble9"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble10"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble11"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble12"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble13"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble14"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "marble15"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble1",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble1",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble1",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble1",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble1",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble1",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble2",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble2",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble2",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble2",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble2",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble2",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble3",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble3",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble3",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble3",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble3",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble3",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble4",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble4",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble4",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble4",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble4",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble4",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble5",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble5",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble5",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble5",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble5",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble5",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble6",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble6",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble6",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble6",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble6",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble6",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble7",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble7",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble7",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble7",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble7",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble7",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble8",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble8",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble8",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble8",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble8",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble8",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble9",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble9",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble9",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble9",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble9",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble9",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble10",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble10",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble10",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble10",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble10",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble10",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble11",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble11",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble11",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble11",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble11",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble11",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble12",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble12",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble12",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble12",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble12",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble12",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble13",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble13",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble13",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble13",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble13",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble13",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble14",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble14",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble14",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble14",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble14",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble14",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "bit",
+              [
+                "field",
+                "marble15",
+                "flags_08"
+              ],
+              8192
+            ],
+            [
+              "any",
+              [
+                "lt",
+                [
+                  "field",
+                  "marble15",
+                  "x"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble15",
+                  "x"
+                ],
+                640
+              ],
+              [
+                "lt",
+                [
+                  "field",
+                  "marble15",
+                  "y"
+                ],
+                0
+              ],
+              [
+                "gt",
+                [
+                  "field",
+                  "marble15",
+                  "y"
+                ],
+                400
+              ]
+            ]
+          ],
+          "set": "marble15",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "marble1": 0,
+        "marble2": 0,
+        "marble3": 0,
+        "marble4": 0,
+        "marble5": 0,
+        "marble6": 0,
+        "marble7": 0,
+        "marble8": 0,
+        "marble9": 0,
+        "marble10": 0,
+        "marble11": 0,
+        "marble12": 0,
+        "marble13": 0,
+        "marble14": 0,
+        "marble15": 0
+      },
+      "note": "",
+      "address": "7B09:08EA",
+      "byte_length": 241,
+      "sha256": "7b18c4c22ebfce273dd1f6433caffbc74cdc12f882fb202f1dad2497cbab9470",
+      "levels": [
+        "HARD4.LEV"
+      ],
+      "native_hex": "558bec5657833e0f4700753c33f6eb33b80010508bc64050b80b00509a2d26000083c4068bded1e3ba0f348ec2268987b4748bded1e3b80f348ec026c787d27400004683fe0f7cc8bf010033f6e98b008bded1e3b80f348ec0268b9fb474f74708002075528bded1e3b80f348ec0268b9fb474837f1f007c3e8bded1e3b80f348ec0268b9fb474837f21007c2a8bded1e3b80f348ec0268b9fb474817f1f80027f158bded1e3b80f348ec0268b9fb474817f2190017e108bded1e3b80f348ec026c787d27401008bded1e3b80f348ec02683bfd27400750233ff4683fe0f7d03e96dff0bff7406c7060d470a005f5e5dcb"
+    },
+    "7B09:09DB": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "state"
+          ],
+          4
+        ],
+        [
+          "ne",
+          [
+            "field",
+            "al",
+            "flags_08"
+          ],
+          0
+        ]
+      ],
+      "delay": 15,
+      "rules": [],
+      "vars": {},
+      "note": "Native compares the entire flags08 word with zero, not a single effect bit.",
+      "address": "7B09:09DB",
+      "byte_length": 79,
+      "sha256": "85e5fe521e005370153f1355e4057452baf485ceeb023a66f6ddd40a6eb99211",
+      "levels": [
+        "BRAN2.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82400509a2d26000083c406ba0f348ec226a3f074b80f348ec0268b1ef074837f0c047516b80f348ec0268b1ef074837f08007406c7060d470f005dcb"
+    },
+    "7B09:0A2A": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "state"
+          ],
+          59
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "appearance"
+          ],
+          519
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0A2A",
+      "byte_length": 80,
+      "sha256": "dc0ab884b814e8310a8712b980b48ceba506e4ab1657c55214325d2d2cb0dae7",
+      "levels": [
+        "CAKE24.LEV",
+        "BRAN7.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82400509a2d26000083c406ba0f348ec226a3f274b80f348ec0268b1ef274837f0c3b7517b80f348ec0268b1ef274817f0e07027506c7060d470a005dcb"
+    },
+    "7B09:0A7A": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "eq",
+        [
+          "var",
+          "count"
+        ],
+        2
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "all",
+            [
+              "all",
+              [
+                "eq",
+                [
+                  "field",
+                  "sid",
+                  "state"
+                ],
+                55
+              ],
+              [
+                "eq",
+                [
+                  "field",
+                  "sid",
+                  "appearance"
+                ],
+                484
+              ]
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "trigger"
+              ],
+              0
+            ]
+          ],
+          "set": "count",
+          "value": [
+            "and",
+            [
+              "add",
+              [
+                "var",
+                "count"
+              ],
+              1
+            ],
+            65535
+          ]
+        }
+      ],
+      "vars": {
+        "count": 0
+      },
+      "note": "Counts matching updates; no synthetic rising-edge/debounce condition.",
+      "address": "7B09:0A7A",
+      "byte_length": 113,
+      "sha256": "89d1692b84c1b1ca864ee3255d24ea8d38aa92f0e45c06392a832c0b34dae930",
+      "levels": [
+        "CAKE28.LEV"
+      ],
+      "native_hex": "558bec833e0f47007523b8001050b8010050b82500509a2d26000083c406ba0f348ec226a3f474c7067a4c0000b80f348ec0268b1ef474837f0c377525b80f348ec0268b1ef474817f0ee4017514b80f348ec0268b1ef474837f14007504ff067a4c833e7a4c027506c7060d470a005dcb"
+    },
+    "7B09:0AEB": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "any",
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "state"
+          ],
+          35
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "state"
+          ],
+          36
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "state"
+          ],
+          37
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "state"
+          ],
+          16
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0AEB",
+      "byte_length": 111,
+      "sha256": "aa517e245293137b5b471c9f746c4986d45c67aee5cdfed619a356c20442d3f4",
+      "levels": [
+        "BRAN12.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82400509a2d26000083c406ba0f348ec226a3f674b80f348ec0268b1ef674837f0c237430b80f348ec0268b1ef674837f0c247420b80f348ec0268b1ef674837f0c257410b80f348ec0268b1ef674837f0c107506c7060d470a005dcb"
+    },
+    "7B09:0B5A": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "switch": {
+          "type": 2,
+          "nth": 1,
+          "chain": "static",
+          "mask": 8192
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "var",
+            "bad"
+          ],
+          0
+        ],
+        [
+          "eq",
+          [
+            "var",
+            "phase"
+          ],
+          2
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "ne",
+            [
+              "field",
+              "switch",
+              "trigger"
+            ],
+            0
+          ],
+          "set": "phase",
+          "value": 1
+        },
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "switch",
+                "trigger"
+              ],
+              0
+            ],
+            [
+              "eq",
+              [
+                "var",
+                "phase"
+              ],
+              1
+            ]
+          ],
+          "set": "phase",
+          "value": 2
+        },
+        {
+          "when": [
+            "any",
+            [
+              "eq",
+              [
+                "field",
+                "al",
+                "state"
+              ],
+              16
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "al",
+                "state"
+              ],
+              37
+            ]
+          ],
+          "set": "bad",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "phase": 0,
+        "bad": 0
+      },
+      "note": "",
+      "address": "7B09:0B5A",
+      "byte_length": 238,
+      "sha256": "32049ae714376c18a7031635c793eae1d920f41ae8d3fb9aac4844625b038024",
+      "levels": [
+        "BRAN8.LEV"
+      ],
+      "native_hex": "558bec833e0f47007551b8001050b8010050b82400509a2d26000083c406ba0f348ec226a3f874b8002050b8010050b80200509a2d26000083c406ba0f348ec226a3fa74b80f3433d28ec0268916fe748bc2ba0f348ec226a3fc74b80f348ec0268b1efa74837f1400740cb80f348ec026c706fc740100b80f348ec0268b1efa74837f14007519b80f348ec026833efc7401750cb80f348ec026c706fc740200b80f348ec0268b1ef874837f0c107410b80f348ec0268b1ef874837f0c25750cb80f348ec026c706fe740100b80f348ec026833efe74007513b80f348ec026833efc74027506c7060d470a005dcb"
+    },
+    "7B09:0C48": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "ghost"
+          ],
+          -1
+        ],
+        [
+          "lt",
+          [
+            "add",
+            [
+              "field",
+              [
+                "var",
+                "ghost"
+              ],
+              "y"
+            ],
+            [
+              "field",
+              [
+                "var",
+                "ghost"
+              ],
+              "height"
+            ]
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al",
+                "state"
+              ],
+              16
+            ],
+            [
+              "eq",
+              [
+                "field",
+                [
+                  "field",
+                  "al",
+                  "target"
+                ],
+                "type"
+              ],
+              36
+            ]
+          ],
+          "set": "ghost",
+          "value": [
+            "field",
+            "al",
+            "target"
+          ]
+        }
+      ],
+      "vars": {
+        "ghost": -1
+      },
+      "note": "Before ghost birth Al.target is null. Native target.type reads DS:0004=0x6F42 (\"Bo\"), so the required type36 check is false. Only this dynamic target/type read permits the sentinel; required actor bindings remain mandatory.",
+      "null_target_fields": {
+        "type": 28482
+      },
+      "address": "7B09:0C48",
+      "byte_length": 159,
+      "sha256": "ee82aef90ba5ab83b4be8e360f441f91751e3ab60bf4e133a10e270d96b7b9a7",
+      "levels": [
+        "BRAN16.LEV"
+      ],
+      "native_hex": "558bec833e0f47007529b8001050b8010050b82400509a2d26000083c406ba0f348ec226a30075b80f348ec026c70602750000b80f348ec0268b1e0075837f0c10752bb80f348ec0268b1e00758b9fb100837f04247517b80f348ec0268b1e00758b87b100ba0f348ec226a30275b80f348ec026833e0275007422b80f348ec0268b1e02758b4721ba0f348ec2268b1e027503474f7d06c7060d470a005dcb"
+    },
+    "7B09:0CE7": {
+      "selectors": {
+        "al1": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al2": {
+          "type": 36,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al3": {
+          "type": 36,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al4": {
+          "type": 36,
+          "nth": 4,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "all",
+          [
+            "ne",
+            [
+              "var",
+              "al1_ghost"
+            ],
+            -1
+          ],
+          [
+            "lt",
+            [
+              "add",
+              [
+                "field",
+                [
+                  "var",
+                  "al1_ghost"
+                ],
+                "y"
+              ],
+              [
+                "field",
+                [
+                  "var",
+                  "al1_ghost"
+                ],
+                "height"
+              ]
+            ],
+            0
+          ]
+        ],
+        [
+          "all",
+          [
+            "ne",
+            [
+              "var",
+              "al2_ghost"
+            ],
+            -1
+          ],
+          [
+            "lt",
+            [
+              "add",
+              [
+                "field",
+                [
+                  "var",
+                  "al2_ghost"
+                ],
+                "y"
+              ],
+              [
+                "field",
+                [
+                  "var",
+                  "al2_ghost"
+                ],
+                "height"
+              ]
+            ],
+            0
+          ]
+        ],
+        [
+          "all",
+          [
+            "ne",
+            [
+              "var",
+              "al3_ghost"
+            ],
+            -1
+          ],
+          [
+            "lt",
+            [
+              "add",
+              [
+                "field",
+                [
+                  "var",
+                  "al3_ghost"
+                ],
+                "y"
+              ],
+              [
+                "field",
+                [
+                  "var",
+                  "al3_ghost"
+                ],
+                "height"
+              ]
+            ],
+            0
+          ]
+        ],
+        [
+          "all",
+          [
+            "ne",
+            [
+              "var",
+              "al4_ghost"
+            ],
+            -1
+          ],
+          [
+            "lt",
+            [
+              "add",
+              [
+                "field",
+                [
+                  "var",
+                  "al4_ghost"
+                ],
+                "y"
+              ],
+              [
+                "field",
+                [
+                  "var",
+                  "al4_ghost"
+                ],
+                "height"
+              ]
+            ],
+            0
+          ]
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al1",
+                "state"
+              ],
+              16
+            ],
+            [
+              "eq",
+              [
+                "field",
+                [
+                  "field",
+                  "al1",
+                  "target"
+                ],
+                "type"
+              ],
+              36
+            ]
+          ],
+          "set": "al1_ghost",
+          "value": [
+            "field",
+            "al1",
+            "target"
+          ]
+        },
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al2",
+                "state"
+              ],
+              16
+            ],
+            [
+              "eq",
+              [
+                "field",
+                [
+                  "field",
+                  "al2",
+                  "target"
+                ],
+                "type"
+              ],
+              36
+            ]
+          ],
+          "set": "al2_ghost",
+          "value": [
+            "field",
+            "al2",
+            "target"
+          ]
+        },
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al3",
+                "state"
+              ],
+              16
+            ],
+            [
+              "eq",
+              [
+                "field",
+                [
+                  "field",
+                  "al3",
+                  "target"
+                ],
+                "type"
+              ],
+              36
+            ]
+          ],
+          "set": "al3_ghost",
+          "value": [
+            "field",
+            "al3",
+            "target"
+          ]
+        },
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al4",
+                "state"
+              ],
+              16
+            ],
+            [
+              "eq",
+              [
+                "field",
+                [
+                  "field",
+                  "al4",
+                  "target"
+                ],
+                "type"
+              ],
+              36
+            ]
+          ],
+          "set": "al4_ghost",
+          "value": [
+            "field",
+            "al4",
+            "target"
+          ]
+        }
+      ],
+      "vars": {
+        "al1_ghost": -1,
+        "al2_ghost": -1,
+        "al3_ghost": -1,
+        "al4_ghost": -1
+      },
+      "note": "Before ghost birth Al.target is null. Native target.type reads DS:0004=0x6F42 (\"Bo\"), so the required type36 check is false. Only this dynamic target/type read permits the sentinel; required actor bindings remain mandatory.",
+      "null_target_fields": {
+        "type": 28482
+      },
+      "address": "7B09:0CE7",
+      "byte_length": 297,
+      "sha256": "f78178447bc3cdfac37e7fda145f0366bc08cfedf89a13690ab309f78f0f7f1c",
+      "levels": [
+        "LOON1.LEV"
+      ],
+      "native_hex": "558bec83ec02c646fe00833e0f4700754ec646ff00eb42b80010508a46ffb4004050b82400509a2d26000083c4068a56ffb600d1e2bb0f348ec38bda26898704758a46ffb400d1e0ba0f348bd88ec226c7870c750000fe46ff807eff0472b8c646ff00e9aa008a46ffb400d1e0ba0f348bd88ec2268b9f0475837f0c1075478a46ffb400d1e0ba0f348bd88ec2268b9f04758b9fb100837f0424752a8a46ffb400d1e0ba0f348bd88ec2268b9f04758b87b1008a56ffb600d1e2bb0f348ec38bda2689870c758a46ffb400d1e0ba0f348bd88ec22683bf0c750074318a46ffb400d1e0ba0f348bd88ec2268b9f0c758b47218a56ffb600d1e2bb0f348ec38bda268b9f0c7503474f7d03fe46fefe46ff807eff047303e94dff807efe047506c7060d470a008be55dcb"
+    },
+    "7B09:0E10": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "machine1": {
+          "type": 42,
+          "nth": 1,
+          "chain": "static",
+          "mask": 8192
+        },
+        "machine2": {
+          "type": 42,
+          "nth": 2,
+          "chain": "static",
+          "mask": 8192
+        },
+        "machine3": {
+          "type": 42,
+          "nth": 3,
+          "chain": "static",
+          "mask": 8192
+        },
+        "machine4": {
+          "type": 42,
+          "nth": 4,
+          "chain": "static",
+          "mask": 8192
+        },
+        "machine5": {
+          "type": 42,
+          "nth": 5,
+          "chain": "static",
+          "mask": 8192
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "all",
+          [
+            "eq",
+            [
+              "field",
+              "al",
+              "state"
+            ],
+            8
+          ],
+          [
+            "eq",
+            [
+              "field",
+              "al",
+              "appearance"
+            ],
+            66
+          ]
+        ],
+        [
+          "ne",
+          [
+            "field",
+            "machine1",
+            "appearance"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "field",
+            "machine2",
+            "appearance"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "field",
+            "machine3",
+            "appearance"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "field",
+            "machine4",
+            "appearance"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "field",
+            "machine5",
+            "appearance"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0E10",
+      "byte_length": 153,
+      "sha256": "648de1508c37a04ae89860710f03bf150f2084905af627efad2678662a10a826",
+      "levels": [
+        "CAKE1.LEV"
+      ],
+      "native_hex": "558bec5657833e0f47007543b8001050b8010050b82400509a2d26000083c406ba0f348ec226a3147533f6eb1db80020508bc64050b82a00509a2d26000083c4068bded1e389877c4c4683fe057cde33ff33f6eb108bded1e38b9f7c4c837f0e007401474683fe057cebb80f348ec0268b1e1475837f0c08751bb80f348ec0268b1e1475837f0e42750b83ff057506c7060d470a005f5e5dcb"
+    },
+    "7B09:0EA9": {
+      "selectors": {
+        "machines": {
+          "type": 42,
+          "nth": 1,
+          "chain": "static",
+          "mask": 8192,
+          "kind": "all"
+        }
+      },
+      "condition": [
+        "every",
+        "machines",
+        [
+          "ne",
+          [
+            "field",
+            "$",
+            "appearance"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "Captures all static-chain Message Machines on initialization. Zero machines is vacuously true in native code; campaigns using this callback contain machines.",
+      "address": "7B09:0EA9",
+      "byte_length": 103,
+      "sha256": "75b96337c2d77c6a01efab8c3616d300a4cc3d3d5094c1a9e35ecba4baddff7e",
+      "levels": [
+        "HARD18.LEV",
+        "HARD21.LEV",
+        "HARD22.LEV",
+        "HARD23.LEV",
+        "HARD24.LEV",
+        "HARD25.LEV"
+      ],
+      "native_hex": "558bec5657833e0f4700752fc7069a4c0000eb04ff069a4cb8002050a19a4c4050b82a00509a2d26000083c4068b1e9a4cd1e38987864c0bc075d933ff33f6eb108bded1e38b9f864c837f0e00740147463b369a4c7cea3b3e9a4c7506c7060d470a005f5e5dcb"
+    },
+    "7B09:0F10": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "sid",
+            "state"
+          ],
+          45
+        ],
+        [
+          "gt",
+          [
+            "field",
+            "sid",
+            "x"
+          ],
+          999
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0F10",
+      "byte_length": 80,
+      "sha256": "a77b9d89c540a3420239ff84d655282d402c4fd02a0591ddfce2055cfa488d4b",
+      "levels": [
+        "CAKE3.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82500509a2d26000083c406ba0f348ec226a31675b80f348ec0268b1e1675837f0c2d7517b80f348ec0268b1e1675817f1fe7037e06c7060d470a005dcb"
+    },
+    "7B09:0F60": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "sid",
+            "state"
+          ],
+          45
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "sid",
+            "appearance"
+          ],
+          327
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0F60",
+      "byte_length": 80,
+      "sha256": "0cf27a6fb31b3b12c4b2e965a419b6eb5afdeb7d32124a606bae6ca4b50bd4e1",
+      "levels": [
+        "BRAN1.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82500509a2d26000083c406ba0f348ec226a31875b80f348ec0268b1e1875837f0c2d7517b80f348ec0268b1e1875817f0e47017506c7060d470a005dcb"
+    },
+    "7B09:0FB0": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "state"
+          ],
+          45
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "appearance"
+          ],
+          373
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:0FB0",
+      "byte_length": 80,
+      "sha256": "7fb7b7a585fa8e4ab9424e426f9918c9051e4dbfc5ce1a4123869b8538ae3406",
+      "levels": [
+        "LOON14.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82400509a2d26000083c406ba0f348ec226a31a75b80f348ec0268b1e1a75837f0c2d7517b80f348ec0268b1e1a75817f0e75017506c7060d470a005dcb"
+    },
+    "7B09:1000": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "state"
+          ],
+          15
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "appearance"
+          ],
+          110
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:1000",
+      "byte_length": 79,
+      "sha256": "27c36dee0ed4b36e09e43079202e5d3b04ca822da41ddd24eda97b8f894237f7",
+      "levels": [
+        "LOON15.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82400509a2d26000083c406ba0f348ec226a31c75b80f348ec0268b1e1c75837f0c0f7516b80f348ec0268b1e1c75837f0e6e7506c7060d470a005dcb"
+    },
+    "7B09:104F": {
+      "selectors": {
+        "ball_bomb": {
+          "type": 19,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "bombshell": {
+          "type": 62,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "bit",
+          [
+            "field",
+            "ball_bomb",
+            "flags_0a"
+          ],
+          256
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "bombshell",
+            "flags_0a"
+          ],
+          256
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:104F",
+      "byte_length": 110,
+      "sha256": "eb523a385c1a0257998bf65bd8faaf0b6db6f61c21f691a50408771c9d2847c1",
+      "levels": [
+        "CAKE12.LEV"
+      ],
+      "native_hex": "558bec833e0f4700753ab8001050b8010050b81300509a2d26000083c406ba0f348ec226a31e75b8001050b8010050b83e00509a2d26000083c406ba0f348ec226a32075b80f348ec0268b1e1e75f7470a00017417b80f348ec0268b1e2075f7470a00017406c7060d470a005dcb"
+    },
+    "7B09:10BD": {
+      "selectors": {
+        "counter1": {
+          "type": 39,
+          "nth": 1,
+          "chain": "static",
+          "mask": 8192
+        },
+        "counter2": {
+          "type": 39,
+          "nth": 2,
+          "chain": "static",
+          "mask": 8192
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "and",
+            [
+              "field",
+              "counter1",
+              "settings"
+            ],
+            255
+          ],
+          0
+        ],
+        [
+          "eq",
+          [
+            "and",
+            [
+              "field",
+              "counter2",
+              "settings"
+            ],
+            255
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:10BD",
+      "byte_length": 112,
+      "sha256": "51dec172d0db5ae06434cb12e56c94f953baacb7153f987ab5bbe225262cd229",
+      "levels": [
+        "CAKE10.LEV"
+      ],
+      "native_hex": "558bec833e0f4700753ab8002050b8010050b82700509a2d26000083c406ba0f348ec226a32275b8002050b8020050b82700509a2d26000083c406ba0f348ec226a32475b80f348ec0268b1e2275f787af00ff007518b80f348ec0268b1e2475f787af00ff007506c7060d470a005dcb"
+    },
+    "7B09:112D": {
+      "selectors": {
+        "counter": {
+          "type": 39,
+          "nth": 1,
+          "chain": "static",
+          "mask": 8192
+        }
+      },
+      "condition": [
+        "eq",
+        [
+          "field",
+          "counter",
+          "settings"
+        ],
+        0
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:112D",
+      "byte_length": 66,
+      "sha256": "dc654dc7ec375f5982b64a06783aa7724a208f962c7042e1b336bc547a5d0a33",
+      "levels": [
+        "CAKE11.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8002050b8010050b82700509a2d26000083c406ba0f348ec226a32675b80f348ec0268b1e267583bfaf00007402eb06c7060d470a005dcb"
+    },
+    "7B09:116F": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "sid_done"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al_done"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "state"
+              ],
+              18
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "appearance"
+              ],
+              115
+            ]
+          ],
+          "set": "sid_done",
+          "value": 1
+        },
+        {
+          "when": [
+            "gt",
+            [
+              "field",
+              "al",
+              "y"
+            ],
+            300
+          ],
+          "set": "al_done",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "sid_done": 0,
+        "al_done": 0
+      },
+      "note": "",
+      "address": "7B09:116F",
+      "byte_length": 177,
+      "sha256": "1400e656dc1b899be3d7baaa5d98b57e98e4663a30c01b7ec6c18f70275a67f4",
+      "levels": [
+        "CAKE8.LEV"
+      ],
+      "native_hex": "558bec833e0f47007548b8001050b8010050b82500509a2d26000083c406ba0f348ec226a32875b8001050b8010050b82400509a2d26000083c406ba0f348ec226a32a7533c0a39c4cba0f348ec226a32c75b80f348ec0268b1e2875837f0c12751cb80f348ec0268b1e2875837f0e73750cb80f348ec026c7062c750100b80f348ec0268b1e2a75817f212c017e06c7069c4c0100b80f348ec026833e2c7500740d833e9c4c007406c7060d470a005dcb"
+    },
+    "7B09:1220": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "sid_done"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al_done"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "state"
+              ],
+              52
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "appearance"
+              ],
+              423
+            ]
+          ],
+          "set": "sid_done",
+          "value": 1
+        },
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al",
+                "state"
+              ],
+              50
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "al",
+                "appearance"
+              ],
+              417
+            ]
+          ],
+          "set": "al_done",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "sid_done": 0,
+        "al_done": 0
+      },
+      "note": "",
+      "address": "7B09:1220",
+      "byte_length": 194,
+      "sha256": "60e0c46e8290e405f6c4b29360194fe5f73309e385a8bb10bfb381df622d1383",
+      "levels": [
+        "CAKE9.LEV"
+      ],
+      "native_hex": "558bec833e0f47007548b8001050b8010050b82500509a2d26000083c406ba0f348ec226a32e75b8001050b8010050b82400509a2d26000083c406ba0f348ec226a3307533c0a39e4cba0f348ec226a33275b80f348ec0268b1e2e75837f0c34751db80f348ec0268b1e2e75817f0ea701750cb80f348ec026c70632750100b80f348ec0268b1e3075837f0c327517b80f348ec0268b1e3075817f0ea1017506c7069e4c0100b80f348ec026833e327500740d833e9e4c007406c7060d470a005dcb"
+    },
+    "7B09:12E2": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "sid_done"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al_done"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "state"
+              ],
+              30
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "appearance"
+              ],
+              216
+            ]
+          ],
+          "set": "sid_done",
+          "value": 1
+        },
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al",
+                "state"
+              ],
+              50
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "al",
+                "appearance"
+              ],
+              417
+            ]
+          ],
+          "set": "al_done",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "sid_done": 0,
+        "al_done": 0
+      },
+      "note": "",
+      "address": "7B09:12E2",
+      "byte_length": 194,
+      "sha256": "4130823ffa0fcc6d38dd26883981ba790266bc3b1ebb02d6a386f3e972d2a830",
+      "levels": [
+        "CAKE25.LEV"
+      ],
+      "native_hex": "558bec833e0f47007548b8001050b8010050b82500509a2d26000083c406ba0f348ec226a33475b8001050b8010050b82400509a2d26000083c406ba0f348ec226a3367533c0a3a04cba0f348ec226a33875b80f348ec0268b1e3475837f0c1e751db80f348ec0268b1e3475817f0ed800750cb80f348ec026c70638750100b80f348ec0268b1e3675837f0c327517b80f348ec0268b1e3675817f0ea1017506c706a04c0100b80f348ec026833e387500740d833ea04c007406c7060d470a005dcb"
+    },
+    "7B09:13A4": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "sid_done"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al_done"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "state"
+              ],
+              30
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "appearance"
+              ],
+              216
+            ]
+          ],
+          "set": "sid_done",
+          "value": 1
+        },
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al",
+                "state"
+              ],
+              42
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "al",
+                "appearance"
+              ],
+              279
+            ]
+          ],
+          "set": "al_done",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "sid_done": 0,
+        "al_done": 0
+      },
+      "note": "",
+      "address": "7B09:13A4",
+      "byte_length": 194,
+      "sha256": "8f6971ad432673df919e737a7a94edc3206b4bf9025a8bb661bacf913f796553",
+      "levels": [
+        "LOON24.LEV"
+      ],
+      "native_hex": "558bec833e0f47007548b8001050b8010050b82500509a2d26000083c406ba0f348ec226a33a75b8001050b8010050b82400509a2d26000083c406ba0f348ec226a33c7533c0a3a24cba0f348ec226a33e75b80f348ec0268b1e3a75837f0c1e751db80f348ec0268b1e3a75817f0ed800750cb80f348ec026c7063e750100b80f348ec0268b1e3c75837f0c2a7517b80f348ec0268b1e3c75817f0e17017506c706a24c0100b80f348ec026833e3e7500740d833ea24c007406c7060d470a005dcb"
+    },
+    "7B09:1466": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "sid_done"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al_done"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "state"
+              ],
+              13
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "appearance"
+              ],
+              74
+            ]
+          ],
+          "set": "sid_done",
+          "value": 1
+        },
+        {
+          "when": [
+            "any",
+            [
+              "all",
+              [
+                "eq",
+                [
+                  "field",
+                  "al",
+                  "state"
+                ],
+                16
+              ],
+              [
+                "eq",
+                [
+                  "field",
+                  "al",
+                  "appearance"
+                ],
+                141
+              ]
+            ],
+            [
+              "all",
+              [
+                "eq",
+                [
+                  "field",
+                  "al",
+                  "state"
+                ],
+                43
+              ],
+              [
+                "eq",
+                [
+                  "field",
+                  "al",
+                  "appearance"
+                ],
+                280
+              ]
+            ]
+          ],
+          "set": "al_done",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "sid_done": 0,
+        "al_done": 0
+      },
+      "note": "",
+      "address": "7B09:1466",
+      "byte_length": 226,
+      "sha256": "c539892aecfb58a0d8e802867dff3f6c1cbb31d34e9f56a3f11778c34d07e3ec",
+      "levels": [
+        "CAKE26.LEV"
+      ],
+      "native_hex": "558bec833e0f47007548b8001050b8010050b82500509a2d26000083c406ba0f348ec226a34075b8001050b8010050b82400509a2d26000083c406ba0f348ec226a3427533c0a3a44cba0f348ec226a34475b80f348ec0268b1e4075837f0c0d7516b80f348ec0268b1e4075837f0e4a7506c706a44c0100b80f348ec0268b1e4275837f0c107511b80f348ec0268b1e4275817f0e8d007421b80f348ec0268b1e4275837f0c2b751db80f348ec0268b1e4275817f0e1801750cb80f348ec026c70644750100833ea44c007413b80f348ec026833e4475007406c7060d470a005dcb"
+    },
+    "7B09:1548": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "sid_done"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al_done"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "state"
+              ],
+              26
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "sid",
+                "appearance"
+              ],
+              175
+            ]
+          ],
+          "set": "sid_done",
+          "value": 1
+        },
+        {
+          "when": [
+            "all",
+            [
+              "eq",
+              [
+                "field",
+                "al",
+                "state"
+              ],
+              2
+            ],
+            [
+              "eq",
+              [
+                "field",
+                "al",
+                "appearance"
+              ],
+              11
+            ]
+          ],
+          "set": "al_done",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "sid_done": 0,
+        "al_done": 0
+      },
+      "note": "",
+      "address": "7B09:1548",
+      "byte_length": 193,
+      "sha256": "dea02c499988e30ea913b590a9bd9e2bad722324eb37e68473d5aee8f46ee92b",
+      "levels": [
+        "CAKE27.LEV"
+      ],
+      "native_hex": "558bec833e0f47007548b8001050b8010050b82500509a2d26000083c406ba0f348ec226a34675b8001050b8010050b82400509a2d26000083c406ba0f348ec226a3487533c0a3a64cba0f348ec226a34a75b80f348ec0268b1e4675837f0c1a7517b80f348ec0268b1e4675817f0eaf007506c706a64c0100b80f348ec0268b1e4875837f0c02751cb80f348ec0268b1e4875837f0e0b750cb80f348ec026c7064a750100833ea64c007413b80f348ec026833e4a75007406c7060d470a005dcb"
+    },
+    "7B09:1609": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "state"
+          ],
+          2
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "appearance"
+          ],
+          11
+        ]
+      ],
+      "delay": 1,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:1609",
+      "byte_length": 79,
+      "sha256": "26912b66d4db4c97de768ab92803814e821d643b9613e9fa784116353869be91",
+      "levels": [
+        "LOON25.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82400509a2d26000083c406ba0f348ec226a34c75b80f348ec0268b1e4c75837f0c027516b80f348ec0268b1e4c75837f0e0b7506c7060d4701005dcb"
+    },
+    "7B09:1658": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "sid",
+            "state"
+          ],
+          26
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "sid",
+            "appearance"
+          ],
+          175
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:1658",
+      "byte_length": 80,
+      "sha256": "d1c0666662aa503b1578d21e192dc0d49e23c953fced7702f413632992840266",
+      "levels": [
+        "HARD19.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82500509a2d26000083c406ba0f348ec226a34e75b80f348ec0268b1e4e75837f0c1a7517b80f348ec0268b1e4e75817f0eaf007506c7060d470a005dcb"
+    },
+    "7B09:16A8": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "last_hit"
+          ],
+          0
+        ],
+        [
+          "eq",
+          [
+            "and",
+            [
+              "add",
+              [
+                "var",
+                "last_hit"
+              ],
+              30
+            ],
+            65535
+          ],
+          [
+            "tick"
+          ]
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "sid",
+              "state"
+            ],
+            17
+          ],
+          "set": "last_hit",
+          "value": [
+            "tick"
+          ]
+        }
+      ],
+      "vars": {
+        "last_hit": 0
+      },
+      "note": "Refreshes timestamp on every update in state17; completes thirty updates after the last such update. Tick is native pre-increment uint16.",
+      "address": "7B09:16A8",
+      "byte_length": 120,
+      "sha256": "17f159246332c02b5d33d15d787a2037b43dd5523755995123e12a2434dbfccd",
+      "levels": [
+        "CAKE6.LEV",
+        "HARD12.LEV",
+        "HARD13.LEV"
+      ],
+      "native_hex": "558bec833e0f47007529b8001050b8010050b82500509a2d26000083c406ba0f348ec226a35075b80f348ec026c70652750000b80f348ec0268b1e5075837f0c11750eb80f348b160f478ec02689165275b80f348ec026833e5275007418b80f348ec026a15275051e003b060f477506c7060d470a005dcb"
+    },
+    "7B09:1720": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "sid_done"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al_done"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "sid",
+              "state"
+            ],
+            17
+          ],
+          "set": "sid_done",
+          "value": 1
+        },
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "al",
+              "state"
+            ],
+            8
+          ],
+          "set": "al_done",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "sid_done": 0,
+        "al_done": 0
+      },
+      "note": "",
+      "address": "7B09:1720",
+      "byte_length": 160,
+      "sha256": "4fe7f29aaeab05873fb7ebf361ba99a398e5240dd1d4bf0c8aa4e3762b1b817f",
+      "levels": [
+        "BRAN4.LEV"
+      ],
+      "native_hex": "558bec833e0f47007548b8001050b8010050b82500509a2d26000083c406ba0f348ec226a35475b8001050b8010050b82400509a2d26000083c406ba0f348ec226a3567533c0a3a84cba0f348ec226a35875b80f348ec0268b1e5475837f0c11750cb80f348ec026c70658750100b80f348ec0268b1e5675837f0c087506c706a84c0100b80f348ec026833e587500740d833ea84c007406c7060d470a005dcb"
+    },
+    "7B09:17C0": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "state"
+          ],
+          20
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "al",
+            "appearance"
+          ],
+          181
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:17C0",
+      "byte_length": 80,
+      "sha256": "781e3a38a0ff4a48d4b312039bf13ad463fa6b2ecab282606b816b75157dbbf5",
+      "levels": [
+        "BRAN18.LEV",
+        "BRAN19.LEV",
+        "HARD1.LEV",
+        "HARD8.LEV",
+        "HARD10.LEV",
+        "HARD14.LEV",
+        "HARD16.LEV",
+        "HARD17.LEV",
+        "LOON2.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82400509a2d26000083c406ba0f348ec226a35a75b80f348ec0268b1e5a75837f0c147517b80f348ec0268b1e5a75817f0eb5007506c7060d470a005dcb"
+    },
+    "7B09:1810": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "sid_done"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al_done"
+          ],
+          0
+        ]
+      ],
+      "delay": 30,
+      "rules": [
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "sid",
+              "state"
+            ],
+            18
+          ],
+          "set": "sid_done",
+          "value": 1
+        },
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "al",
+              "state"
+            ],
+            4
+          ],
+          "set": "al_done",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "sid_done": 0,
+        "al_done": 0
+      },
+      "note": "",
+      "address": "7B09:1810",
+      "byte_length": 160,
+      "sha256": "8a975104e729089b8b024762f79fa0e522c716550306fc1780c51d2aa1fd1a32",
+      "levels": [
+        "LOON11.LEV"
+      ],
+      "native_hex": "558bec833e0f47007548b8001050b8010050b82500509a2d26000083c406ba0f348ec226a35c75b8001050b8010050b82400509a2d26000083c406ba0f348ec226a35e7533c0a3aa4cba0f348ec226a36075b80f348ec0268b1e5c75837f0c12750cb80f348ec026c70660750100b80f348ec0268b1e5e75837f0c047506c706aa4c0100b80f348ec026833e607500740d833eaa4c007406c7060d471e005dcb"
+    },
+    "7B09:18B0": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "sid_done"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al_done"
+          ],
+          0
+        ]
+      ],
+      "delay": 30,
+      "rules": [
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "sid",
+              "state"
+            ],
+            18
+          ],
+          "set": "sid_done",
+          "value": 1
+        },
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "al",
+              "state"
+            ],
+            59
+          ],
+          "set": "al_done",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "sid_done": 0,
+        "al_done": 0
+      },
+      "note": "",
+      "address": "7B09:18B0",
+      "byte_length": 160,
+      "sha256": "82ae3f7f18d1f7448fcba0434ec51088998aeccdaaf191b1a395507e8fc9c69f",
+      "levels": [
+        "BRAN17.LEV"
+      ],
+      "native_hex": "558bec833e0f47007548b8001050b8010050b82500509a2d26000083c406ba0f348ec226a36275b8001050b8010050b82400509a2d26000083c406ba0f348ec226a3647533c0a3ac4cba0f348ec226a36675b80f348ec0268b1e6275837f0c12750cb80f348ec026c70666750100b80f348ec0268b1e6475837f0c3b7506c706ac4c0100b80f348ec026833e667500740d833eac4c007406c7060d471e005dcb"
+    },
+    "7B09:1950": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "sid_done"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al_done"
+          ],
+          0
+        ]
+      ],
+      "delay": 20,
+      "rules": [
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "sid",
+              "state"
+            ],
+            18
+          ],
+          "set": "sid_done",
+          "value": 1
+        },
+        {
+          "when": [
+            "eq",
+            [
+              "field",
+              "al",
+              "state"
+            ],
+            50
+          ],
+          "set": "al_done",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "sid_done": 0,
+        "al_done": 0
+      },
+      "note": "",
+      "address": "7B09:1950",
+      "byte_length": 163,
+      "sha256": "416b85961e4e3c89b9b060af56077b7abd19153d6c554d87dc27192734e9a278",
+      "levels": [
+        "CAKE14.LEV",
+        "BRAN15.LEV"
+      ],
+      "native_hex": "558bec833e0f4700754bb8001050b8010050b82400509a2d26000083c406ba0f348ec226a36a75b8001050b8010050b82500509a2d26000083c406ba0f348ec226a36875b80f3433d28ec02689166c758bc2a3ae4cb80f348ec0268b1e6a75837f0c32750cb80f348ec026c7066c750100b80f348ec0268b1e6875837f0c127506c706ae4c0100833eae4c007413b80f348ec026833e6c75007406c7060d4714005dcb"
+    },
+    "7B09:19F3": {
+      "selectors": {
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "eq",
+        [
+          "field",
+          "al",
+          "state"
+        ],
+        42
+      ],
+      "delay": 20,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:19F3",
+      "byte_length": 63,
+      "sha256": "2f8a9e6dd2eae9eaa46907b73be95f24200b5d48b8d353dabe506b8a1142fc14",
+      "levels": [
+        "CAKE15.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82400509a2d26000083c406ba0f348ec226a36e75b80f348ec0268b1e6e75837f0c2a7506c7060d4714005dcb"
+    },
+    "7B09:1A32": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "gt",
+          [
+            "field",
+            "sid",
+            "y"
+          ],
+          400
+        ],
+        [
+          "ne",
+          [
+            "field",
+            "sid",
+            "state"
+          ],
+          45
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:1A32",
+      "byte_length": 80,
+      "sha256": "04c5ecec418ab7737cd5435ba5386206a04b27926ac83263b68fc53801369f98",
+      "levels": [
+        "CAKE17.LEV",
+        "HARD7.LEV",
+        "LOON5.LEV",
+        "LOON22.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82500509a2d26000083c406ba0f348ec226a37075b80f348ec0268b1e7075817f2190017e16b80f348ec0268b1e7075837f0c2d7406c7060d470a005dcb"
+    },
+    "7B09:1A82": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "ne",
+          [
+            "var",
+            "sid_done"
+          ],
+          0
+        ],
+        [
+          "ne",
+          [
+            "var",
+            "al_done"
+          ],
+          0
+        ]
+      ],
+      "delay": 10,
+      "rules": [
+        {
+          "when": [
+            "all",
+            [
+              "gt",
+              [
+                "field",
+                "sid",
+                "y"
+              ],
+              400
+            ],
+            [
+              "ne",
+              [
+                "field",
+                "sid",
+                "state"
+              ],
+              45
+            ]
+          ],
+          "set": "sid_done",
+          "value": 1
+        },
+        {
+          "when": [
+            "bit",
+            [
+              "field",
+              "al",
+              "flags_08"
+            ],
+            8192
+          ],
+          "set": "al_done",
+          "value": 1
+        }
+      ],
+      "vars": {
+        "sid_done": 0,
+        "al_done": 0
+      },
+      "note": "",
+      "address": "7B09:1A82",
+      "byte_length": 160,
+      "sha256": "a25cfe8ea7cdc54b33c00347947aef4b578612ade38b0b9df190eb88f9a3dcae",
+      "levels": [
+        "LOON6.LEV"
+      ],
+      "native_hex": "558bec833e0f47007542b8001050b8010050b82500509a2d26000083c406ba0f348ec226a37275b8001050b8010050b82400509a2d26000083c406ba0f348ec226a3747533c0a3b24ca3b04cb80f348ec0268b1e7275817f2190017e16b80f348ec0268b1e7275837f0c2d7406c706b04c0100b80f348ec0268b1e7475f7470800207406c706b24c0100833eb04c00740d833eb24c007406c7060d470a005dcb"
+    },
+    "7B09:1B22": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "gt",
+          [
+            "field",
+            "sid",
+            "y"
+          ],
+          400
+        ],
+        [
+          "lt",
+          [
+            "field",
+            "sid",
+            "y"
+          ],
+          420
+        ],
+        [
+          "gt",
+          [
+            "field",
+            "sid",
+            "x"
+          ],
+          400
+        ],
+        [
+          "ne",
+          [
+            "field",
+            "sid",
+            "state"
+          ],
+          45
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:1B22",
+      "byte_length": 114,
+      "sha256": "b2e0542d732cee99f30791cf45cd77c6abe83ba7ba186e266f2181399157e69d",
+      "levels": [
+        "LOON4.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82500509a2d26000083c406ba0f348ec226a37675b80f348ec0268b1e7675817f2190017e38b80f348ec0268b1e7675817f21a4017d27b80f348ec0268b1e7675817f1f90017e16b80f348ec0268b1e7675837f0c2d7406c7060d470a005dcb"
+    },
+    "7B09:1B94": {
+      "selectors": {
+        "al1": {
+          "type": 36,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al2": {
+          "type": 36,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "al3": {
+          "type": 36,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "bit",
+          [
+            "field",
+            "al1",
+            "flags_0a"
+          ],
+          256
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "al2",
+            "flags_0a"
+          ],
+          256
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "al3",
+            "flags_0a"
+          ],
+          256
+        ]
+      ],
+      "delay": 10,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:1B94",
+      "byte_length": 131,
+      "sha256": "b829035bd7856e586fd99e5d7b0b1b8a04788696852e88741eae9dbfd52a9da7",
+      "levels": [
+        "HARD6.LEV"
+      ],
+      "native_hex": "558bec83ec0256833e0f47007539c646ff00eb2db80010508a46ffb4004050b82400509a2d26000083c4068a56ffb600d1e2bb0f348ec38bda2689877875fe46ff807eff0372cd33f6c646ff00eb1e8a46ffb400d1e0ba0f348bd88ec2268b9f7875f7470a0001740146fe46ff807eff0372dc83fe037506c7060d470a005e8be55dcb"
+    },
+    "7B09:1C17": {
+      "selectors": {
+        "cheese1": {
+          "type": 57,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "cheese2": {
+          "type": 57,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "cheese3": {
+          "type": 57,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "bit",
+          [
+            "field",
+            "cheese1",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "cheese2",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "cheese3",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      "delay": 30,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:1C17",
+      "byte_length": 105,
+      "sha256": "c5bccaab672255a53914f630d74a7b4ca2c61b08566c92c02586bd329c38fa92",
+      "levels": [
+        "BRAN20.LEV"
+      ],
+      "native_hex": "558bec5657833e0f4700752c33f6eb23b80010508bc64050b83900509a2d26000083c4068bded1e3ba0f348ec22689877e754683fe037cd833ff33f6eb178bded1e3b80f348ec0268b9f7e75f7470800207401474683fe037ce483ff037506c7060d471e005f5e5dcb"
+    },
+    "7B09:1C80": {
+      "selectors": {
+        "fish1": {
+          "type": 56,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "fish2": {
+          "type": 56,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "fish3": {
+          "type": 56,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "bit",
+          [
+            "field",
+            "fish1",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "fish2",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "fish3",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      "delay": 30,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:1C80",
+      "byte_length": 105,
+      "sha256": "c189b283423709f90acba1fd10ebe642985a948d761314cdc1d864d6d9026341",
+      "levels": [
+        "BRAN6.LEV"
+      ],
+      "native_hex": "558bec5657833e0f4700752c33f6eb23b80010508bc64050b83800509a2d26000083c4068bded1e3ba0f348ec226898784754683fe037cd833ff33f6eb178bded1e3b80f348ec0268b9f8475f7470800207401474683fe037ce483ff037506c7060d471e005f5e5dcb"
+    },
+    "7B09:1CE9": {
+      "selectors": {
+        "fish1": {
+          "type": 56,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "fish2": {
+          "type": 56,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "fish3": {
+          "type": 56,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "fish4": {
+          "type": 56,
+          "nth": 4,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "fish5": {
+          "type": 56,
+          "nth": 5,
+          "chain": "mover",
+          "mask": 4096,
+          "allow_null": true
+        },
+        "fish6": {
+          "type": 56,
+          "nth": 6,
+          "chain": "mover",
+          "mask": 4096,
+          "allow_null": true
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "bit",
+          [
+            "field",
+            "fish1",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "fish2",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "fish3",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "fish4",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "fish5",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "fish6",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      "delay": 30,
+      "rules": [],
+      "vars": {},
+      "note": "LOON18 has four Fish. Original requests six, then reads DS:0008=0x6E61 for missing fifth/sixth pointers. Bit0x2000 is set, so these two count as consumed. Confirmed native live probe runtime/campaign_goals_20261112/loon18_null_pointer_probe/goal_trace.jsonl; only these two slots permit null.",
+      "null_fields": {
+        "flags_08": 28257
+      },
+      "address": "7B09:1CE9",
+      "byte_length": 105,
+      "sha256": "95c6d04e630abeb824d0ec649eaee6a102c95e5e935528c5219fd9340bf8d497",
+      "levels": [
+        "LOON18.LEV"
+      ],
+      "native_hex": "558bec5657833e0f4700752c33f6eb23b80010508bc64050b83800509a2d26000083c4068bded1e3ba0f348ec22689878a754683fe067cd833ff33f6eb178bded1e3b80f348ec0268b9f8a75f7470800207401474683fe067ce483ff067506c7060d471e005f5e5dcb"
+    },
+    "7B09:1D52": {
+      "selectors": {
+        "cheese1": {
+          "type": 57,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "cheese2": {
+          "type": 57,
+          "nth": 2,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "cheese3": {
+          "type": 57,
+          "nth": 3,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "cheese4": {
+          "type": 57,
+          "nth": 4,
+          "chain": "mover",
+          "mask": 4096
+        },
+        "cheese5": {
+          "type": 57,
+          "nth": 5,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "bit",
+          [
+            "field",
+            "cheese1",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "cheese2",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "cheese3",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "cheese4",
+            "flags_08"
+          ],
+          8192
+        ],
+        [
+          "bit",
+          [
+            "field",
+            "cheese5",
+            "flags_08"
+          ],
+          8192
+        ]
+      ],
+      "delay": 30,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:1D52",
+      "byte_length": 105,
+      "sha256": "50c1cc3aec7fe715b660f9d9c6974ee005ea27264416ac2daa10bcd227fbe321",
+      "levels": [
+        "LOON16.LEV"
+      ],
+      "native_hex": "558bec5657833e0f4700752c33f6eb23b80010508bc64050b83900509a2d26000083c4068bded1e3ba0f348ec226898796754683fe057cd833ff33f6eb178bded1e3b80f348ec0268b9f9675f7470800207401474683fe057ce483ff057506c7060d471e005f5e5dcb"
+    },
+    "7B09:1DBB": {
+      "selectors": {
+        "sid": {
+          "type": 37,
+          "nth": 1,
+          "chain": "mover",
+          "mask": 4096
+        }
+      },
+      "condition": [
+        "all",
+        [
+          "eq",
+          [
+            "field",
+            "sid",
+            "state"
+          ],
+          48
+        ],
+        [
+          "eq",
+          [
+            "field",
+            "sid",
+            "appearance"
+          ],
+          378
+        ]
+      ],
+      "delay": 20,
+      "rules": [],
+      "vars": {},
+      "note": "",
+      "address": "7B09:1DBB",
+      "byte_length": 80,
+      "sha256": "d767059bfb73e0f34af555cbac1d46d885ad2d97638baff55765c969b37575ed",
+      "levels": [
+        "LOON3.LEV"
+      ],
+      "native_hex": "558bec833e0f4700751db8001050b8010050b82500509a2d26000083c406ba0f348ec226a3a075b80f348ec0268b1ea075837f0c307517b80f348ec0268b1ea075817f0e7a017506c7060d4714005dcb"
+    }
+  },
+  "fields": {
+    "state": 12,
+    "appearance": 14,
+    "flags_08": 8,
+    "flags_0a": 10,
+    "settings": 175,
+    "trigger": 20,
+    "x": 31,
+    "y": 33,
+    "older_y": 41,
+    "height": 79,
+    "target": 177,
+    "type": 4,
+    "rope": 111
+  },
+  "selector_contract": {
+    "function": "1000:262D",
+    "chain_heads": {
+      "mover": 18902,
+      "static": 19081
+    },
+    "ordinal": "one-based type occurrence within original +00 linked-list order; no inactive filtering; bound once when native tick=0"
+  },
+  "scheduling": {
+    "function": "1000:246B",
+    "tick_global": 18191,
+    "countdown_global": 18189,
+    "initial_countdown": -1,
+    "editor_evaluation": false,
+    "description": "After physics/render/input, when both evaluation inhibit globals are zero and countdown<0, call callback. Then if countdown==0 set mode0200; else if positive decrement, including on triggering update. A countdown reaching zero by decrement completes on the next full update. Tick increment follows. Callbacks are not invoked again during countdown."
+  }
+}

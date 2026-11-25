@@ -1,0 +1,1067 @@
+{
+  "tables": {
+    "0x44bd": "TN_R_BTN.BMP",
+    "0x44d1": "TN_PL_CN.BMP"
+  },
+  "colors": {
+    "0x5b7": 12,
+    "0x5b8": 10,
+    "0x5b9": 4,
+    "0x5ba": 1,
+    "0x5bb": 11,
+    "0x5bc": 9,
+    "0x5bd": 5,
+    "0x5be": 2,
+    "0x5bf": 10,
+    "0x5c0": 9,
+    "0x5c1": 1
+  },
+  "exit": [
+    {
+      "kind": "rect",
+      "xywh": [
+        597,
+        348,
+        36,
+        43
+      ],
+      "color": [
+        "color",
+        1463
+      ],
+      "source": "original file 372432, 05A1"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        593,
+        353,
+        4,
+        30
+      ],
+      "color": [
+        "color",
+        1465
+      ],
+      "source": "original file 372432, 05C2"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        633,
+        351,
+        6,
+        34
+      ],
+      "color": [
+        "color",
+        1467
+      ],
+      "source": "original file 372432, 05E3"
+    },
+    {
+      "kind": "line",
+      "xywh": [
+        639,
+        373,
+        639,
+        385
+      ],
+      "color": [
+        "color",
+        1466
+      ],
+      "source": "original file 372432, 0604"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44d1",
+      "frame": 3,
+      "xy": [
+        588,
+        388
+      ],
+      "flags": 2,
+      "source": "original file 372432, 0624"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44d1",
+      "frame": 1,
+      "xy": [
+        612,
+        377
+      ],
+      "flags": 2,
+      "source": "original file 372432, 0644"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 27,
+      "xy": [
+        594,
+        350
+      ],
+      "flags": 0,
+      "source": "original file 372432, 057D"
+    }
+  ],
+  "goal": [
+    {
+      "kind": "rect",
+      "xywh": [
+        597,
+        144,
+        36,
+        47
+      ],
+      "color": [
+        "color",
+        1463
+      ],
+      "source": "original file 377440, 04CC"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        594,
+        155,
+        3,
+        12
+      ],
+      "color": [
+        "color",
+        1465
+      ],
+      "source": "original file 377440, 04ED"
+    },
+    {
+      "kind": "line",
+      "xywh": [
+        633,
+        160,
+        633,
+        170
+      ],
+      "color": [
+        "color",
+        1467
+      ],
+      "source": "original file 377440, 050E"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 16,
+      "xy": [
+        597,
+        168
+      ],
+      "flags": 0,
+      "source": "original file 377440, 052D"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 18,
+      "xy": [
+        597,
+        160
+      ],
+      "flags": 0,
+      "source": "original file 377440, 04A8"
+    }
+  ],
+  "nuke": [
+    {
+      "kind": "rect",
+      "xywh": [
+        597,
+        241,
+        36,
+        57
+      ],
+      "color": [
+        "color",
+        1463
+      ],
+      "source": "original file 383152, 03A5"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        591,
+        249,
+        6,
+        44
+      ],
+      "color": [
+        "color",
+        1465
+      ],
+      "source": "original file 383152, 03C6"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        633,
+        251,
+        6,
+        46
+      ],
+      "color": [
+        "color",
+        1467
+      ],
+      "source": "original file 383152, 03E7"
+    },
+    {
+      "kind": "line",
+      "xywh": [
+        592,
+        248,
+        592,
+        296
+      ],
+      "color": [
+        "color",
+        1470
+      ],
+      "source": "original file 383152, 0408"
+    },
+    {
+      "kind": "line",
+      "xywh": [
+        639,
+        285,
+        639,
+        293
+      ],
+      "color": [
+        "color",
+        1466
+      ],
+      "source": "original file 383152, 0429"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 22,
+      "xy": [
+        593,
+        242
+      ],
+      "flags": 0,
+      "source": "original file 383152, 0381"
+    }
+  ],
+  "tunes": [
+    {
+      "kind": "rect",
+      "xywh": [
+        597,
+        202,
+        36,
+        29
+      ],
+      "color": [
+        "color",
+        1463
+      ],
+      "source": "original file 357408, 0BFC"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        586,
+        204,
+        11,
+        28
+      ],
+      "color": [
+        "color",
+        1465
+      ],
+      "source": "original file 357408, 0C1D"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        633,
+        202,
+        6,
+        29
+      ],
+      "color": [
+        "color",
+        1467
+      ],
+      "source": "original file 357408, 0C3E"
+    },
+    {
+      "kind": "line",
+      "xywh": [
+        592,
+        204,
+        592,
+        234
+      ],
+      "color": [
+        "color",
+        1470
+      ],
+      "source": "original file 357408, 0C5F"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 20,
+      "xy": [
+        587,
+        191
+      ],
+      "flags": 0,
+      "source": "original file 357408, 0BD8"
+    }
+  ],
+  "load": [
+    {
+      "kind": "rect",
+      "xywh": [
+        597,
+        73,
+        17,
+        13
+      ],
+      "color": [
+        "color",
+        1463
+      ],
+      "source": "298D:1858"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        593,
+        78,
+        4,
+        11
+      ],
+      "color": [
+        "color",
+        1465
+      ],
+      "source": "298D:1879"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 7,
+      "xy": [
+        594,
+        76
+      ],
+      "flags": 0,
+      "source": "298D:1834"
+    }
+  ],
+  "save": [
+    {
+      "kind": "rect",
+      "xywh": [
+        597,
+        87,
+        36,
+        57
+      ],
+      "color": [
+        "color",
+        1463
+      ],
+      "source": "298D:1C69"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        633,
+        92,
+        6,
+        10
+      ],
+      "color": [
+        "color",
+        1467
+      ],
+      "source": "298D:1C8A"
+    },
+    {
+      "kind": "line",
+      "xywh": [
+        639,
+        93,
+        639,
+        100
+      ],
+      "color": [
+        "color",
+        1466
+      ],
+      "source": "298D:1CAB"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 7,
+      "xy": [
+        593,
+        73
+      ],
+      "flags": 0,
+      "source": "298D:1815"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 8,
+      "xy": [
+        594,
+        86
+      ],
+      "flags": 0,
+      "source": "298D:1834"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 11,
+      "xy": [
+        597,
+        98
+      ],
+      "flags": 0,
+      "source": "298D:1CDB"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 14,
+      "xy": [
+        594,
+        116
+      ],
+      "flags": 0,
+      "source": "298D:1CFA"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 15,
+      "xy": [
+        622,
+        93
+      ],
+      "flags": 0,
+      "source": "298D:1C45"
+    }
+  ],
+  "home_clear": [
+    {
+      "kind": "rect",
+      "xywh": [
+        583,
+        24,
+        24,
+        34
+      ],
+      "color": [
+        "color",
+        1465
+      ],
+      "source": "298D:13A6"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        597,
+        29,
+        36,
+        35
+      ],
+      "color": [
+        "color",
+        1463
+      ],
+      "source": "298D:13C7"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        633,
+        29,
+        7,
+        18
+      ],
+      "color": [
+        "color",
+        1467
+      ],
+      "source": "298D:13E8"
+    },
+    {
+      "kind": "line",
+      "xywh": [
+        592,
+        58,
+        592,
+        24
+      ],
+      "color": [
+        "color",
+        1470
+      ],
+      "source": "298D:1409"
+    },
+    {
+      "kind": "line",
+      "xywh": [
+        639,
+        27,
+        639,
+        50
+      ],
+      "color": [
+        "color",
+        1466
+      ],
+      "source": "298D:142A"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44d1",
+      "frame": 15,
+      "xy": [
+        592,
+        0
+      ],
+      "flags": 0,
+      "source": "298D:1448"
+    }
+  ],
+  "home_1": [
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 3,
+      "xy": [
+        585,
+        14
+      ],
+      "flags": 0,
+      "source": "298D:127E"
+    }
+  ],
+  "home_2": [
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 5,
+      "xy": [
+        620,
+        0
+      ],
+      "flags": 0,
+      "source": "298D:12C0"
+    }
+  ],
+  "home_3": [
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 6,
+      "xy": [
+        628,
+        0
+      ],
+      "flags": 0,
+      "source": "298D:1302"
+    }
+  ],
+  "home_idle": [
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 4,
+      "xy": [
+        585,
+        9
+      ],
+      "flags": 0,
+      "source": "298D:1253"
+    }
+  ],
+  "editor_home_clear": [
+    {
+      "kind": "rect",
+      "xywh": [
+        583,
+        24,
+        14,
+        34
+      ],
+      "color": [
+        "color",
+        1465
+      ],
+      "source": "298D:1715"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        597,
+        29,
+        36,
+        32
+      ],
+      "color": [
+        "color",
+        1463
+      ],
+      "source": "298D:1736"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        633,
+        29,
+        7,
+        18
+      ],
+      "color": [
+        "color",
+        1467
+      ],
+      "source": "298D:1757"
+    },
+    {
+      "kind": "line",
+      "xywh": [
+        592,
+        58,
+        592,
+        24
+      ],
+      "color": [
+        "color",
+        1470
+      ],
+      "source": "298D:1778"
+    },
+    {
+      "kind": "line",
+      "xywh": [
+        639,
+        27,
+        639,
+        50
+      ],
+      "color": [
+        "color",
+        1466
+      ],
+      "source": "298D:1799"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44d1",
+      "frame": 15,
+      "xy": [
+        592,
+        0
+      ],
+      "flags": 0,
+      "source": "298D:17B7"
+    }
+  ],
+  "editor_home_idle": [
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 0,
+      "xy": [
+        595,
+        17
+      ],
+      "flags": 0,
+      "source": "298D:14A9"
+    }
+  ],
+  "editor_home_1": [
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 1,
+      "xy": [
+        594,
+        16
+      ],
+      "flags": 0,
+      "source": "298D:14F1"
+    }
+  ],
+  "editor_home_2": [
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 2,
+      "xy": [
+        596,
+        18
+      ],
+      "flags": 0,
+      "source": "298D:153B"
+    }
+  ],
+  "checklist_clear": [
+    {
+      "kind": "rect",
+      "xywh": [
+        593,
+        299,
+        4,
+        48
+      ],
+      "color": 4,
+      "source": "298D:1E72"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        597,
+        299,
+        36,
+        48
+      ],
+      "color": [
+        "color",
+        1463
+      ],
+      "source": "298D:1E95"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        633,
+        299,
+        7,
+        48
+      ],
+      "color": [
+        "color",
+        1467
+      ],
+      "source": "298D:1EB6"
+    },
+    {
+      "kind": "line",
+      "xywh": [
+        592,
+        299,
+        592,
+        347
+      ],
+      "color": [
+        "color",
+        1470
+      ],
+      "source": "298D:1ED7"
+    }
+  ],
+  "checklist_idle": [
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 23,
+      "xy": [
+        594,
+        300
+      ],
+      "flags": 0,
+      "source": "298D:1DE0"
+    }
+  ],
+  "checklist": [
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 24,
+      "xy": [
+        594,
+        309
+      ],
+      "flags": 0,
+      "source": "298D:1E0A"
+    }
+  ],
+  "load_idle": [
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 7,
+      "xy": [
+        593,
+        73
+      ],
+      "flags": 0,
+      "source": "298D:1815"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 8,
+      "xy": [
+        594,
+        86
+      ],
+      "flags": 0,
+      "source": "298D:1834"
+    }
+  ],
+  "editor_save_arrow_idle": [
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 9,
+      "xy": [
+        612,
+        61
+      ],
+      "flags": 0,
+      "source": "298D:19E8"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 10,
+      "xy": [
+        613,
+        73
+      ],
+      "flags": 0,
+      "source": "298D:1A07"
+    }
+  ],
+  "editor_save_arrow": [
+    {
+      "kind": "rect",
+      "xywh": [
+        610,
+        61,
+        23,
+        25
+      ],
+      "color": [
+        "color",
+        1463
+      ],
+      "source": "298D:1A2B"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        633,
+        69,
+        6,
+        7
+      ],
+      "color": [
+        "color",
+        1467
+      ],
+      "source": "298D:1A4C"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 9,
+      "xy": [
+        613,
+        64
+      ],
+      "flags": 0,
+      "source": "298D:1A07"
+    }
+  ],
+  "save_idle": [
+    {
+      "kind": "rect",
+      "xywh": [
+        597,
+        95,
+        36,
+        47
+      ],
+      "color": [
+        "color",
+        1463
+      ],
+      "source": "298D:1B74"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        593,
+        120,
+        4,
+        19
+      ],
+      "color": [
+        "color",
+        1465
+      ],
+      "source": "298D:1B95"
+    },
+    {
+      "kind": "rect",
+      "xywh": [
+        633,
+        93,
+        6,
+        34
+      ],
+      "color": [
+        "color",
+        1467
+      ],
+      "source": "298D:1BB6"
+    },
+    {
+      "kind": "line",
+      "xywh": [
+        639,
+        93,
+        639,
+        100
+      ],
+      "color": [
+        "color",
+        1466
+      ],
+      "source": "298D:1BD7"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 7,
+      "xy": [
+        593,
+        73
+      ],
+      "flags": 0,
+      "source": "298D:1815"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 8,
+      "xy": [
+        594,
+        86
+      ],
+      "flags": 0,
+      "source": "298D:1834"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 11,
+      "xy": [
+        597,
+        96
+      ],
+      "flags": 0,
+      "source": "298D:1C07"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 12,
+      "xy": [
+        595,
+        115
+      ],
+      "flags": 0,
+      "source": "298D:1C26"
+    },
+    {
+      "kind": "sprite",
+      "table": "0x44bd",
+      "frame": 13,
+      "xy": [
+        622,
+        87
+      ],
+      "flags": 0,
+      "source": "298D:1C45"
+    }
+  ],
+  "animation": {
+    "evidence": "Static branches of normalized resident 298D in TOONS_UNFBOV.EXE; no new runtime capture.",
+    "timer": "Arguments to 298D:0006, waiting on DS:34BF when DS:34BE is enabled; tick frequency not established by this extraction.",
+    "editor_home": {
+      "entry": "298D:1450 state 1",
+      "counter": "DS:43D0 incremented byte at 14B2",
+      "odd_counter_sequence": [
+        "editor_home_1",
+        "editor_home_2",
+        "editor_home_idle"
+      ],
+      "even_counter_sequence": [
+        "editor_home_2",
+        "editor_home_1",
+        "editor_home_idle"
+      ],
+      "repeat_count": "(counter % 5) + 1",
+      "ticks_per_phase": "15 - 2 * (counter % 5)",
+      "before_each_phase": "editor_home_clear",
+      "idle_entry": "298D:1450 state 0; clear 16DA then frame 0"
+    },
+    "checklist": {
+      "entry": "298D:1D8A state 1",
+      "sequence": [
+        "checklist",
+        "checklist_idle"
+      ],
+      "ticks_before_idle": 30,
+      "before_each_phase": "checklist_clear"
+    },
+    "load": {
+      "entry": "298D:17BF state 2",
+      "sequence": [
+        "load",
+        "load_idle"
+      ],
+      "ticks_before_idle": 30,
+      "editor_after_each_phase": "editor_save_arrow_idle (DS:05B6 nonzero, branches 18A9/1912)"
+    },
+    "editor_save_arrow": {
+      "entry": "298D:1992 state 2",
+      "sequence": [
+        "editor_save_arrow",
+        "editor_save_arrow_idle"
+      ],
+      "ticks_before_idle": 30,
+      "after_hover": "load_idle (1A7C..1ABA)"
+    },
+    "save": {
+      "entry": "298D:1B19 state 2",
+      "sequence": [
+        "save",
+        "save_idle"
+      ],
+      "ticks_before_idle": 30,
+      "nested_load_idle": "expanded at 1CB7 and 1BE3"
+    },
+    "mode": "Resolve symbolic colors from dos_home_editor.json and table 0x44d1 as TN_ED_CN.BMP in editor mode; campaign uses existing colors and TN_PL_CN.BMP."
+  }
+}

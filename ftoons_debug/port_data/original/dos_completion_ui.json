@@ -1,0 +1,1225 @@
+{
+  "schema": 1,
+  "source": "DOS TOONS.EXE overlay081, file offset406912; draw6D38:077E; variant table440F:3A30",
+  "executable_sha256": "cc37575f7bf1f36ac1b2083f82095930fc2d132881f9b619de46452210c30fc1",
+  "tables": {
+    "0x45f0": "REWARD01.BMP",
+    "0x45e8": "REWSIGNS.BMP",
+    "0x45ec": "HAND.BMP",
+    "0x45e4": "GOPHER.BMP"
+  },
+  "commands": {
+    "0": [
+      {
+        "kind": "sprite",
+        "table": "0x45f0",
+        "frame": 0,
+        "xy": [
+          238,
+          59
+        ],
+        "flags": 0,
+        "source": "6D38:07CF"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45f0",
+        "frame": 2,
+        "xy": [
+          238,
+          231
+        ],
+        "flags": 0,
+        "source": "6D38:07EE"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45f0",
+        "frame": 1,
+        "xy": [
+          349,
+          231
+        ],
+        "flags": 0,
+        "source": "6D38:080D"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45f0",
+        "frame": 4,
+        "xy": [
+          211,
+          279
+        ],
+        "flags": 0,
+        "source": "6D38:082C"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45f0",
+        "frame": 3,
+        "xy": [
+          391,
+          277
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "1": [],
+    "2": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          365,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:086F"
+      }
+    ],
+    "3": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          364,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "4": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          365,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "5": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          364,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "6": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          365,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "7": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          364,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "8": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          365,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "9": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          363,
+          299
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "10": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          362,
+          299
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "11": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          363,
+          299
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "12": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          362,
+          299
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "13": [
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 0,
+        "xy": [
+          299,
+          269
+        ],
+        "flags": 0,
+        "source": "6D38:0CE5"
+      }
+    ],
+    "14": [
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 1,
+        "xy": [
+          311,
+          247
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "15": [
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 2,
+        "xy": [
+          327,
+          209
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "16": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 2,
+        "xy": [
+          348,
+          217
+        ],
+        "flags": 0,
+        "source": "6D38:08FF"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 3,
+        "xy": [
+          335,
+          259
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "17": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          365,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:086F"
+      }
+    ],
+    "18": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          364,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "19": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          365,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "20": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          364,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "21": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          365,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "22": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          364,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "23": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          365,
+          313
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "24": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          363,
+          299
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "25": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          362,
+          299
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "26": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          363,
+          299
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "27": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          362,
+          299
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "28": [
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 0,
+        "xy": [
+          320,
+          257
+        ],
+        "flags": 0,
+        "source": "6D38:0CE5"
+      }
+    ],
+    "29": [
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 1,
+        "xy": [
+          296,
+          222
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "30": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 2,
+        "xy": [
+          319,
+          223
+        ],
+        "flags": 0,
+        "source": "6D38:0AEB"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 2,
+        "xy": [
+          321,
+          259
+        ],
+        "flags": 0,
+        "source": "6D38:0B0A"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 3,
+        "xy": [
+          305,
+          258
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "31": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 2,
+        "xy": [
+          319,
+          223
+        ],
+        "flags": 0,
+        "source": "6D38:0982"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 2,
+        "xy": [
+          321,
+          259
+        ],
+        "flags": 0,
+        "source": "6D38:09A1"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 5,
+        "xy": [
+          308,
+          269
+        ],
+        "flags": 0,
+        "source": "6D38:0AC0"
+      }
+    ],
+    "32": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 2,
+        "xy": [
+          319,
+          223
+        ],
+        "flags": 0,
+        "source": "6D38:09DA"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 2,
+        "xy": [
+          321,
+          259
+        ],
+        "flags": 0,
+        "source": "6D38:09F9"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 4,
+        "xy": [
+          320,
+          253
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "33": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 2,
+        "xy": [
+          319,
+          223
+        ],
+        "flags": 0,
+        "source": "6D38:0A2A"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 2,
+        "xy": [
+          321,
+          259
+        ],
+        "flags": 0,
+        "source": "6D38:0A49"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 5,
+        "xy": [
+          308,
+          269
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "34": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 2,
+        "xy": [
+          319,
+          223
+        ],
+        "flags": 0,
+        "source": "6D38:0A82"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 2,
+        "xy": [
+          321,
+          259
+        ],
+        "flags": 0,
+        "source": "6D38:0AA1"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 4,
+        "xy": [
+          320,
+          253
+        ],
+        "flags": 0,
+        "source": "6D38:0AC0"
+      }
+    ],
+    "35": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 2,
+        "xy": [
+          319,
+          223
+        ],
+        "flags": 0,
+        "source": "6D38:0AEB"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 2,
+        "xy": [
+          321,
+          259
+        ],
+        "flags": 0,
+        "source": "6D38:0B0A"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e4",
+        "frame": 3,
+        "xy": [
+          305,
+          258
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "36": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          247,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:086F"
+      }
+    ],
+    "37": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          246,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "38": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          247,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "39": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          246,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "40": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          247,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "41": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          246,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "42": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          247,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "43": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          245,
+          287
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "44": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          244,
+          287
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "45": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          245,
+          287
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "46": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          245,
+          287
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "47": [
+      {
+        "kind": "sprite",
+        "table": "0x45ec",
+        "frame": 0,
+        "xy": [
+          210,
+          270
+        ],
+        "flags": 0,
+        "source": "6D38:0CE5"
+      }
+    ],
+    "48": [
+      {
+        "kind": "sprite",
+        "table": "0x45ec",
+        "frame": 1,
+        "xy": [
+          210,
+          263
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "49": [
+      {
+        "kind": "sprite",
+        "table": "0x45ec",
+        "frame": 2,
+        "xy": [
+          243,
+          271
+        ],
+        "flags": 0,
+        "source": "6D38:0B78"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 3,
+        "xy": [
+          195,
+          211
+        ],
+        "flags": 0,
+        "source": "6D38:0B97"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45ec",
+        "frame": 3,
+        "xy": [
+          206,
+          237
+        ],
+        "flags": 0,
+        "source": "6D38:0BB6"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45ec",
+        "frame": 4,
+        "xy": [
+          270,
+          229
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "50": [
+      {
+        "kind": "sprite",
+        "table": "0x45ec",
+        "frame": 2,
+        "xy": [
+          243,
+          271
+        ],
+        "flags": 0,
+        "source": "6D38:0BE1"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 3,
+        "xy": [
+          195,
+          211
+        ],
+        "flags": 0,
+        "source": "6D38:0C00"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45ec",
+        "frame": 3,
+        "xy": [
+          216,
+          267
+        ],
+        "flags": 0,
+        "source": "6D38:0C1F"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45ec",
+        "frame": 4,
+        "xy": [
+          277,
+          256
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "51": [
+      {
+        "kind": "sprite",
+        "table": "0x45ec",
+        "frame": 2,
+        "xy": [
+          243,
+          271
+        ],
+        "flags": 0,
+        "source": "6D38:0C58"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 3,
+        "xy": [
+          195,
+          211
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "52": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          247,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:086F"
+      }
+    ],
+    "53": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          246,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "54": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          247,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "55": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          246,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "56": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          247,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "57": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          246,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "58": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 0,
+        "xy": [
+          247,
+          301
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "59": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          245,
+          287
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "60": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          244,
+          287
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "61": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          245,
+          287
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "62": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 1,
+        "xy": [
+          244,
+          287
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "63": [
+      {
+        "kind": "sprite",
+        "table": "0x45ec",
+        "frame": 0,
+        "xy": [
+          196,
+          240
+        ],
+        "flags": 0,
+        "source": "6D38:0CE5"
+      }
+    ],
+    "64": [
+      {
+        "kind": "sprite",
+        "table": "0x45ec",
+        "frame": 1,
+        "xy": [
+          193,
+          204
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ],
+    "65": [
+      {
+        "kind": "sprite",
+        "table": "0x45e8",
+        "frame": 3,
+        "xy": [
+          195,
+          210
+        ],
+        "flags": 0,
+        "source": "6D38:0D32"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x45ec",
+        "frame": 2,
+        "xy": [
+          251,
+          248
+        ],
+        "flags": 0,
+        "source": "6D38:084B"
+      }
+    ]
+  },
+  "sounds": {
+    "2": 3044,
+    "13": 3017,
+    "17": 3044,
+    "28": 3017,
+    "31": 3009,
+    "34": 3009,
+    "36": 3044,
+    "47": 3017,
+    "52": 3044,
+    "63": 3017
+  },
+  "variants": [
+    {
+      "start": 36,
+      "count": 16,
+      "resource": "HAND.BMP",
+      "rectangle": [
+        192,
+        207,
+        112,
+        119
+      ]
+    },
+    {
+      "start": 52,
+      "count": 14,
+      "resource": "WORM.BMP",
+      "rectangle": [
+        192,
+        204,
+        112,
+        124
+      ]
+    },
+    {
+      "start": 2,
+      "count": 15,
+      "resource": "GOPHER.BMP",
+      "rectangle": [
+        296,
+        203,
+        168,
+        137
+      ]
+    },
+    {
+      "start": 17,
+      "count": 19,
+      "resource": "MOLE.BMP",
+      "rectangle": [
+        296,
+        215,
+        144,
+        122
+      ]
+    }
+  ],
+  "groups": [
+    "Cake Walk:",
+    "All Brawn, No Brains:",
+    "Really, Really Hard:",
+    "Looney Bin:"
+  ],
+  "font": "SYS12.FNT",
+  "text_boxes": {
+    "group": [
+      255,
+      123,
+      117,
+      38
+    ],
+    "title": [
+      254,
+      161,
+      119,
+      49
+    ],
+    "date": [
+      254,
+      210,
+      120,
+      18
+    ]
+  },
+  "animation_timer": 12,
+  "initial_timer": 240,
+  "pit_divisor": 5041,
+  "pit_frequency_hz": 1193182,
+  "timer_evidence": "1EA3:3F8A called with13; channel0 divisor65535/13; IRQ1EA3:403E decrements DS34BF. CAKE11_COMPLETE_MAIN_DS_4EA3.BIN and home_editor_20261111/native/state_command_007.bin both confirm DS34C1=5041,DS34C3=13.",
+  "note": "Timer-derived intervals are independent of simulation goal ticks; OS/render scheduling and transition-wipe timing are not cycle-certified."
+}

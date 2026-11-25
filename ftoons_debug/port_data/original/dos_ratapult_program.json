@@ -1,0 +1,925 @@
+{
+  "schema": 1,
+  "source": "TOONS.EXE overlay754B, file offset439984",
+  "sha256": "cc37575f7bf1f36ac1b2083f82095930fc2d132881f9b619de46452210c30fc1",
+  "tables": {
+    "0x4640": "TN_PL_CN.BMP",
+    "0x463c": "TN_UDARW.BMP",
+    "0x4638": "TN_BTTN.BMP"
+  },
+  "commands": {
+    "0": [
+      {
+        "kind": "rect",
+        "xywh": [
+          245,
+          80,
+          146,
+          150
+        ],
+        "color": 12,
+        "source": "754B:06CA"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          234,
+          117,
+          11,
+          99
+        ],
+        "color": 12,
+        "source": "754B:06E2"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          391,
+          88,
+          8,
+          142
+        ],
+        "color": 12,
+        "source": "754B:06FA"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          399,
+          115,
+          11,
+          115
+        ],
+        "color": 12,
+        "source": "754B:0712"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          398,
+          92,
+          3,
+          24
+        ],
+        "color": 12,
+        "source": "754B:072A"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          275,
+          78,
+          108,
+          3
+        ],
+        "color": 12,
+        "source": "754B:0742"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          410,
+          115,
+          410,
+          228
+        ],
+        "color": 12,
+        "source": "754B:075A"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 0,
+        "xy": [
+          229,
+          79
+        ],
+        "flags": 0,
+        "source": "754B:0778"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 1,
+        "xy": [
+          229,
+          214
+        ],
+        "flags": 0,
+        "source": "754B:0797"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 2,
+        "xy": [
+          261,
+          226
+        ],
+        "flags": 0,
+        "source": "754B:07B6"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 2,
+        "xy": [
+          300,
+          227
+        ],
+        "flags": 0,
+        "source": "754B:07D5"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 2,
+        "xy": [
+          339,
+          228
+        ],
+        "flags": 0,
+        "source": "754B:07F4"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 2,
+        "xy": [
+          365,
+          229
+        ],
+        "flags": 0,
+        "source": "754B:0813"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 3,
+        "xy": [
+          404,
+          229
+        ],
+        "flags": 0,
+        "source": "754B:0832"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 9,
+        "xy": [
+          243,
+          72
+        ],
+        "flags": 0,
+        "source": "754B:0851"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 7,
+        "xy": [
+          383,
+          72
+        ],
+        "flags": 0,
+        "source": "754B:0870"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 6,
+        "xy": [
+          399,
+          73
+        ],
+        "flags": 0,
+        "source": "754B:088F"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 5,
+        "xy": [
+          401,
+          92
+        ],
+        "flags": 0,
+        "source": "754B:08AE"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          275,
+          73,
+          382,
+          73
+        ],
+        "color": 9,
+        "source": "754B:08CE"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          415,
+          114,
+          415,
+          228
+        ],
+        "color": 9,
+        "source": "754B:08E6"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          230,
+          117,
+          230,
+          213
+        ],
+        "color": 1,
+        "source": "754B:0906"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          231,
+          213,
+          231,
+          153
+        ],
+        "color": 1,
+        "source": "754B:091E"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          231,
+          117,
+          231,
+          152
+        ],
+        "color": 5,
+        "source": "754B:093E"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          232,
+          213,
+          232,
+          177
+        ],
+        "color": 5,
+        "source": "754B:0956"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          232,
+          117,
+          232,
+          177
+        ],
+        "color": 11,
+        "source": "754B:0976"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          233,
+          117,
+          233,
+          213
+        ],
+        "color": 11,
+        "source": "754B:098E"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          234,
+          117,
+          234,
+          188
+        ],
+        "color": 11,
+        "source": "754B:09A6"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          411,
+          115,
+          4,
+          114
+        ],
+        "color": 4,
+        "source": "754B:09C6"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          275,
+          74,
+          108,
+          4
+        ],
+        "color": 4,
+        "source": "754B:09DE"
+      }
+    ],
+    "1": [
+      {
+        "kind": "rect",
+        "xywh": [
+          396,
+          141,
+          8,
+          10
+        ],
+        "color": 12,
+        "source": "754B:0A01"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x463c",
+        "frame": 0,
+        "xy": [
+          367,
+          110
+        ],
+        "flags": 0,
+        "source": "754B:0A1F"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x463c",
+        "frame": 1,
+        "xy": [
+          363,
+          123
+        ],
+        "flags": 0,
+        "source": "754B:0A3E"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x463c",
+        "frame": 2,
+        "xy": [
+          377,
+          145
+        ],
+        "flags": 0,
+        "source": "754B:1172"
+      }
+    ],
+    "2": [
+      {
+        "kind": "rect",
+        "xywh": [
+          384,
+          110,
+          25,
+          54
+        ],
+        "color": 12,
+        "source": "754B:0A78"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x463c",
+        "frame": 0,
+        "xy": [
+          363,
+          114
+        ],
+        "flags": 0,
+        "source": "754B:0A96"
+      }
+    ],
+    "3": [
+      {
+        "kind": "sprite",
+        "table": "0x463c",
+        "frame": 4,
+        "xy": [
+          371,
+          171
+        ],
+        "flags": 0,
+        "source": "754B:0AC1"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x463c",
+        "frame": 5,
+        "xy": [
+          377,
+          175
+        ],
+        "flags": 0,
+        "source": "754B:0AE0"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x463c",
+        "frame": 6,
+        "xy": [
+          367,
+          196
+        ],
+        "flags": 0,
+        "source": "754B:1172"
+      }
+    ],
+    "4": [
+      {
+        "kind": "rect",
+        "xywh": [
+          369,
+          171,
+          37,
+          44
+        ],
+        "color": 12,
+        "source": "754B:0B1A"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x463c",
+        "frame": 4,
+        "xy": [
+          367,
+          175
+        ],
+        "flags": 0,
+        "source": "754B:0B39"
+      }
+    ],
+    "5": [
+      {
+        "kind": "rect",
+        "xywh": [
+          263,
+          120,
+          90,
+          56
+        ],
+        "color": 10,
+        "source": "754B:0B65"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 10,
+        "xy": [
+          257,
+          114
+        ],
+        "flags": 0,
+        "source": "754B:0B84"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 11,
+        "xy": [
+          257,
+          165
+        ],
+        "flags": 0,
+        "source": "754B:0BA3"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 12,
+        "xy": [
+          279,
+          176
+        ],
+        "flags": 0,
+        "source": "754B:0BC2"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 12,
+        "xy": [
+          301,
+          176
+        ],
+        "flags": 0,
+        "source": "754B:0BE1"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 13,
+        "xy": [
+          347,
+          173
+        ],
+        "flags": 0,
+        "source": "754B:0C00"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4640",
+        "frame": 14,
+        "xy": [
+          350,
+          114
+        ],
+        "flags": 0,
+        "source": "754B:0C1F"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          353,
+          120,
+          353,
+          172
+        ],
+        "color": 5,
+        "source": "754B:0C3F"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          354,
+          172,
+          354,
+          120
+        ],
+        "color": 11,
+        "source": "754B:0C5F"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          355,
+          172,
+          355,
+          120
+        ],
+        "color": 11,
+        "source": "754B:0C77"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          356,
+          120,
+          356,
+          158
+        ],
+        "color": 11,
+        "source": "754B:0C8F"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          278,
+          119,
+          352,
+          119
+        ],
+        "color": 1,
+        "source": "754B:0CAF"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          261,
+          142,
+          261,
+          164
+        ],
+        "color": 1,
+        "source": "754B:0CC7"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          262,
+          141,
+          262,
+          164
+        ],
+        "color": 3,
+        "source": "754B:0CE7"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          278,
+          118,
+          352,
+          118
+        ],
+        "color": 5,
+        "source": "754B:0D07"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          278,
+          115,
+          72,
+          3
+        ],
+        "color": 11,
+        "source": "754B:0D27"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          258,
+          142,
+          3,
+          23
+        ],
+        "color": 4,
+        "source": "754B:09DE"
+      }
+    ],
+    "6": [
+      {
+        "kind": "rect",
+        "xywh": [
+          322,
+          220,
+          11,
+          7
+        ],
+        "color": 12,
+        "source": "754B:0D61"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          267,
+          185,
+          52,
+          38
+        ],
+        "color": 14,
+        "source": "754B:0D81"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4638",
+        "frame": 0,
+        "xy": [
+          248,
+          185
+        ],
+        "flags": 0,
+        "source": "754B:0D9F"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4638",
+        "frame": 1,
+        "xy": [
+          319,
+          185
+        ],
+        "flags": 0,
+        "source": "754B:0DBE"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4638",
+        "frame": 2,
+        "xy": [
+          319,
+          185
+        ],
+        "flags": 0,
+        "source": "754B:0DDD"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          268,
+          185,
+          319,
+          185
+        ],
+        "color": 1,
+        "source": "754B:0E05"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          267,
+          223,
+          318,
+          223
+        ],
+        "color": 1,
+        "source": "754B:0E1D"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          269,
+          184,
+          321,
+          184
+        ],
+        "color": 2,
+        "source": "754B:0E3D"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          268,
+          224,
+          319,
+          224
+        ],
+        "color": 2,
+        "source": "754B:0E55"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          268,
+          222,
+          319,
+          222
+        ],
+        "color": 9,
+        "source": "754B:0E75"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          267,
+          186,
+          318,
+          186
+        ],
+        "color": 9,
+        "source": "754B:0E8D"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4638",
+        "frame": 10,
+        "xy": [
+          262,
+          189
+        ],
+        "flags": 0,
+        "source": "754B:1172"
+      }
+    ],
+    "7": [
+      {
+        "kind": "rect",
+        "xywh": [
+          248,
+          184,
+          36,
+          42
+        ],
+        "color": 12,
+        "source": "754B:0EC7"
+      },
+      {
+        "kind": "rect",
+        "xywh": [
+          277,
+          186,
+          53,
+          37
+        ],
+        "color": 14,
+        "source": "754B:0EE7"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4638",
+        "frame": 0,
+        "xy": [
+          257,
+          185
+        ],
+        "flags": 0,
+        "source": "754B:0F05"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4638",
+        "frame": 1,
+        "xy": [
+          328,
+          185
+        ],
+        "flags": 0,
+        "source": "754B:0F24"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          276,
+          185,
+          328,
+          185
+        ],
+        "color": 1,
+        "source": "754B:0F44"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          277,
+          223,
+          328,
+          223
+        ],
+        "color": 1,
+        "source": "754B:0F5C"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          277,
+          222,
+          327,
+          222
+        ],
+        "color": 9,
+        "source": "754B:0F7C"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          277,
+          186,
+          327,
+          186
+        ],
+        "color": 9,
+        "source": "754B:0F94"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          278,
+          184,
+          330,
+          184
+        ],
+        "color": 11,
+        "source": "754B:0FB4"
+      },
+      {
+        "kind": "line",
+        "xywh": [
+          282,
+          224,
+          325,
+          224
+        ],
+        "color": 11,
+        "source": "754B:0FCC"
+      },
+      {
+        "kind": "sprite",
+        "table": "0x4638",
+        "frame": 10,
+        "xy": [
+          271,
+          189
+        ],
+        "flags": 0,
+        "source": "754B:0FEB"
+      }
+    ]
+  },
+  "label": {
+    "text": "boulders",
+    "font": "SSD14_38.FNT",
+    "xy": [
+      252,
+      77
+    ]
+  },
+  "number": {
+    "font": "SSD14_44.FNT",
+    "box": [
+      262,
+      119,
+      93,
+      58
+    ]
+  }
+}
